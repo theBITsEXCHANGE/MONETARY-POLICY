@@ -17191,7 +17191,7 @@
 
 .,'.',.\/*nonce-.-cnonce*_*calculations-computane*\/.,'.',.
 
-.,'.',.\/*etcetera-a-for**secetera-a-for*,-,*triaging**BIT(s).BYTE(s)**every:;'*-all-*';-calendar-day-dating-;'past,present and future-future'**fiscal-barter-sue*\/.,'.',.
+.,'.',.\/*etcetera-a-for**secetera-a-for**,-,**triaging**BIT(s).BYTE(s)**every:;'*-all-*';-calendar-day-dating-;'past,present and future-future'**fiscal-barter-sue*\/.,'.',.
 
 .,'.',.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
 
