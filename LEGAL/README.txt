@@ -1,7 +1,7 @@
 ©\/,:,
     
 
-   \/*LEGAL-ENTITE*\/
+   \/*LEGAL-ENTERPRISE-PARTNERSHIP*\/
 
 
 '\/,
@@ -9,7 +9,7 @@
 
 \/CLM ~ Concepts Learning Machine,'LLC.'\/
 
-\/BITs EXCHANGE ,''non-profit' Corporation'\/
+\/BITs EXCHANGE,''non-profit' Corporation'\/
 
 
 \/*etcetera-so-for**secetera-so-for*\/
