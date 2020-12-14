@@ -1,10 +1,8 @@
 ©\/,:,
     
 
-   \/*LEGAL-ENTERPRISE-PARTNERSHIP*\/
+   '\/*LEGAL-ENTERPRISE-PARTNERSHIP*\/,
 
-
-'\/,
 
 
 \/CLM ~ Concepts Learning Machine,'LLC.'\/
@@ -12,7 +10,7 @@
 \/BITs EXCHANGE,''non-profit' Corporation'\/
 
 
-\/*etcetera-so-for**secetera-so-for*\/
+,:\/*etcetera-A-for**secetera-A-for*\/,:
 
 
 .,'.',.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
