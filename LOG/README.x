@@ -17187,7 +17187,7 @@
 
 ,'.\/*z0z0z0z*\/,':,':
 
-,'.\/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computates-total-*\/:
+,'.\/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\/:
 
 ,'.\/*nonce-.-cnonce*_*calculations-computane*\/:
 
