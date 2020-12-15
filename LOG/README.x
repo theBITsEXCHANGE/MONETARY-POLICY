@@ -3,13 +3,13 @@
 ,'.\/,',
 
 
-,'.\/*nonce-.-cnonce*_*-calculation-calculator-computer-:.:-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total*\/:
+,'.\/*nonce-.-cnonce*_*-calculation-calculator-computer-:.:-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total*\/,:
 
-,'.\/*esquire-the-fordacation*\/:
+,'.\/*esquire-the-fordacation*\/,:
 
-,'.\/*time-dating-calender*\/:
+,'.\/*time-dating-calender*\/,:
 
-,'.\/*time-frames-timer*\/:
+,'.\/*time-frames-timer*\/,:
 
 ,'.\/*LOG*\/,':,'.
 
