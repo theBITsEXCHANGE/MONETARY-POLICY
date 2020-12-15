@@ -17,7 +17,7 @@
 
 -\1987\:
 
-\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;: U.S. government\/:
+,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;: U.S. government\/:
 
 -\z1987z2019z\:
 
