@@ -1,8 +1,4 @@
-©\/,-:-,
-
-
-,'.\/:
-    
+©\/,::,:
 
    :\/*LEGAL-ENTERPRISE-POLICY*\/:
 
@@ -16,4 +12,4 @@
 :\/*etcetera-A-for**secetera-A-for*\/:
 
 
-,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
+,::.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
