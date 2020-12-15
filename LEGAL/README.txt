@@ -1,7 +1,7 @@
 ©\/,:,
     
 
-   '\/*LEGAL-ENTERPRISE-PARTNERSHIP*\/,
+   ':\/*LEGAL-ENTERPRISE-PARTNERSHIP*\/:,
 
 
 
