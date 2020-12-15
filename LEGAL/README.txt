@@ -1,7 +1,7 @@
-©\/,:,':
+©\/,':,':
     
 
-   ':\/*LEGAL-ENTERPRISE-PARTNERSHIP*\/:,
+   :\/*LEGAL-ENTERPRISE-PARTNERSHIP*\/:
 
 
 
@@ -13,4 +13,4 @@
 ,:\/*etcetera-A-for**secetera-A-for*\/,:
 
 
-,'.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
+,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
