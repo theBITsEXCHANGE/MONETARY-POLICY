@@ -31,7 +31,7 @@
 
 -\2020z11z04\:
 
-,\_BITs__EXCHANGE_;:;_EIN_.NUMBER-REGISTRATION\.
+,\'BITs EXCHANGE';:;'_EIN_'-REGISTRATION\.
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
