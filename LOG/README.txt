@@ -3690,10 +3690,6 @@
 
 ,\nonce-.-cnonce_calculations\;
 
--\2023z04z31\:
-
-,\nonce-.-cnonce_calculations\;
-
 -\2023z05z01\:
 
 ,\nonce-.-cnonce_calculations\;
