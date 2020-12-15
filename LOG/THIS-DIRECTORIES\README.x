@@ -1,4 +1,4 @@
-©\/,::,:
+©\/,::,
 
 
 ,::.\/*nonce-.-cnonce*_*-calculation-calculator-computer-:.:-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total*\/,:
