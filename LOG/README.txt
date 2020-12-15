@@ -8,7 +8,7 @@
 
 ,'.\/*time-dating-calender*\/,',
 
-.,'.',.\/*time-frames-timer*\/.,'.',.
+,'.\/*time-frames-timer*\/,',
 
 .,'.',.\/*LOG*\/.,'.',.
 
