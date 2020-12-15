@@ -1,4 +1,4 @@
-©\/,::,:
+©\/,::,
 
 
      :\/*WORLD-ENTITE-ENTREPRENEUR*\/:
