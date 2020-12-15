@@ -1,6 +1,6 @@
 ©\/,-:-,
 
-,'.\/:
+,'.\/,:
 
 
 ,'.\/*nonce-.-cnonce*_*-calculation-calculator-computer-:.:-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total*\/,:
@@ -17187,7 +17187,7 @@
 
 
 
-,'.\/*z0z0z0z*\/:
+,'.\/*z0z0z0z*\/:,
 
 ,'.\/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\/,:
 
