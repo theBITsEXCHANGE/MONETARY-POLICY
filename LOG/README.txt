@@ -14,7 +14,7 @@
 
 ,'.\/*z0z0z0z*\/,',
 
-,'.\/*nonce-.-cnonce*_*-calculation-computave-compute-computer-*\/.,'.',.
+,'.\/*nonce-.-cnonce*_*-calculation-computave-compute-computer-*\/,',
 
 -\1987\:
 
