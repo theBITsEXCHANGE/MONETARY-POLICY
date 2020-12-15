@@ -42,7 +42,7 @@
 
 ,\nonce-.-cnonce_calculations\;
 ,\_bitnodes.io_.site/invalidated,;,from;congruent-state;,;bouck coging 'internet' service provider\./.
-,\forensicly-proven;:;'cryptocurrency',;,is-illegal-store;,;set-network-value-to-zero\./.
+,\forensicly-proven;:;'cryptocurrency',:,illegal-store;,;set-network-value-to-zero\./.
 
 -\2020z11z07\:
 
@@ -51,8 +51,8 @@
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-,\forensicly-proven;:;'atomic-clock':;:'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time\,/;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time\financial-soctor\,/.
-,\"TIME-CLOCK NOT-A 'MEASURE' _OF_ TIME-UNITS _and__or_ TIME"!
+,\forensicly-proven;:;'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time\,/;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time\financial-soctor\,/.
+'\/"'TIME-CLOCK' IS-NOT-A 'MEASURE' ; 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"\/,
 
 -\2020z11z09\:
 
