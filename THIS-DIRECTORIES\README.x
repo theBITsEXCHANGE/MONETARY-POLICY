@@ -5,8 +5,8 @@
 
 
 
-*etcetera-A-for**secetera-A-for*
+*etcetera-A-for**:,:**secetera-A-for*
 
 
 
-,::.\/©\/,:'THOMAS CATALANO',\/©\/ <<>> \/©
+,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©
