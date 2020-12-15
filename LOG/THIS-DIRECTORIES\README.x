@@ -17187,10 +17187,10 @@
 
 ,::.\/*z0z0z0z*\/::,
 
-,::.\/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\/,:
+,::.\/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\/:,:
 
-,::.\/*nonce-.-cnonce*_*calculations-.-computanes-total-*\/,:
+,::.\/*nonce-.-cnonce*_*calculations-.-computanes-total-*\/:,:
 
-,::.\/*etcetera-a-for**secetera-a-for**,::,:**triaging**BIT(s).BYTE(s)**'every_before-after'*-all-*';-calendar-time-dating,:,'past,flaged and futures-future'**-fiscal-barter-*\/,:
+,::.\/*etcetera-a-for**secetera-a-for**,::,:**triaging**BIT(s).BYTE(s)**'every_before-after'*-all-*';-calendar-time-dating,:,'past,flaged and futures-future'**-fiscal-barter-*\/:,:
 ,::.\/©\/,'THOMAS CATALANO,'\/©\/ <<>> \/©
 
