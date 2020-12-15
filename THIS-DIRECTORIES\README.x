@@ -1,7 +1,4 @@
-©\/,-:-,
-
-,'.\/:
-
+©\/,::,:
 
 
      :\/*WORLD-ENTITE-ENTREPRENEUR*\/:
@@ -12,4 +9,4 @@
 
 
 
-,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
+,::.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
