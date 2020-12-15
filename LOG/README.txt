@@ -6894,14 +6894,6 @@
 
 ,\nonce-.-cnonce_calculations\;
 
--\2025z06z28\:
-
-,\nonce-.-cnonce_calculations\;
-
--\2025z06z29\:
-
-,\nonce-.-cnonce_calculations\;
-
 -\2025z06z30\:
 
 ,\nonce-.-cnonce_calculations\;
@@ -6966,7 +6958,7 @@
 
 ,\nonce-.-cnonce_calculations\;
 
--2025z07z16\:
+-\2025z07z16\:
 
 ,\nonce-.-cnonce_calculations\;
 
