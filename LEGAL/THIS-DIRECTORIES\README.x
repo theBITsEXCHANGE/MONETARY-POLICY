@@ -1,6 +1,6 @@
-©\-/,::,
+©\-/,:z:,
 
-   ,::.\-/*-LEGAL-ENTERPRISE-POLICY-POLICING-*:z:
+   ,:z:.\-/*-LEGAL-ENTERPRISE-POLICY-POLICING-*:z:
 
 
 
@@ -12,4 +12,4 @@
 :*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*:z:
 
 
-,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
+,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
