@@ -17295,8 +17295,8 @@
 
 ,::.\-/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\/:,:
 
-,::.\-/*nonce-.-cnonce*_*calculations-.-computanes-total-*\/:,:
+,::.\-/*nonce-.-cnonce*_*calculations-.-computanes-total-*\-/:,:
 
-,::.\-/-*etcetera-solale-phife*-*secetera-solale-phife*-:*:,:*:*:-triaging-:*:-*BIT(s).BYTE(s)*-:*:-'every_before-after'-:*:-all-,*:-calendar-time-dating-:*:,:*-past,flaged and futures-future-:*-*:-fiscal-barter-accountor-:*\-/:,:
-,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©
+,::.\-/-*etcetera-solale-phife*:z:*secetera-solale-phife*-:*:,:z:*:-triaging-:z:-*BIT(s).BYTE(s)*-:z:-'every_before-after'-:*:-all-,*:-calendar-time-dating-:*:z:*-past,flaged and futures-future-:*/-\*:-fiscal-barter-accountor-:*\-/:,:
+,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<>> \-/©
 
