@@ -6,7 +6,7 @@
 
 -:*CLM ~ Concepts Learning Machine*-:z:-'Limited Liability Company(LLC)'-:*-:,:
 
--:*BITs EXCHANGE*-:z:-'non-profit'-:*:,:*:-'Corporation'-:*:,:
+-:*BITs EXCHANGE*-:z:-'non-profit'-:*:z:*:-'Corporation'-:*:,:
 
 
 -:*-etcetera-solale-phife-*-:*:z:*:-*-secetera-solale-phife-*:,:
