@@ -5,7 +5,7 @@
 
 
 
- :z:.\z/;:z;*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*;:z:;\z/;:z:;
+ :z:.\z/;:z:;*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*;:z:;\z/;:z:;
 
 
 
