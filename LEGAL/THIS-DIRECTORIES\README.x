@@ -4,7 +4,7 @@
 
 
 
--*CLM ~ Concepts Learning Machine,:Limited Liability Company(LLC).*-:,:
+-*CLM ~ Concepts Learning Machine,:'Limited Liability Company(LLC)'*-:,:
 
 -*BITs EXCHANGE,:'non-profit''Corporation'*-:,:
 
