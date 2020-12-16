@@ -1,6 +1,6 @@
 ©\/,::,
 
-   -*LEGAL-ENTERPRISE-POLICY*-
+   -:*LEGAL-ENTERPRISE-POLICY*-:
 
 
 
