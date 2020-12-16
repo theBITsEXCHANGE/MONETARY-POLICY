@@ -1,23 +1,23 @@
-©;;::.\/;::;*'THOMAS CATALANO'*;::;\/;::;;
+©>;;;::;*'THOMAS CATALANO'*;::;;;
 
 
-;::.\/;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;\/;::;
+;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;
 
-;::.\/;::;*-esquire-so-of-*;::;\/;::;
+;::;*-esquire-so-fort-*;::;
 
-;::.\/;::;*-time-dating-calender-*;::;\/;::;
+;::;*-time-dating-calender-*;::;
 
-;::.\/;::;*-time-frames-timer-*;::;\/;::;
+;::;*-time-frames-timer-*;::;
 
-;::.\/;::;*-LOG-*;::;\/;::;
+;::;*-LOG-*;::;
 
-;::.\/;::;*z0z0z0z*;::;\/;::;
+;::;*z0z0z0z*;::;
 
-;::.\/;::;*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*;::;\/;::;
+;::;*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*;::;
 
 -\1987\:
 
-;::.\;::;*nonce-.-cnonce_calculations*\/::\/"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'"*;::;\/;::;
+;::.\;::;*nonce-.-cnonce_calculations*\/::\/"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'"*;::;
 
 -\z1987z2019z\:
 
@@ -25,7 +25,7 @@
 
 -\2006\:
 
-;::.\;::;*"my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store"*;::;\/;::;
+;::.\;::;*"my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store"*;::;
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
@@ -50,8 +50,8 @@
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-;::.\;::;*"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*;::;\/;::;
-;::.\;::;*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*;::;\/;::;
+;::.\;::;*"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*;::;
+;::.\;::;*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*;::;
 
 -\2020z11z09\:
 
@@ -17291,14 +17291,14 @@
 
 
 
-;;::.\/;::;*z0z0z0z*;::;\/;::;;
+;;;::;*z0z0z0z*;::;;;
 
-;::.\/;::;*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*;::;\/;::;
+;::;*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*;::;
 
-;::.\/;::;*nonce-.-cnonce*_*calculations-.-computanes-total-*;::;\/;::;
+;::;*nonce-.-cnonce*_*calculations-.-computanes-total-*;::;\/;::;
 
-;::.\/;::;*-etcetera-so-fort-*::*-secetera-so-fort-*::*-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*;::;\/;::;
+;::;*-etcetera-so-fort-*::*-secetera-so-fort-*::*-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*;::;
 
 
-;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+;;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;;<©
 
