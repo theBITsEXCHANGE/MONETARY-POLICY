@@ -1,23 +1,23 @@
 ©\-/,::,
 
 
-,::.\/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total-*-\/:,:
+,::.\-/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total-*-\-/:,:
 
-,::.\/-*-esquire-solale-phife-*-\/:,:
+,::.\-/-*-esquire-solale-phife-*-\-/:,:
 
-,::.\/-*-time-dating-calender-*-\/:,:
+,::.\-/-*-time-dating-calender-*-\-/:,:
 
-,::.\/-*-time-frames-timer-*-\/:,:
+,::.\-/-*-time-frames-timer-*-\-/:,:
 
-,::.\/-*LOG*-\/:,:
+,::.\-/-*LOG*-\-/:,:
 
-,::.\/-*z0z0z0z*-\/:,:
+,::.\-/-*z0z0z0z*-\-/:,:
 
-,::.\/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*-\/:,:
+,::.\-/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*-\/:,:
 
 -\1987\:
 
-,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;: U.S. government\/:
+,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'\-/:,:
 
 -\z1987z2019z\:
 
@@ -25,7 +25,7 @@
 
 -\2006\:
 
-,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing,;providence-staturing;:;fiscal.system-state-store\/:
+,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing:,:fiscal.system-state-store\-/:,:
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
