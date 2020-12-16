@@ -1,7 +1,7 @@
 ©\-/,::,
 
 
-     ,::.\-/*-WORLD-POWER-ENTITE-ENTREPRENEUR-*-:
+     ,::.\-/-*-WORLD-POWER-ENTITE-ENTREPRENEUR-*-:
 
 
 
