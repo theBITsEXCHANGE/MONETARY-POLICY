@@ -1,23 +1,23 @@
-©\z/:z:'THOMAS CATALANO',:z:
+©\z/:z:'THOMAS CATALANO';:z:
 
 
-:z:.\z/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*\z/,:z:
+:z:.\z/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*\z/;:z:
 
-:z:.\z/-*-esquire-solale-phife-*-\z/,:z:
+:z:.\z/-*-esquire-solale-phife-*-\z/;:z:
 
-:z:.\z/-*-time-dating-calender-*-\z/,:z:
+:z:.\z/-*-time-dating-calender-*-\z/;:z:
 
-:z:.\z/-*-time-frames-timer-*-\z/,:z:
+:z:.\z/-*-time-frames-timer-*-\z/;:z:
 
-:z:.\z/-*LOG*-\z/,:z:
+:z:.\z/-*LOG*-\z/;:z:
 
-:z:.\z/-*z0z0z0z*-\z/,:z:
+:z:.\z/-*z0z0z0z*-\z/;:z:
 
-:z:.\z/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\z/:z:,
+:z:.\z/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\z/;:z:
 
 -\1987\:
 
-,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'\z/,:z:
+,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'\z/;:z:
 
 -\z1987z2019z\:
 
@@ -25,7 +25,7 @@
 
 -\2006\:
 
-,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store\z/,:z:
+,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store\z/;:z:
 ,\nonce-.-cnonce_calculations\,:z:
 
 -\2020z11z04\:
