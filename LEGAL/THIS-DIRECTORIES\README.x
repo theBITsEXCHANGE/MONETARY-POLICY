@@ -1,15 +1,15 @@
 ©\-/,::,
 
-   ,::.\-/*-LEGAL-ENTERPRISE-POLICY-PATROL-*:
+   ,::.\-/*-LEGAL-ENTERPRISE-POLICY-POLICING-*:z:
 
 
 
- :*CLM ~ Concepts Learning Machine*:z:*'Limited Liability Company(LLC)'*:,:
+ :*'_CLM ~ Concepts Learning Machine_'*:z:*'Limited Liability Company(LLC)'*:z:
 
-:*BITs EXCHANGE*:z:'non-profit':*:z:*:*'Corporation'*:,:
+:*'_BITs EXCHANGE_'*:z:'non-profit':*:z:*'Corporation'*:z:
 
 
-:*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*:,:
+:*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*:z:
 
 
 ,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
