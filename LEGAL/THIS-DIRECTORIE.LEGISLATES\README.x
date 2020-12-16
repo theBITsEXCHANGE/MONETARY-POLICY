@@ -1,15 +1,15 @@
-©;;::.\z/;::;*'THOMAS CATALANO'*;::;\z/;::;;
+©;;::.\/;::;*'THOMAS CATALANO'*;::;\/;::;;
 
-   ;;::.\z/;::;*-LEGAL-ENTERPRISE-POLICY-POLICING-*;::;\z/;::;;
-
-
-
- ;::.\z/;::;*'CLM ~ Concepts Learning Machine'*::*'Limited Liability Company(LLC)'*;::;\z/;::;
-
-;::.\z/;::;*'BITs EXCHANGE'*::*'non-profit'*::*'Corporation'*;::;\z/;::;
+   ;;::.\/;::;*-LEGAL-ENTERPRISE-POLICY-POLICING-*;::;\/;::;;
 
 
-;::.\z/;::;*-etcetera-so-for-*::*-secetera-so-for-*;::;\z/;::;
+
+ ;::.\/;::;*'CLM ~ Concepts Learning Machine'*::*'Limited Liability Company(LLC)'*;::;\/;::;
+
+;::.\/;::;*'BITs EXCHANGE'*::*'non-profit'*::*'Corporation'*;::;\/;::;
 
 
-;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+;::.\/;::;*-etcetera-so-for-*::*-secetera-so-for-*;::;\/;::;
+
+
+;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
