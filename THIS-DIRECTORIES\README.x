@@ -1,7 +1,7 @@
 ©\-/,:z:,
 
 
-     ,::.\-/*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*:z:
+     ,:z:.\-/*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*:z:
 
 
 
@@ -9,4 +9,4 @@
 
 
 
-,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
+,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
