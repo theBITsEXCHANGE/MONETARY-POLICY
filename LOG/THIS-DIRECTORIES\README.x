@@ -1,17 +1,17 @@
 ©\/,::,
 
 
-,::.\/*nonce-.-cnonce*_*-calculation-calculator-computer-:,:-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total*\/:,:
+,::.\/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total-*\/:,:
 
-,::.\/*esquire-solale-phife*\/:,:
+,::.\/-*esquire-solale-phife*-\/:,:
 
-,::.\/*time-dating-calender*\/:,:
+,::.\/-*time-dating-calender*-\/:,:
 
-,::.\/*time-frames-timer*\/:,:
+,::.\/-*time-frames-timer*-\/:,:
 
-,::.\/*LOG*\/:,:
+,::.\/-*LOG*-\/:,:
 
-,::.\/*z0z0z0z*\/:,:
+,::.\/-*z0z0z0z*-\/:,:
 
 ,::.\/*nonce-.-cnonce*_*-calculation-computave-compute-computer-*\/:,:
 
