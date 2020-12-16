@@ -1,23 +1,23 @@
-©\-/,::,
+©\-/,:z:,
 
 
-,::.\-/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total-*\-/:,:
+,:z:.\-/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*\-/:z:
 
-,::.\-/-*-esquire-solale-phife-*-\-/:,:
+,:z:.\-/-*-esquire-solale-phife-*-\-/:z:
 
-,::.\-/-*-time-dating-calender-*-\-/:,:
+,:z:.\-/-*-time-dating-calender-*-\-/:z:
 
-,::.\-/-*-time-frames-timer-*-\-/:,:
+,:z:.\-/-*-time-frames-timer-*-\-/:z:
 
-,::.\-/-*LOG*-\-/:,:
+,:z:.\-/-*LOG*-\-/:z:
 
-,::.\-/-*z0z0z0z*-\/:,:
+,:z:.\-/-*z0z0z0z*-\/:z:
 
-,::.\-/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\-/:,:
+,:z:.\-/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\-/:,:
 
 -\1987\:
 
-,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'\-/:,:
+,\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'\-/:z:
 
 -\z1987z2019z\:
 
@@ -25,7 +25,7 @@
 
 -\2006\:
 
-,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing:,:fiscal.system-state-store\-/:,:
+,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing:,:fiscal.system-state-store\-/:z:
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
@@ -50,7 +50,7 @@
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-,\forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time\,/;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time\financial-soctor\,/.
+,\forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time\,/;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor\z/:z:
 '\/"'TIME-CLOCK' IS-NOT-A 'MEASURE' ,:, 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"\/,
 
 -\2020z11z09\:
