@@ -3,13 +3,13 @@
 
 ;::.\z/;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;\z/;::;
 
-;::.\z/;::;*-esquire-solale-phife-*;::;\z/;::;
+;::.\z/;::;*-esquire-so-of-*;::;\z/;::;
 
 ;::.\z/;::;*-time-dating-calender-*;::;\z/;::;
 
 ;::.\z/;::;*-time-frames-timer-*;::;\z/;::;
 
-;::.\z/;::;*LOG*;::;\z/;::;
+;::.\z/;::;*-LOG-*;::;\z/;::;
 
 ;::.\z/;::;*z0z0z0z*;::;\z/;::;
 
@@ -17,7 +17,7 @@
 
 -\1987\:
 
-,::;\nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government';::;\z/;::;
+;::.\;::;nonce-.-cnonce_calculations\/,\/fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'*;::;\z/;::;
 
 -\z1987z2019z\:
 
@@ -25,12 +25,12 @@
 
 -\2006\:
 
-,\my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store*;::;\z/;::;
-,\nonce-.-cnonce_calculations\;::;
+;::.\;::;*my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store*;::;\z/;::;
+,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
 
-,::;\;::;'BITs EXCHANGE',:,'_EIN_'-REGISTRATION*;::;\z/;::;
+,::;\;::;*'BITs EXCHANGE',:,'_EIN_'-REGISTRATION*;::;\z/;::;
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
@@ -50,8 +50,8 @@
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-,::;\forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time\,/;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor*;:z:;\z/;:z:;
-,::;\;::;*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' ;::; 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*;::;\z/;::;
+;::.\;::;*forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time\,/;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor*;::;\z/;::;
+;::.\;::;*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' ;::; 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*;::;\z/;::;
 
 -\2020z11z09\:
 
