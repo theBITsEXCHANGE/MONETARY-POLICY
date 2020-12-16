@@ -1,12 +1,12 @@
-©;;::.\z/;::;*'THOMAS CATALANO'*;::;\z/;::;;
+©;;::.\/;::;*'THOMAS CATALANO'*;::;\/;::;;
 
 
-     ;;::.\z/;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;\z/;::;;
-
-
-
- ;::.\z/;::;*-etcetera-solale-phife-*::*-secetera-solale-phife-*;::;\z/;::;
+     ;;::.\/;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;\/;::;;
 
 
 
-;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+ ;::.\/;::;*-etcetera-solale-phife-*::*-secetera-solale-phife-*;::;\/;::;
+
+
+
+;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
