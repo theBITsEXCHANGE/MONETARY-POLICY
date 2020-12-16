@@ -3,17 +3,17 @@
 
 :z:.\z/;:z:;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;:z:;\z/;:z:;
 
-:z:.\z/;:z:;*-esquire-solale-phife-*;:z:;\z/;:z:;
+;:z:.\z/;:z:;*-esquire-solale-phife-*;:z:;\z/;:z:;
 
-:z:.\z/;:z:;*-time-dating-calender-*;:z:;\z/;:z:;
+;:z:.\z/;:z:;*-time-dating-calender-*;:z:;\z/;:z:;
 
-:z:.\z/;:z:;*-time-frames-timer-*;:z:;\z/;:z:;
+;:z:.\z/;:z:;*-time-frames-timer-*;:z:;\z/;:z:;
 
-:z:.\z/;:z:;*LOG*;:z:;\z/;:z:;
+;:z:.\z/;:z:;*LOG*;:z:;\z/;:z:;
 
-:z:.\z/;:z:;*z0z0z0z*;:z:;\z/;:z:;
+;:z:.\z/;:z:;*z0z0z0z*;:z:;\z/;:z:;
 
-:z:.\z/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\z/;:z:
+;:z:.\z/;:z:;*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\z/;:z:
 
 -\1987\:
 
@@ -30,7 +30,7 @@
 
 -\2020z11z04\:
 
-,\'BITs EXCHANGE',:,'_EIN_'-REGISTRATION*,:z:
+,\'BITs EXCHANGE',:,'_EIN_'-REGISTRATION*;:z:;\z/;:z:;
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
