@@ -12,4 +12,4 @@
 -:*-etcetera-solale-phife-*-:*:z:*:-*-secetera-solale-phife-*:,:
 
 
-,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©
+,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
