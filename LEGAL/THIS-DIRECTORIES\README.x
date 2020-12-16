@@ -1,6 +1,6 @@
-©\z/,:z:,
+©\z/:z:'THOMAS CATALANO':z:,
 
-   ,:z:.\z/*-LEGAL-ENTERPRISE-POLICY-POLICING-*:z:
+   :z:.\z/*-LEGAL-ENTERPRISE-POLICY-POLICING-*:z:
 
 
 
@@ -12,4 +12,4 @@
 :*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*:z:
 
 
-,:z:.\z/©\z/,:'THOMAS CATALANO,Ph.Doctor',\z/©\z/ <<z>> \z/©
+:z:.\z/©\z/:z:'THOMAS CATALANO,Ph.Doctor':z:\z/©\z/ <<z>> \z/©
