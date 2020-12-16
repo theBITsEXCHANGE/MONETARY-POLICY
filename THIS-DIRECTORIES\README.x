@@ -5,7 +5,7 @@
 
 
 
- :*-etcetera-solale-phife-*::*-secetera-solale-phife-*:
+ :*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*:z:
 
 
 
