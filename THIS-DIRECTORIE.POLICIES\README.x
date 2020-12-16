@@ -5,7 +5,7 @@
 
 
 
- ;::.\/;::;*-etcetera-solale-phife-*::*-secetera-solale-phife-*;::;\/;::;
+ ;::.\/;::;*-etcetera-so-fort-*::*-secetera-so-fort-*;::;\/;::;
 
 
 
