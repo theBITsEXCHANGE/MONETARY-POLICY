@@ -1,11 +1,11 @@
 ©\/,::,
 
 
-     -*WORLD-ENTITE-ENTREPRENEUR*-
+     ,::.\/-*WORLD-POWER-ENTITE-ENTREPRENEUR*-:
 
 
 
--*etcetera-solale-forth**:,:**secetera-solale-forth*-
+-:*etcetera-solale-phife*-*:,:*-*secetera-solale-phife*-:
 
 
 
