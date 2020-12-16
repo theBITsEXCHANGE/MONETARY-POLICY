@@ -1,11 +1,11 @@
 ©\-/,::,
 
 
-     ,::.\/*-WORLD-POWER-ENTITE-ENTREPRENEUR-*:
+     ,::.\-/*-WORLD-POWER-ENTITE-ENTREPRENEUR-*:
 
 
 
- :*-etcetera-solale-phife-*:z:*-secetera-solale-phife-*:
+ :*-etcetera-solale-phife-*::*-secetera-solale-phife-*:
 
 
 
