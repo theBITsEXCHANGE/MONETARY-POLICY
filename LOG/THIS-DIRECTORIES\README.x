@@ -1,4 +1,4 @@
-©\z/:z:'THOMAS CATALANO'/:z:,
+©\z/:z:'THOMAS CATALANO':z:
 
 
 ,:z:.\z/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*\z/:z:,
