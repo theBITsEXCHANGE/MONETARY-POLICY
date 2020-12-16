@@ -4,12 +4,12 @@
 
 
 
- ;::.\/;::;*'CLM ~ Concepts Learning Machine'*::*'Limited Liability Company(LLC)'*;::;\/;::;
+ ;::.\/;::;*""'CLM ~ Concepts Learning Machine'"*::*'Limited Liability Company(LLC)'"*;::;\/;::;
 
-;::.\/;::;*'BITs EXCHANGE'*::*'non-profit'*::*'Corporation'*;::;\/;::;
+;::.\/;::;*""'BITs EXCHANGE'"*::*"'non-profit'*::*'Corporation'""*;::;\/;::;
 
 
-;::.\/;::;*-etcetera-so-for-*::*-secetera-so-for-*;::;\/;::;
+;::.\/;::;*-etcetera-so-fort-*::*-secetera-so-fort-*;::;\/;::;
 
 
 ;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
