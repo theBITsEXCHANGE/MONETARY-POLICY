@@ -1,11 +1,11 @@
-©>;;::;\/;::;*'THOMAS CATALANO'*;::;;
+©>;;::;*'THOMAS CATALANO'*;::;;
 
 
-     ;;::;\/;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;\/;::;;
+     ;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;
 
 
 
- ;::;\/;::;*-etcetera-so-fort-*::*-secetera-so-fort-*;::;\/;::;
+ ;::;*-etcetera-so-fort-*::*-secetera-so-fort-*;::;
 
 
 
