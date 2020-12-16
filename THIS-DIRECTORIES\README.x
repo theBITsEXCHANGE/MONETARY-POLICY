@@ -1,4 +1,4 @@
-©\-/,::,
+©\z/,::,
 
 
      ,::.\-/-*-WORLD-POWER-ENTITE-ENTREPRENEUR-*-:
