@@ -1,7 +1,7 @@
-©\z/,::,
+©\-/,::,
 
 
-,::.\-/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total-*-\-/:,:
+,::.\-/-*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATER-total-*\-/:,:
 
 ,::.\-/-*-esquire-solale-phife-*-\-/:,:
 
@@ -11,9 +11,9 @@
 
 ,::.\-/-*LOG*-\-/:,:
 
-,::.\-/-*z0z0z0z*-\-/:,:
+,::.\-/-*z0z0z0z*-\/:,:
 
-,::.\-/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*-\/:,:
+,::.\-/-*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*\-/:,:
 
 -\1987\:
 
@@ -17297,6 +17297,8 @@
 
 ,::.\-/*nonce-.-cnonce*_*calculations-.-computanes-total-*\-/:,:
 
-,::.\-/-*etcetera-solale-phife*:z:*secetera-solale-phife*-:*:,:z:*:-triaging-:z:-*BIT(s).BYTE(s)*-:z:-'every_before-after'-:*:-all-,*:-calendar-time-dating-:*:z:*-past,flaged and futures-future-:*/-\*:-fiscal-barter-accountor-:*\-/:,:
-,::.\-/©\-/,:' CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
+,::.\-/-*etcetera-solale-phife*::*secetera-solale-phife*-:*::*:-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*\-/:,:
+
+
+,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
 
