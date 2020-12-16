@@ -17297,6 +17297,6 @@
 
 ,::.\/*nonce-.-cnonce*_*calculations-.-computanes-total-*\/:,:
 
-,::.\/*etcetera-solale-forth**secetera-solale-forth*:*:,:*:*-triaging-*-*BIT(s).BYTE(s)*-*'every_before-after'*-all-*';-calendar-time-dating,:,'past,flaged and futures-future'**-fiscal-barter-*\/:,:
+,::.\/-*etcetera-solale-phife*-*secetera-solale-phife*-:*:,:*:*:-triaging-:*:-*BIT(s).BYTE(s)*-:*:-'every_before-after'-:*:-all-*':-calendar-time-dating,:,'past,flaged and futures-future'**-fiscal-barter-*\/:,:
 ,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©
 
