@@ -17291,14 +17291,14 @@
 
 
 
-,::.\-/*z0z0z0z*\-/:,:
+,:z:.\-/*z0z0z0z*\-/:z:
 
-,::.\-/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\/:,:
+,:z:.\-/*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*\-/:z:
 
-,::.\-/*nonce-.-cnonce*_*calculations-.-computanes-total-*\-/:,:
+,:z:.\-/*nonce-.-cnonce*_*calculations-.-computanes-total-*\-/:z:
 
-,::.\-/-*etcetera-solale-phife*::*secetera-solale-phife*-:*::*:-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*\-/:,:
+,:z:.\-/-*etcetera-solale-phife*::*secetera-solale-phife*-:*::*:-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*\-/:z:
 
 
-,::.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
+,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
 
