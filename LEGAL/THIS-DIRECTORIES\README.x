@@ -9,7 +9,7 @@
 -*BITs EXCHANGE,:'non-profit''Corporation'*-:,:
 
 
--*etcetera-sola-forth**:,:**secetera-sola-forth*-
+-:*etcetera-solale-phife*-:*:,:*:-*secetera-solale-phife*-:
 
 
 ,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©
