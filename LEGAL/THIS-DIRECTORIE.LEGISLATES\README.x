@@ -1,6 +1,9 @@
 ©>;;::;*'THOMAS CATALANO'*;::;;
 
-   ;::;*-LEGAL-ENTERPRISE-POLICY-POLICING-*;::;
+
+https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x
+  
+ ;::;*-LEGAL-ENTERPRISE-POLICY-POLICING-*;::;
 
 
 
@@ -9,7 +12,7 @@
 ;::;*""'BITs EXCHANGE'"*::*"'non-profit'*::*'Corporation'""*;::;
 
 
-;::;*-etcetera-so-fort-*::*-secetera-so-fort-*;::;
+;::;*-etcetera-so-for-*::*-secetera-so-for-*;::;
 
 
 ;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;<©
