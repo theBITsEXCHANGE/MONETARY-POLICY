@@ -1,5 +1,6 @@
-©>;;;::;*'THOMAS CATALANO'*;::;;;
+©>;;::;*'THOMAS CATALANO'*;::;;;
 
+;;::;*-esquire-so-for-*;::;;;
 THIS-DIRECTORIE.LOGS\README.x;::;
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;::;
 
@@ -7,8 +8,6 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 ;::;*-LOG-*;::;
 
 ;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;
-
-;::;*-esquire-so-for-*;::;
 
 ;::;*-time-dating-calender-*;::;
 
