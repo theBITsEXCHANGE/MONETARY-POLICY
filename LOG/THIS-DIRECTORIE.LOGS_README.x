@@ -1,6 +1,6 @@
 ©::*'$THOMAS CATALANO'*::
 
-*-esquire-so-for-*;;
+;::;*-esquire-so-for-*;::;
 ;https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x:
 :THIS-DIRECTORIE.LOGS_README.x:
 
@@ -12,7 +12,7 @@
 
 ;::;*-time-frames-timer-*;::;
 
-;::;*-<>z0z0z0z<>-*;::;
+;::;*z0z0z0z*;::;
 
 ;::;*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*;::;
 
