@@ -1,15 +1,15 @@
 ©>;;::;*'THOMAS CATALANO'*;::;;
 
 
-;::;*-esquire-so-for-*;::;
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x
+;;::;*-esquire-so-for-*;;::;;;
+;;::;https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;;::;;;
     
  ;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;
 
 
 
- ;::;*-etcetera-so-for-*::*-secetera-so-for-*;::;
+ ;::;*-etcetera-so-for-*::*-secetera-so-for-*;;::;;;
 
 
 
-;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;<©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<©
