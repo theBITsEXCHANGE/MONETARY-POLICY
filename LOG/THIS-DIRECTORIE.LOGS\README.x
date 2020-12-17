@@ -1,5 +1,7 @@
 ©>;;;::;*'THOMAS CATALANO'*;::;;;
 
+THIS-DIRECTORIE.LOGS\README.x
+https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x
 
 ;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;
 
