@@ -3,7 +3,7 @@
 
 ;::;*-esquire-so-for-*;;::;;;
 ;;::;https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;;::;;;
-;;::;THIS-DIRECTORIE.LEGISLATES\README.x;;::;;
+;;::;THIS-DIRECTORIE.LEGISLATES_README.x;;::;;
  
 ;::;*-LEGAL-ENTERPRISE-POLICY-POLICING-*;::;
 
