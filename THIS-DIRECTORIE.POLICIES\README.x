@@ -1,11 +1,13 @@
 ©>;;::;*'THOMAS CATALANO'*;::;;
 
 
-     ;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;
+https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x
+    
+ ;::;*-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-*;::;
 
 
 
- ;::;*-etcetera-so-fort-*::*-secetera-so-fort-*;::;
+ ;::;*-etcetera-so-for-*::*-secetera-so-for-*;::;
 
 
 
