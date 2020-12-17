@@ -4,6 +4,8 @@ THIS-DIRECTORIE.LOGS\README.x;::;
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;::;
 
 
+;::;*-LOG-*;::;
+
 ;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;
 
 ;::;*-esquire-so-for-*;::;
@@ -12,9 +14,7 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 ;::;*-time-frames-timer-*;::;
 
-;::;*-LOG-*;::;
-
-;::;*z0z0z0z*;::;
+;::;*<>z0z0z0z<>*;::;
 
 ;::;*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*;::;
 
@@ -17294,13 +17294,13 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 
 
-;;;::;*z0z0z0z*;::;;;
+;;;::;*<>z0z0z0z<>*;::;;;
 
 ;::;*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*;::;
 
 ;::;*nonce-.-cnonce*_*calculations-.-computanes-total-*;::;\/;::;
 
-;::;*-etcetera-so-fort-*::*-secetera-so-fort-*::*-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*;::;
+;::;*-etcetera-so-for-*::*-secetera-so-for-*::*-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*;::;
 
 
 ;;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;;<©
