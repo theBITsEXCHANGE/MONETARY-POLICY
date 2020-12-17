@@ -1,10 +1,10 @@
-©::-$-::,;;::;*'THOMAS CATALANO'*;;::;;;
+©::*'$THOMAS CATALANO'*::
 
-;;::;*-esquire-so-for-*;;::;;;
-;;::;https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;;::;;;
-;;::;THIS-DIRECTORIE.LOGS_README.x;;::;;;
+*-esquire-so-for-*;;
+;https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x:
+:THIS-DIRECTORIE.LOGS_README.x:
 
-;;::;*-LOG-*;;::;;;
+;::;*-LOG-*;::;
 
 ;::;*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*;::;
 
