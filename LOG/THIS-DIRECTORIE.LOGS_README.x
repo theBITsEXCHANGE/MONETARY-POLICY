@@ -1,4 +1,4 @@
-©::>;;::;*'THOMAS CATALANO'*;;::;;;
+©::$::,;;::;*'THOMAS CATALANO'*;;::;;;
 
 ;;::;*-esquire-so-for-*;;::;;;
 ;;::;https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;;::;;;
@@ -17301,5 +17301,5 @@
 ;::;*-etcetera-so-for-*::*-secetera-so-for-*::*-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*;::;
 
 
-;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;;<$::©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;;,::$::©
 
