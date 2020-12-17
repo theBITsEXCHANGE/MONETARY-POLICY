@@ -19,7 +19,7 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 -\1987\:
 
-;::.\;::;*nonce-.-cnonce_calculations*\/::\/"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'"*;::;
+;::;\;::;*nonce-.-cnonce_calculations*\/::\/"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'"*;::;
 
 -\z1987z2019z\:
 
@@ -27,12 +27,12 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 -\2006\:
 
-;::.\;::;*"my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store"*;::;
+;::;\;::;*"my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store"*;::;
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
 
-,::;\;::;*"'BITs EXCHANGE'"*,:,*"'_EIN_'-REGISTRATION'"*;::;\/;::;
+;::;\;::;*"'BITs EXCHANGE'"*,:,*"'_EIN_'-REGISTRATION'"*;::;\/;::;
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
@@ -43,7 +43,7 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 ,\nonce-.-cnonce_calculations\;
 ,\_bitnodes.io_.site/invalidated,;,from;congruent-state;,;bouck coging 'internet' service provider\./.
-,::;\;::;*"forensicly-proven,:,'cryptocurrency',:,illegal-store;,;set-network-value-to-zero"*;::;\/;::;
+;::;\;::;*"forensicly-proven,:,'cryptocurrency',:,illegal-store;,;set-network-value-to-zero"*;::;\/;::;
 
 -\2020z11z07\:
 
@@ -52,8 +52,8 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-;::.\;::;*"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*;::;
-;::.\;::;*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*;::;
+;::;\;::;*"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*;::;
+;::;\;::;*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*;::;
 
 -\2020z11z09\:
 
