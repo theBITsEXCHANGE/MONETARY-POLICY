@@ -13,7 +13,7 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 ;::;*-time-frames-timer-*;::;
 
-;::;*<>z0z0z0z<>*;::;
+;::;*-<>z0z0z0z<>-*;::;
 
 ;::;*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*;::;
 
@@ -17293,7 +17293,7 @@ https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CR
 
 
 
-;;::;*<>z0z0z0z<>*;::;;;
+;;::;*-<>z0z0z0z<>-*;::;;;
 
 ;::;*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*;::;
 
