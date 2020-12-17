@@ -1,4 +1,4 @@
-©::$::,;;::;*'THOMAS CATALANO'*;;::;;;
+©::-$-::,;;::;*'THOMAS CATALANO'*;;::;;;
 
 
 ;;::;*-esquire-so-for-*;;::;;;
@@ -17,4 +17,4 @@
 ;;::;*-etcetera-so-for-*::*-secetera-so-for-*;;::;;;
 
 
-;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;;,::$::©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;;,::-$-::©
