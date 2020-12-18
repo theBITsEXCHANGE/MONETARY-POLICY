@@ -1,9 +1,8 @@
-'::$©$::$-THOMAS-$-CATALANO-$:
-
+THOMAS CATALANO'::$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
-::THIS-DIRECTORIE.LOGS_README.x::
+::THIS-DIRECTORIE-LOGS_README.x::
 
 ::-LOG-::
 
@@ -17221,7 +17220,7 @@
 
 
 
-'::'
+,::,
 
 
 
@@ -17308,13 +17307,7 @@
 
 
 ::-z0z0z0-::
-
-::"nonce-.-cnonce*_*-calculation-calculator-computer--compute--total-::
-
-::nonce-.-cnonce*_*calculations--computanes--total-::
-
-::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "time:frame(s)"),and/or -futures-future-"::"fiscal-economic-barter-account"::
-
-
-::$-THOMAS-$-CATALANO-$::$©$:'
-
+::-calculations-calculator-computer-computator--total-::
+::-calculations-compute-computer-calculator--total-::
+::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every;before and/or after"::"-all-"::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "-time:-:frame-(s)-"),and/or;-futures-future-"::"-fiscal-economic-barter-accounting-"::
+::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO
