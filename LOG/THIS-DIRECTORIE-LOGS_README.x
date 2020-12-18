@@ -18,22 +18,18 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 ::-calculations-::-calculator-::-compute-::-computer-::
 
--\1987\:
+-\-1987-\:
 
-::\*nonce-.-cnonce_calculations::"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
+,\calculating::"the fortating world economic economy and fiscal barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
 
--\z1987z2019z\:
+-\-z-z1987z2019z-z-\:
 
-,\nonce-.-cnonce_calculations\;
-
--\2006\:
-
-::\*"my-creation;world fiscal consortium,the requiring::"BIT(s)-BYTE(s) EXCHANGE-MARKET"::the -legal- 'fiscal' EXCHANGE-MARKET::the overall monetary value has been missing until the "BITs EXCHANGE, non-profit Corporation" was registered::providence-staturing::fiscal.system-state-store"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
 
-::\"BITs EXCHANGE,'non-profit'(),Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
+,\::\"my-creation;the world economic fiscal economy consortium,the::"BIT(s)-BYTE(s) EXCHANGE-MARKET"::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
+"BITs EXCHANGE,'non-profit'(),Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
