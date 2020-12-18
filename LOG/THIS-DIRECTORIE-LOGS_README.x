@@ -1,7 +1,7 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
-::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
+::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE-COPYRIGHTS%5CREADME.x::
 ::THIS-DIRECTORIE-LOGS_README.x::
 
 ::-LOG-::
@@ -20,7 +20,7 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 -\-1986-\:
 
-,\"calculating"::"the fortating world economic economy and fiscal barter sentor at age ~5.6~ years old referencing state-house-responsibilities such as taxes, economics and monetary servitude to name few:the::U.S.'-government-'"::
+,\"calculating"::"the fortating world economic economy and fiscal barter sentor at age ~5.7~ years old referencing state-house-responsibilities such as taxes, economics and monetary servitude to name few:the::U.S.'-government-'"::
 
 -\-z-z1986z2019z-z-\:
 
