@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$::'
+'::$©$::$-THOMAS-$-CATALANO-$::
 
 ::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
@@ -17315,5 +17315,5 @@
 ::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "time:frame(s)"),and/or -futures-future-"::"fiscal-monetary-bartering-accounting"::
 
 
-'::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$::'
 
