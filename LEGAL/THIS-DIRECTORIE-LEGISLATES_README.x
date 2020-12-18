@@ -5,7 +5,7 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::THIS-DIRECTORIE-LEGISLATES_README.x::
 ::-ATOMICS-LEGISLATION-ECONOMIC-ENTERPRISES-POLICY-POLICING-::
 ::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"::
-::"BITs EXCHANGE,non-profit;Corporation"::
+::"BITs EXCHANGE,non-profit;Corporation,"::
 ::"Catalano Concepts,Limited Liability Company (LLC),""
 ::-etcetera-so-for-:-secetera-so-for-::
 ::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO.
