@@ -6,7 +6,7 @@
 
 ::-LOG-::
 
-::nonce-.-cnonce*_*-calculation-calculator-computer-::-DATA-INFOMATIC-INFORMATION-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
+::nonce-.-cnonce_calculations::-calculation::calculator-computer-::-DATA-INFOMATIC-INFORMATION-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
 
 ::-time-dating-calender-::
 
@@ -14,11 +14,11 @@
 
 ::-z0z0z0z-::
 
-::*nonce-.-cnonce*_-*-calculation-computave-compute-computer-::
+::nonce-.-cnonce*_calculations::-computave-compute-computer-::
 
 -\1987\:
 
-::\*nonce-.-cnonce_calculations*::"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
+::\*nonce-.-cnonce_calculations::"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
 
 -\z1987z2019z\:
 
@@ -42,7 +42,7 @@
 
 ,\nonce-.-cnonce_calculations\;
 ,\_bitnodes.io_.site/invalidated,;,from;congruent-state;,;bouck coging 'internet' service provider"::
-,\*"forensicly-proven::'cryptocurrency'::illegal-store set-network-value-to-zero"::
+,\"forensicly-proven::'cryptocurrency'::illegal-store set-network-value-to-zero"::
 
 -\2020z11z07\:
 
@@ -51,8 +51,8 @@
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-,\*"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*::;
-,\*"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*::;
+,\"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*::;
+,\"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*::;
 
 -\2020z11z09\:
 
