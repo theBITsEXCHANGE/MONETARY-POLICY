@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$::
+'::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
@@ -8,4 +8,4 @@
 
 ::-etcetera-so-for:secetera-so-for-::
 
-::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$:'
