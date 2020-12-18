@@ -7,8 +7,9 @@
  
 ::-LEGAL-ENTERPRISE-POLICY-POLICING-::
 
-::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC)"::
-::"BITs EXCHANGE,-non-profit--Corporation-"::
+::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"::
+::"BITs EXCHANGE,'non-profit'(),Corporation"::
+::"Catalano Concepts,Limited Liability Company (LLC),""
 
 ::-etcetera-so-for-:-secetera-so-for-::
 
