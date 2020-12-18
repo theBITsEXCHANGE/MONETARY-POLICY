@@ -8,7 +8,7 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::
 ::-LOG-::
 ::-calculations-::-calculator-::-computer::-computator-::-compute-::-computator-::
-::-ATOMICS-::-DATA-::-INFOMATICS-::-INFORMATION-::-ECONOMICS-::-SPACIAL-::-TIME-::-CLOCK-::-CONTINUUM-::-STATE()-::-LOCALITY:-::-VECTOR-::-MEASURMENTS-::--total--::
+::-ATOMICS-::-DATA-::-INFOMATICS-::-INFORMATION-::-ECONOMICS-::-SPACIAL-::-TIME-::-CLOCK-::-CONTINUUM-::-STATE()-::-LOCALITIES:-::-VECTORS-::-MEASURMENTS-::--total--::
 ::-time-dating-calander-::
 ::-time-frames-timer-::
 ::-z-z0z0z0z-z-::
