@@ -1,24 +1,24 @@
-':::$©$::$-THOMAS-$-CATALANO-$::
+'::$©$::$-THOMAS-$-CATALANO-$::'
 
-:::*-esquire-so-for-*::
-:::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
-:::':THIS-DIRECTORIE.LOGS_README.x:'::
+::*-esquire-so-for-*::
+::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
+::':THIS-DIRECTORIE.LOGS_README.x:'::
 
-:::*-LOG-*::
+::*-LOG-*::
 
-;::*nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATOR-total-*::;
+::"nonce-.-cnonce*_*-calculation-calculator-computer-*-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATE()-total-::
 
-;::*-time-dating-calender-*::;
+::*-time-dating-calender-*::
 
-;::*-time-frames-timer-*::;
+::*-time-frames-timer-*::
 
-;::*z0z0z0z*::;
+::*z0z0z0z*::
 
-;::*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*::;
+::*nonce-.-cnonce*_-*-calculation-computave-compute-computer-*::
 
 -\1987\:
 
-;::\*nonce-.-cnonce_calculations*::"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S. 'government'"*;::
+::\*nonce-.-cnonce_calculations*::"fortating world fiscal-barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing;the;:;U.S.'-government-'"::
 
 -\z1987z2019z\:
 
@@ -26,12 +26,12 @@
 
 -\2006\:
 
-;::;\;::;*"my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange:,:the overall monetary value has been missing:,:providence-staturing::fiscal.system-state-store"*;::;
+::\*"my-creation;world fiscal consortium,the requiring; BIT(s).BYTE(s) market ,for and by, legal fiscal exchange::the overall monetary value has been missing until the "BITs EXCHANGE, non-profit Corporation" was registered::providence-staturing::fiscal.system-state-store"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
 
-;::;\;::;*"'BITs EXCHANGE'"*,:,*"'_EIN_'-REGISTRATION'"*;::;\/;::;
+::\"BITs EXCHANGE"::"_EIN_'-REGISTRATION"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
@@ -41,8 +41,8 @@
 -\2020z11z06\:
 
 ,\nonce-.-cnonce_calculations\;
-,\_bitnodes.io_.site/invalidated,;,from;congruent-state;,;bouck coging 'internet' service provider\./.
-,\*"forensicly-proven,:,'cryptocurrency',:,illegal-store;,;set-network-value-to-zero"*::;
+,\_bitnodes.io_.site/invalidated,;,from;congruent-state;,;bouck coging 'internet' service provider"::
+,\*"forensicly-proven::'cryptocurrency'::illegal-store set-network-value-to-zero"::
 
 -\2020z11z07\:
 
@@ -17292,14 +17292,14 @@
 
 
 
-::;*z0z0z0z*;::
+::z0z0z0z::
 
-:::*nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-*;::;
+::"nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-::
 
-:::*nonce-.-cnonce*_*calculations-.-computanes-total-*;::;\/;::;
+::nonce-.-cnonce*_*calculations-.-computanes-total-::
 
-:::*-etcetera-so-for-*::*-secetera-so-for-*::*-triaging-::-*BIT(s).BYTE(s)*-::-'every_before-after'-:*:-all-,;*:-calendar-time-dating-:*::*-past,flaged and futures-future-*::*-fiscal-barter-accountor-*;::;
+::-etcetera-so-for-::-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::-every_before-after-::-all-::-calendar-time-dating-::"past,flaged and futures-future"::-fiscal-monetary-barter-accounting-::
 
 
-':::$-THOMAS-$-CATALANO-$::$©$::'
+'::$-THOMAS-$-CATALANO-$::$©$::'
 
