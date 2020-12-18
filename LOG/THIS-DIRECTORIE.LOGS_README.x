@@ -17312,7 +17312,7 @@
 
 ::nonce-.-cnonce*_*calculations--computanes--total-::
 
-::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"-calander-clock-time-day-dating-"::"past,flaged and/or futures-future"::"fiscal-monetary-bartering-accounting"::
+::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "time:frame(s)"),and/or -futures-future-"::"fiscal-monetary-bartering-accounting"::
 
 
 '::$-THOMAS-$-CATALANO-$::$©$::'
