@@ -17312,4 +17312,4 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-calculations-::-calculator-::-computer-::-computator-::--total--::
 ::-calculations-::-compute-::-computer-::-calculator-::--total--::
 ::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every;before and/or after"::"-all-"::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "-time:-:frame-(s)-"),and/or;-futures-future-"::"-fiscal-economic-barter-accounting-"::
-::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO
+::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO.
