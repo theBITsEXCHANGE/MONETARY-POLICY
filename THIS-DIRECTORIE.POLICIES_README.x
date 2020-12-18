@@ -1,8 +1,9 @@
-'::$©$::$-THOMAS-$-CATALANO-$::"
+'::$©$::$-THOMAS-$-CATALANO-$::
 
 ::-esquire-so-for-::
-::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
-::THIS-DIRECTORIE.POLICIES_README.x::
+::':THIS-DIRECTORIE.POLICIES_README.x:'::
+::':https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x:'::
+
 
 ::-WORLD-POWER-ENTITE-ENTREPRENEUR-FORCE-::
 
