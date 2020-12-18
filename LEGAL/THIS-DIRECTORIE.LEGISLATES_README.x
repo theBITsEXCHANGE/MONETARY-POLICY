@@ -12,7 +12,7 @@
 ::"BITs EXCHANGE,-non-profit--Corporation-"::
 
 
-::-etcetera-so-for-*::*-secetera-so-for-::
+::-etcetera-so-for-:-secetera-so-for-::
 
 
 '::$-THOMAS-$-CATALANO-$::$©$::'
