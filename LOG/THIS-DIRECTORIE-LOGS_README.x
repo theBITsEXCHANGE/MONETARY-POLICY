@@ -26,10 +26,14 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 ,\nonce-.-cnonce_calculations\;
 
+-\2019z19z09\:
+
+,\;formation:registration::"CLM ~ Concepts Learning Machine,non-profit_Corporation"::
+
 -\2020z11z04\:
 
-,\::\"my-creation;the world economic fiscal economy consortium,the::"BIT(s)-BYTE(s) EXCHANGE-MARKET"::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
-"BITs EXCHANGE,'non-profit'(),Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
+,\my creation;the world economic fiscal economy consortium,the::BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
+,\;"BITs EXCHANGE,non-profit_Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
