@@ -1,26 +1,22 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
+::Algorithm License::
 ::-esquire-so-for-::
-::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE-COPYRIGHTS%5CREADME.x::
+::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::Algorithm License::
 ::THIS-DIRECTORIE-LOGS_README.x::
-
+:Algorithm License::
+::
 ::-LOG-::
-
 ::-calculations-::-calculator-::-computer::-computator-::-compute-::-computator-::
-
 ::-ATOMICS-::-DATA-::-INFOMATICS-::-INFORMATION-::-ECONOMICS-::-SPACIAL-::-TIME-::-CLOCK-::-CONTINUUM-::-STATE()-::-LOCALITY:-::-VECTOR-::-MEASURMENTS-::--total--::
-
 ::-time-dating-calander-::
-
 ::-time-frames-timer-::
-
 ::-z-z0z0z0z-z-::
-
 ::-calculations-::-calculator-::-compute-::-computer-::
+::
+-\-z-1986-z-\:
 
--\-1986-\:
-
-,\"calculating"::"the fortating world economic economy and fiscal barter sentor at age ~5.7~ years old referencing state-house-responsibilities such as taxes, economics and monetary servitude to name few:the::U.S.'-government-'"::
+,\calculating::"the fortating world economic economy and fiscal barter sentor at age ~5.7~ years old referencing state-house-responsibilities such as taxes, economics and monetary servitude to name few:the::U.S.'-government-'"::
 
 -\-z-z1986z2019z-z-\:
 
@@ -32,7 +28,7 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 -\2020z11z04\:
 
-,\my creation;the world economic fiscal economy consortium,the::BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
+,\;my creation;the world economic fiscal economy consortium,the::BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
 ,\;"BITs EXCHANGE,non-profit_Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
 ,\nonce-.-cnonce_calculations\;
 
