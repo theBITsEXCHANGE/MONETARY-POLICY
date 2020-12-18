@@ -18,11 +18,11 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 ::-calculations-::-calculator-::-compute-::-computer-::
 
--\-1987-\:
+-\-1986-\:
 
-,\calculating::"the fortating world economic economy and fiscal barter sentor at age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
+,\calculating::"the fortating world economic economy and fiscal barter sentor age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
 
--\-z-z1987z2019z-z-\:
+-\-z-z1986z2019z-z-\:
 
 ,\nonce-.-cnonce_calculations\;
 
