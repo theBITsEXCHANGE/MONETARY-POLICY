@@ -20,7 +20,7 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 -\-1986-\:
 
-,\calculating::"the fortating world economic economy and fiscal barter sentor age 6 years old referencing state-house-responsibilities such as taxes and monetary servitude,;servicing:the::U.S.'-government-'"::
+,\"calculating"::"the fortating world economic economy and fiscal barter sentor at age ~6~ years old referencing state-house-responsibilities such as taxes, economics and monetary servitude to name few:the::U.S.'-government-'"::
 
 -\-z-z1986z2019z-z-\:
 
@@ -43,8 +43,8 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 -\2020z11z06\:
 
 ,\nonce-.-cnonce_calculations\;
-,\_bitnodes.io_.site/invalidated,;,from;congruent-state;,;bouck coging 'internet' service provider"::
-,\"forensicly-proven::'cryptocurrency'::illegal-store set-network-value-to-zero"::
+,\invalidating DATA::congruent-system-state:bouck coging 'internet' service providers"::
+,\forensicly-proven::'cryptocurrency'::illegal-store set-network-value-to-zero"::
 
 -\2020z11z07\:
 
@@ -53,8 +53,8 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 -\2020z11z08\:
 
 ,\nonce-.-cnonce_calculations\;
-,\"forensicly-proven,:,'atomic-clock',:,'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*::;
-,\"'TIME-CLOCK' IS-NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*::;
+,\forensicly-proven:'atomic-clock':'GPS-SYNC';:;is-illegal;,;set-network-value-to-astrophysical-time;:;this;:;inclusive;:;_illegal_;,artificial-sector-trapaloid-encapsulation;:;render;,erroneous-time::financial-soctor"*::;
+,\'TIME-CLOCK' IS NOT -A- 'MEASURE' :: 'TIME-UNITS' _and__or_ 'TIME'_'TIMER'"*::;
 
 -\2020z11z09\:
 
