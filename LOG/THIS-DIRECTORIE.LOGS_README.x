@@ -17312,8 +17312,8 @@
 
 ::nonce-.-cnonce*_*calculations--computanes--total-::
 
-::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "time:frame(s)"),and/or -futures-future-"::"fiscal-economic-bartering-accounting"::
+::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "time:frame(s)"),and/or -futures-future-"::"fiscal-economic-barter-account"::
 
 
-::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$:'
 
