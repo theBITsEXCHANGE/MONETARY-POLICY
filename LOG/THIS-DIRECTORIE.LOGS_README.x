@@ -1,18 +1,18 @@
 '::$©$::$-THOMAS-$-CATALANO-$::'
 
-::*-esquire-so-for-*::
+::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
-::':THIS-DIRECTORIE.LOGS_README.x:'::
+::THIS-DIRECTORIE.LOGS_README.x::
 
-::*-LOG-*::
+::-LOG-::
 
-::"nonce-.-cnonce*_*-calculation-calculator-computer-::-DATA.INFOMATIC.INFORMATION.SPACE.TIME.CONTINUUM.STATE()-total-::
+::nonce-.-cnonce*_*-calculation-calculator-computer-::-DATA-INFOMATIC-INFORMATION-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
 
-::*-time-dating-calender-*::
+::-time-dating-calender-::
 
-::*-time-frames-timer-*::
+::-time-frames-timer-::
 
-::*z0z0z0z*::
+::-z0z0z0z-::
 
 ::*nonce-.-cnonce*_-*-calculation-computave-compute-computer-::
 
@@ -17206,7 +17206,6 @@
 
 
 
-':z:\/:z:,
 
 
 
@@ -17221,6 +17220,7 @@
 
 
 
+'::'
 
 
 
@@ -17292,13 +17292,27 @@
 
 
 
-::z0z0z0z::
 
-::"nonce-.-cnonce*_*-calculation-calculator-computer-.-computed-total-::
 
-::nonce-.-cnonce*_*calculations-.-computanes-total-::
 
-::-etcetera-so-for-::-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::-every_before-after-::-all-::-calendar-time-dating-::"past,flaged and futures-future"::-fiscal-monetary-barter-accounting-::
+
+
+
+
+
+
+
+
+
+
+
+::-z0z0z0-::
+
+::"nonce-.-cnonce*_*-calculation-calculator-computer--compute--total-::
+
+::nonce-.-cnonce*_*calculations--computanes--total-::
+
+::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every_before and/or after"::-all-::"calender-time-dating"::"past,flaged and futures-future"::"fiscal-monetary-bartering-accounting"::
 
 
 '::$-THOMAS-$-CATALANO-$::$©$::'
