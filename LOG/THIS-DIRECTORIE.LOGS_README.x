@@ -31,7 +31,7 @@
 
 -\2020z11z04\:
 
-::\"BITs EXCHANGE"::"_EIN_'-REGISTRATION"::
+::\"BITs EXCHANGE,'non-profit'(),Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
