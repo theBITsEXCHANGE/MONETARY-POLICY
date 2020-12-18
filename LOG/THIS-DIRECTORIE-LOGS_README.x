@@ -14,9 +14,9 @@ THOMAS CATALANO'::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-time-frames-timer-::
 
-::-z0z0z0z-::
+::-z-z0z0z0z-z-::
 
-::nonce-.-cnonce*_calculations::-computave-compute-computer-::
+::-calculations-::-calculator-::-compute-::-computer-::
 
 -\1987\:
 
@@ -17308,8 +17308,8 @@ THOMAS CATALANO'::$©$::$-THOMAS-$-CATALANO-$:
 
 
 
-::-z0z0z0-::
-::-calculations-calculator-computer-computator--total-::
-::-calculations-compute-computer-calculator--total-::
+::-z-z0z0z0z-z-::
+::-calculations-::-calculator-::-computer-::-computator-::--total--::
+::-calculations-::-compute-::-computer-::-calculator-::--total--::
 ::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every;before and/or after"::"-all-"::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "-time:-:frame-(s)-"),and/or;-futures-future-"::"-fiscal-economic-barter-accounting-"::
 ::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO
