@@ -1,12 +1,13 @@
 '::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
+::Algorithm License::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 ::THIS-DIRECTORIE.LOGS_README.x::
 
 ::-LOG-::
 
-::nonce-.-cnonce_calculations::-calculation::calculator-computer-::-DATA-INFOMATICS-INFORMATION-ECONOMICS-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
+::nonce-.-cnonce_calculations::-calculation::calculator-computer-::-ATOMICS-DATA-INFOMATICS-INFORMATION-ECONOMICS-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
 
 ::-time-dating-calender-::
 
