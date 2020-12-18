@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$::
+'::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
@@ -6,7 +6,7 @@
 
 ::-LOG-::
 
-::nonce-.-cnonce_calculations::-calculation::calculator-computer-::-DATA-INFOMATICS-INFORMATION-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
+::nonce-.-cnonce_calculations::-calculation::calculator-computer-::-DATA-INFOMATICS-INFORMATION-ECONOMICS-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
 
 ::-time-dating-calender-::
 
