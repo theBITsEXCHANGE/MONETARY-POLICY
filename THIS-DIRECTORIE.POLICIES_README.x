@@ -8,4 +8,4 @@
 
 ::-etcetera-so-for:secetera-so-for-::
 
-'::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$::'
