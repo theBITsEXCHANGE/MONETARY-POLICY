@@ -6,9 +6,11 @@ THOMAS CATALANO'::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-LOG-::
 
-::nonce-.-cnonce_calculations::-calculation::calculator-computer-::-ATOMICS-DATA-INFOMATICS-INFORMATION-ECONOMICS-SPACE-TIME-CLOCK-CONTINUUM-STATE()-total-::
+::-calculations-::-calculator-::-computer::-computator-::-compute-::-computator-::
 
-::-time-dating-calender-::
+::-ATOMICS-::-DATA-::-INFOMATICS-::-INFORMATION-::-ECONOMICS-::-SPACIAL-::-TIME-::-CLOCK-::-CONTINUUM-::-STATE()-::-LOCALITY:-::-VECTOR-::-MEASURMENTS-::--total--::
+
+::-time-dating-calander-::
 
 ::-time-frames-timer-::
 
