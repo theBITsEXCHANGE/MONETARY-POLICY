@@ -10,4 +10,4 @@
 ::"BITs EXCHANGE,non-profit;Corporation,"::
 ::"Catalano Concepts,Limited Liability Company (LLC),""
 ::-etcetera-so-for-:-secetera-so-for-::
-:$-THOMAS-$-CATALANO-$::$©$:'~':$-THOMAS-$-CATALANO-$:.
+:$-THOMAS-$-CATALANO-$:$©$:'~':$-THOMAS-$-CATALANO-$:.
