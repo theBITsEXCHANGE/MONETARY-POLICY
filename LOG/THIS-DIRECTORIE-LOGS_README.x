@@ -24,16 +24,16 @@
 
 -\2013z07z\:
 
-,\;formation:registration::"Catalano Concepts,Limited Liability Company (LLC),"
+,\:formation:registration::"Catalano Concepts,Limited Liability Company (LLC),"
 
 -\2019z19z09\:
 
-,\;formation:registration::"CLM ~ Concepts Learning Machine,non-profit_Corporation"::
+,\:formation:registration::"CLM ~ Concepts Learning Machine,non-profit_Corporation"::
 
 -\2020z11z04\:
 
-,\;my creation;the world economic fiscal economy consortium,the::BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
-,\;"BITs EXCHANGE,non-profit_Corporation"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
+,\:my creation;the world economic fiscal economy consortium,the::BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET::the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-::providence-staturing::fiscal.system-state-store"::
+,\:"BITs EXCHANGE,non-profit;Corporation,"::"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z05\:
@@ -17440,4 +17440,4 @@
 ::-calculations-::-calculator-::-computer-::-computator-::--total--::
 ::-calculations-::-compute-::-computer-::-calculator-::--total--::
 ::-etcetera-so-for-:-secetera-so-for-::--triaging--::--BIT(s)-BYTE(s)--::"every;before and/or after"::"-all-"::"-calander-clock-time-day-dating-"::"past,flaged(current yearbook "-time:-:frame-(s)-"),and/or;-futures-future-"::"-fiscal-economic-barter-accounting-"::
-::$-THOMAS-$-CATALANO-$::$©$:$-THOMAS-$-CATALANO-$'.
+:$-THOMAS-$-CATALANO-$:$©$:'~':$-THOMAS-$-CATALANO-$:',':'~':'.':
