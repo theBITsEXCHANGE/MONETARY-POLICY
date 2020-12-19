@@ -22,6 +22,10 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 
 ,\nonce-.-cnonce_calculations\;
 
+-\2013z07z\:
+
+,\;formation:registration::"Catalano Concepts,Limited Liability Company (LLC),"
+
 -\2019z19z09\:
 
 ,\;formation:registration::"CLM ~ Concepts Learning Machine,non-profit_Corporation"::
