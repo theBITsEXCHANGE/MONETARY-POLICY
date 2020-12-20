@@ -5,7 +5,7 @@
 ::Algorithm License::
 ::[THIS-DIRECTO-LEGISLATES_README.x]::
 ::Algorithm License::
-::"-ATOMICS-:-LEGISLATIONS-:-ECONOMICS-:-ENTERPRISES-:-POLICY-:-POLICING-"::
+::":-ATOMICS-:-LEGISLATIONS-:-ECONOMICS-:-ENTERPRISES-:-POLICY-:-POLICING-:"::
 ::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"::
 ::"BITs EXCHANGE,non-profit;Corporation,"::
 ::"Catalano Concepts,Limited Liability Company (LLC),""
