@@ -14,14 +14,14 @@ LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :Algorithm License":
-::-squire-so-for-::
+:-squire-so-for-:
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9"::
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9:::
-::-squire-so-for-::
+:-squire-so-for-:
 ::Algorithm License::
 ::[THIS-DIRECTO-LEGISLATES_README.x]::
 :Algorithm License:
-::":-ATOMICS-:-LEGISLATIONS-:-ECONOMICS-:-ENTERPRISES-:-POLICY-:-POLICING-:"::
+::":-ATOMICS-:-LEGISLATIONS-:-FISCAL-:-ENTERPRISES-:-POLICY-:-POLICING-:"::
 ::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"::
 ::"BITs EXCHANGE,non-profit;Corporation,"::
 ::"Catalano Concepts,Limited Liability Company (LLC),""
