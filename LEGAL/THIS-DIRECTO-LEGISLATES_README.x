@@ -17,6 +17,7 @@ SOFTWARE.,
 ::-squire-so-for-::
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9"::
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9:::
+::-squire-so-for-::
 ::Algorithm License::
 ::[THIS-DIRECTO-LEGISLATES_README.x]::
 ::Algorithm License.:
