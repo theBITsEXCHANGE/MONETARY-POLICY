@@ -20,7 +20,7 @@ SOFTWARE.,
 ::-squire-so-for-::
 ::Algorithm License::
 ::[THIS-DIRECTO-LEGISLATES_README.x]::
-::Algorithm License.:
+:Algorithm License:
 ::":-ATOMICS-:-LEGISLATIONS-:-ECONOMICS-:-ENTERPRISES-:-POLICY-:-POLICING-:"::
 ::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"::
 ::"BITs EXCHANGE,non-profit;Corporation,"::
@@ -28,7 +28,7 @@ SOFTWARE.,
 ::"-etcetera-so-for-:-secetera-so-for-"::
 ::-etcetera-so-for-:-secetera-so-for-::
 :Algorithm License":
-::-squire-so-for-::
+:-squire-so-for-:
 ,:Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
