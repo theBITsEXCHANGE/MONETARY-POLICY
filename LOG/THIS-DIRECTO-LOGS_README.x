@@ -1,4 +1,4 @@
-"$©$:$-THOMAS-$-CATALANO-$:$©$:.:Algorithm License:.:Permission is hereby granted, free of charge, to any person obtaining a copy
+>"$©$:$-THOMAS-$-CATALANO-$:$©$:.:Algorithm License:.:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -13,11 +13,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
-::Algorithm License::
+:Algorithm License":
 ::-squire-so-for-::
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9"::
 ::":https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
-::Algorithm License::
 ::Algorithm License::
 ::[THIS-DIRECTO-LOGS_README.x]::
 ::":-LOG-:"::
@@ -17457,7 +17456,7 @@ SOFTWARE.,
 ::":-calculations-:-computer-:-compute-:-comptroller-:--total--:"::
 ::":-'triage'-:,BIT(),BYTE(),:-every-;before and/or after-:-all-:-calander-clock-time-book-dating-,:,past,flaged(-lap-loom-day- 'year-book' -time-frame-tog-(-()),and/or;-futures-future-(-()),:-fiscal-economic-barter-accounting-:"::
 ::":-etcetera-so-for-:-secetera-so-for-:".:
-:.Permission is hereby granted, free of charge, to any person obtaining a copy
+,:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -17471,4 +17470,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN:AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.:.:Algorithm License:.:$-THOMAS-$-CATALANO-$:$©$"
+SOFTWARE.:.:Algorithm License:.:$-THOMAS-$-CATALANO-$:$©$"<
