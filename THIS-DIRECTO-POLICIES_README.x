@@ -20,7 +20,7 @@ SOFTWARE.,
 ::Algorithm License::
 ::[THIS-DIRECTO-POLICIES_README.x]::
 :Algorithm License:
-::":-ATOMICS-:-WORLD-:-FISCAL-:-ENTITES-:-ENTERPRISE-:-FORCES-:"::
+:":-ATOMICS-:-WORLD-:-FISCAL-:-ENTITES-:-ENTERPRISE-:-FORCES-:":
 :"-etcetera-so-for-:-secetera-so-for-":
 :-etcetera-so-for-:-secetera-so-for-:
 :-squire-so-for-:
