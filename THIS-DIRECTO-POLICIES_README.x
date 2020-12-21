@@ -21,9 +21,10 @@ SOFTWARE.,
 ::Algorithm License::
 ::[THIS-DIRECTO-POLICIES_README.x]::
 ::Algorithm License::
-::":-ATOMICS-:-WORLD-:-ECONOMIC-:-ENTITES-:-ENTERPRISE-:-FORCES-:"::
+::":-ATOMICS-:-WORLD-:-FISCAL-:-ENTITES-:-ENTERPRISE-:-FORCES-:"::
 ::"-etcetera-so-for-:-secetera-so-for-"::
 ::-etcetera-so-for-:-secetera-so-for-::
+::-squire-so-for-::
 :Algorithm License:
 ,:Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
