@@ -21,7 +21,7 @@ SOFTWARE.,
 ::Algorithm License::
 ::[LEGAL_README]::
 :Algorithm License:
-:":-ATOMICS-:-LEGISLATIONS-:-FISCAL-:-ENTERPRISES-:-POLICY-:-POLICING-:":
+:":-ARBITRARY-:-LEGISLATION-:-FISCAL-:-ENTERPRISE-:-POLICY-:":
 :"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),":
 :"BITs EXCHANGE,non-profit;Corporation,":
 :"Catalano Concepts,Limited Liability Company (LLC),""
