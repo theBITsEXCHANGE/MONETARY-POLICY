@@ -21041,7 +21041,7 @@ SOFTWARE.,
 :":-0z0z0-:":
 :":-calculations-:-calculator-:-computer-:-computator-:--total--:":
 :":-calculations-:-computer-:-compute-:-comptroller-:--total--:":
-:":-'triage'-:,BIT(),BYTE(),:-every-;before and/or after-:-all-:-calander-clock-time-book-dating-,:,past,permutate("present-calander-day"),flagged-post("-lap-date-")"year-book",-time-frame-sto-(-()),and/or;-futures-future-(-()),:-'_'-fiscal-barter-account-stature-:":
+:":-'triage'-:,BIT(),BYTE(),:-every-;before and/or after-:-all-:-calander-clock-time-book-dating-,:,past,permutate("present-calander-day"),flagged-post("-lap-date-")"year-book","-time-frame-sto-"(-()),[and/or];-futures-future-(-()),:-'_'-fiscal-barter-account-stature-:":
 :":-etcetera-so-for-:-secetera-so-for-:":
 :":"-'_'-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9/THIS-DIRECTO-COPYRIGHTS_README.X
 :":"-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/blob/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
