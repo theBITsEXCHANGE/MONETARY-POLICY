@@ -45,7 +45,7 @@ SOFTWARE.,
 
 ,\nonce-.-cnonce_calculations\;
 
--\2013z07z\:
+-\2013z07z14\:
 
 ,\:formation:registration:"Catalano Concepts,Limited Liability Company (LLC),"::
 
@@ -55,7 +55,7 @@ SOFTWARE.,
 
 -\2020z11z04\:
 
-,\:my creation;the world economic fiscal economy consortium,the:BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET:the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-:providence-staturing:economic.system-store"::
+,\:arbor-creation;the world economic fiscal economy consortium,the:BIT(s)-BYTE(s)-,EXCHANGE-MARKET::the, -legal- 'fiscal' economic EXCHANGE-MARKET:the overall monetary value has been missing until the; "BITs EXCHANGE,non-profit;Corporation"-:providence-staturing:economic.system-store"::
 ,\:"BITs EXCHANGE,non-profit;Corporation,",:for and/or of:,the, fiscal; "bit()byte()", verification;:process,
 ,\:world wide economics require;:the,;"BIT()BYTE() Market-Exchange";: -financal-market-exchange- 'and/or 'like';(ie.,economics), _legal_ /monetization/ systematic :; DATA , looging , feed ;; proof():;:"BITs EXCHANGE,non-profit;Corporation,":"EIN-REGISTRATION:Employer Identification Number:85-3761118"::
 ,\nonce-.-cnonce_calculations\;
