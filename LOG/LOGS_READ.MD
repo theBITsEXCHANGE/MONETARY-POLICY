@@ -21,17 +21,21 @@ SOFTWARE.,
 :":"-'_'-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
 ::"-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
 ::"-'_'-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/blob/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9/THIS-DIRECTO-COPYRIGHTS_README.X
-::[Algorithm License]::
-::[THIS-DIRECTO-LOGS_README.x]::
-:"Algorithm License":
-::":-LOG-:"::
+::[MIT-LICENSE]::
+::[ALGORITHM-LICENSE]::
+::[LOGS_README.MD]::
+:":Algorithm License:":
+::-LOG-::
+:":-LOG-:":
 ::":-calculations-:-calculator-:-computer-:-computator-:-compute-:-compunation-:"::
 ::":-ATOMICS-:-INFORMATION-:-INFOMATIC-:-DATA-:-ECONOMICS-:-SPACIAL-:-TIME-:-CLOCK-:-CONTINUUM-:-STATE()-:-LOCALITIE-:-VECTOR-:-MEASURE-:-FLOW-:-MODULATE-:--total--:"::
 ::":-time-dating-calander-:"::
 ::":-time-frames-timer-:"::
 ::":-z-z0z0z0z-z-:"::
 ::":-calculations-:-calculator-:-computer-:-compute-:-comptroller-:"::
-::":-etcetera-so-for-:-secetera-so-for-:"::
+:":-etcetera-so-for-:-secetera-so-for-:":
+:":-squire-so-for-:":
+:":-0z0z0-:":
 :
 -\-z-1986-z-\:
 
