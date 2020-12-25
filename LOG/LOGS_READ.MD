@@ -271,10 +271,6 @@ SOFTWARE.,
 
 ,\nonce-.-cnonce_calculations\;
 
--\2020z12z15\:
-
-,\nonce-.-cnonce_calculations\;
-
 -\2020z12z16\:
 
 ,\nonce-.-cnonce_calculations\;
