@@ -15,6 +15,9 @@ OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :Algorithm License":
 :-squire-so-for-:
+::[MIT-LICENSE]::
+::[ALGORITHM-LICENSE]::
+::[LOGS_README.MD]::
 ::":"-'_'-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9/THIS-DIRECTO-COPYRIGHTS_README.X
 ::":"-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/blob/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
 :":"-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT:"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
@@ -27,8 +30,8 @@ SOFTWARE.,
 :":Algorithm License:":
 ::-LOG-::
 :":-LOG-:":
-::":-calculations-:-calculator-:-computer-:-computator-:-compute-:-compunation-:"::
-::":-ATOMICS-:-INFORMATION-:-INFOMATIC-:-DATA-:-ECONOMICS-:-SPACIAL-:-TIME-:-CLOCK-:-CONTINUUM-:-STATE()-:-LOCALITIE-:-VECTOR-:-MEASURE-:-FLOW-:-MODULATE-:--total--:"::
+::":-calculations-:-calculator-:-computer-:-computator-:-compute-:-compunation-:":
+::":-ATOMICS-:-INFORMATION-:-INFOMATIC-:-DATA-:-ECONOMICS-:-SPACIAL-:-TIME-:-CLOCK-:-CONTINUUM-:-STATE()-:-LOCALITIE-:-VECTOR-:-MEASURE-:-FLOW-:-MODULATE-:--total--:":
 ::":-time-dating-calander-:"::
 ::":-time-frames-timer-:"::
 ::":-z-z0z0z0z-z-:"::
