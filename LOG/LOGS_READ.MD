@@ -46,12 +46,14 @@ SOFTWARE.,
 :":-etcetera-so-for-:-secetera-so-for-:":
 :":-squire-so-for-:":
 :":-0z0z0-:":
+:-:0z0z0:-:
+
 :
--\-z-1986-z-\:
+-\-z-1987-z-\:
 
-,\calculating:"the fortating world economic economy and fiscal barter sentor at age ~5.7~ years old referencing state-house-responsibilities such as taxes, economics and monetary servitude to name few:the::U.S.'-government-'"::
+,\calculating:"the fortating world fiscal economy and fiscal barter deal-agreement, ears old referencing state-house-fisacality; such as taxes, financials and monetary servitude to name few:the::U.S.'-government-'"::
 
--\-z-z1986z2019z-z-\:
+-\-z1987z2019z-\:
 
 ,\nonce-.-cnonce_calculations\;
 
