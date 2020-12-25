@@ -84,11 +84,13 @@ SOFTWARE.,
 
 ,\nonce-.-cnonce_calculations\;
 
--\
+-\2020z11z02\:
 
+,\nonce-.-cnonce_calculations\;
 
+-\2020z11z03\:
 
-
+,\nonce-.-cnonce_calculations\;
 
 -\2020z11z04\:
 
@@ -202,6 +204,14 @@ SOFTWARE.,
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z11z30\:
+
+,\nonce-.-cnonce_calculations\;
+
+-\2020z11z31\:
+
+,\nonce-.-cnonce_calculations\;
+
+-\2020z11z01\:
 
 ,\nonce-.-cnonce_calculations\;
 
@@ -326,6 +336,10 @@ SOFTWARE.,
 ,\nonce-.-cnonce_calculations\;
 
 -\2020z12z30\:
+
+,\nonce-.-cnonce_calculations\;
+
+-\2020z12z31\:
 
 ,\nonce-.-cnonce_calculations\;
 
