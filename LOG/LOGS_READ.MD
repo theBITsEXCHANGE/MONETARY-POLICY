@@ -51,19 +51,44 @@ SOFTWARE.,
 :
 -\-z-1987-z-\:
 
+~
+
 ,\calculating:"the fortating world fiscal economy and fiscal barter deal-agreement, ears old referencing state-house-fisacality; such as taxes, financials and monetary servitude to name few:the::U.S.'-government-'"::
 
 -\-z1987z2019z-\:
+
+~
 
 ,\nonce-.-cnonce_calculations\;
 
 -\2013z07z14\:
 
+~
+
 ,\:formation:registration:"Catalano Concepts,Limited Liability Company (LLC),"::
 
--\2019z19z09\:
+-\2019z09z09\:
 
 ,\:formation:registration:"CLM ~ Concepts Learning Machine,non-profit;Corporation,"::
+
+-\2019z09z31\:
+
+,\nonce-.-cnonce_calculations\;
+
+-\2019z09z31\:
+
+
+~
+
+-\2020z11z01\:
+
+,\nonce-.-cnonce_calculations\;
+
+-\
+
+
+
+
 
 -\2020z11z04\:
 
