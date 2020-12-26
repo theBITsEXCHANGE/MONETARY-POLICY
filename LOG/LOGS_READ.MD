@@ -54,7 +54,7 @@ SOFTWARE.,
 ~
 -\-z-1987-z-\:
 ~
-,\calculating:"the fortating world fiscal policy, monitization, institutions and fiscal barter deal-agreement, ears old referencing state-house-fisacality; such as taxes, financials and monetary servitude to name few:the::U.S.'-government-'"::
+,\calculating:"the fortating world fiscal policy, monitization, barter trade deal-agreement;"etc.",',ears old referencing state-house-fisacality; such as taxes, financials and monetary servitude to name few:the::U.S.'-government-'"::
 
 -\-1987z2019-\:
 
