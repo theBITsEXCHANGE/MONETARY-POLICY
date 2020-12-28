@@ -3066,7 +3066,7 @@ and__or 'TIME'_'TIMER'"::;
 ,\nonce-.-cnonce_calculations;
 -\2036z12z01:
 ,\nonce-.-cnonce_calculations;
- -\2037z01z01:
+-\2037z01z01:
 ,\nonce-.-cnonce_calculations;
 -\2037z01z02:
 ,\nonce-.-cnonce_calculations;
@@ -3129,7 +3129,72 @@ and__or 'TIME'_'TIMER'"::;
 -\2037z01z31:
 ,\nonce-.-cnonce_calculations;
 -\2037z01z01:
-,\nonce-.-cnonce_calculations;*~ *~ *:":: ::": ~ :><0z0z0<>:
+,\nonce-.-cnonce_calculations;
+-\2037z02z01:
+,\nonce-.-cnonce_calculations;
+-\2037z02z02:
+,\nonce-.-cnonce_calculations;
+-\2037z02z03:
+,\nonce-.-cnonce_calculations;
+-\2037z02z04:
+,\nonce-.-cnonce_calculations;
+-\2037z02z05:
+,\nonce-.-cnonce_calculations;
+-\2037z02z06:
+,\nonce-.-cnonce_calculations;
+-\2037z02z07:
+,\nonce-.-cnonce_calculations;
+-\2037z02z08:
+,\nonce-.-cnonce_calculations;
+-\2037z02z09:
+,\nonce-.-cnonce_calculations;
+-\2037z02z10:
+,\nonce-.-cnonce_calculations;
+-\2037z02z11:
+,\nonce-.-cnonce_calculations;
+-\2037z02z12:
+,\nonce-.-cnonce_calculations;
+-\2037z02z13:
+,\nonce-.-cnonce_calculations;
+-\2027z02z14:
+,\nonce-.-cnonce_calculations;
+-\2037z02z15:
+,\nonce-.-cnonce_calculations;
+-\2037z02z16:
+,\nonce-.-cnonce_calculations;
+-\2037z02z17:
+,\nonce-.-cnonce_calculations;
+-\2037z02z18:
+,\nonce-.-cnonce_calculations;
+-\2037z02z19:
+,\nonce-.-cnonce_calculations;
+-\2037z02z20:
+,\nonce-.-cnonce_calculations;
+-\2037z02z21:
+,\nonce-.-cnonce_calculations;
+-\2037z02z22:
+,\nonce-.-cnonce_calculations;
+-\2037z02z23:
+,\nonce-.-cnonce_calculations;
+-\2037z02z24:
+,\nonce-.-cnonce_calculations;
+-\2037z02z25:
+,\nonce-.-cnonce_calculations;
+-\2037z02z26:
+,\nonce-.-cnonce_calculations;
+-\2037z02z27:
+,\nonce-.-cnonce_calculations;
+-\2037z02z28:
+,\nonce-.-cnonce_calculations;
+-\2037z02z29:
+,\nonce-.-cnonce_calculations;
+-\2037z02z30:
+,\nonce-.-cnonce_calculations;
+-\2037z02z31:
+,\nonce-.-cnonce_calculations;
+-\2037z02z01:
+,\nonce-.-cnonce_calculations;
+*~ *~ *:":: ::": ~ :><0z0z0<>:
 :-:-0z0z0:-: :":-0z0z0-:": :":-calculations-:-calculator-:-computer-:-
 computator-:--total--:": :":-calculations-:-computer-:-compute-:-
 comptroller-:--total--:": :":-'triage'-:,BIT(),BYTE(),:-every-;before
