@@ -1,4 +1,4 @@
-"$©$:$-THOMAS-$-CATALANO-$:$©$:.:Algorithm
+©$:$-THOMAS-$-CATALANO-$:$©$:.:Algorithm
 License:.:Permission is hereby granted, free of charge, to
 any person obtaining a copy "of this algorithm and
 associated documentation files",(this algorithm,algorithm
@@ -3576,4 +3576,4 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER,(IN AN,AN
 IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.:.:Algorithm
-License:.:$-THOMAS-$-CATALANO-$:$©$"<
+License:.:$-THOMAS-$-CATALANO-$:$©
