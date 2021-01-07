@@ -1,1 +1,1 @@
->©-THOMAS-CATALANO-©<
+.<-"->-<-(C)->-<-"_(C)-(R)-(TM)-(R)-(C)-(TM)_"->-<-"THOMAS_CATALANO"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"THOMAS_CATALANO"-"www.github.com/tomsnode"-"THOMAS_CATALANO"->-<-(C)->-<-"->. 
