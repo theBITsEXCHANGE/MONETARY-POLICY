@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 13.5.1//EN
+N:_•THOMASjosephCatalano•_;__’”’*__________ calligraphy”_________*’”-_.•;;;
+FN:__’”’*__________ calligraphy”_________*’”-_.• _•THOMASjosephCatalano•_
+ORG:•Catalano•;
+EMAIL;type=INTERNET;type=HOME;type=pref:.tomcatalano.0@gmail.com//////////////////////////
+EMAIL;type=INTERNET;type=WORK:tomcatalano@outlook.com.
+item1.EMAIL;type=INTERNET:.CLMlimitedliabilitycompany@gmail.com.
+item1.X-ABLabel:_$!<School>!$_
+TEL;type=HOME;type=VOICE;type=pref:+1 (313) 348-0827
+TEL;type=WORK;type=VOICE:+1 (720) 812-1626
+item2.ADR;type=HOME;type=pref:;;.5120 BROADWAY. \n.apartment 302.;.Denver.;.CO.;.80216-2099.;United States
+item2.X-ABADR:us
+item3.ADR;type=WORK:;;.9 Woodhull Avenue. \n.SE lower Teir.;.West Orange.;.NJ.;.07052-0000.;United States
+item3.X-ABADR:us
+item4.ADR:;;.-_. \n.-_.;.-_.;.-_.;.-_.;U.S. Virgin Islands
+item4.X-ABLabel:_$!<School>!$_
+item4.X-ABADR:vi
+BDAY:1981-02-05
+END:VCARD
