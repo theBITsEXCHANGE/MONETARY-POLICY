@@ -1,0 +1,1363 @@
+¿$&§||| This message was created automatically by the SMTP relay on esrutmmgwext.esa.int.
+
+A message that you sent could not be delivered to all of its recipients.
+The following address(es) failed:
+
+ webmaster@esa.int
+   SMTP error from remote mail server after RCPT TO:<webmaster@esa.int>:
+   host 172.18.96.4 [172.18.96.4]: 550 5.1.1 <webmaster@esa.int>:
+   Recipient address rejected: User unknown in local recipient table
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <universereservetreasury.0@gmail.com>
+Received: from mail-ot1-f51.google.com ([209.85.210.51]:34474)
+   by esrutmmgwext.esa.int with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+   (Exim 4.82_1-5b7a7c0-XX)
+   (envelope-from <universereservetreasury.0@gmail.com>)
+   id 1lEyzc-0004YX-2I
+   for webmaster@esa.int; Wed, 24 Feb 2021 19:34:37 +0100
+Received: by mail-ot1-f51.google.com with SMTP id b16so3158187otq.1
+       for <webmaster@esa.int>; Wed, 24 Feb 2021 10:34:36 -0800 (PST)
+X-CTCH-RefID: str=0001.0A782F23.60369C3D.0055,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=20161025;
+       h=content-transfer-encoding:from:mime-version:subject:date:references
+        :cc:to:message-id;
+       bh=QezkWEAMM5Bm905cQDdlZp8zIj7GnNjxyo6fIGr11cE=;
+       b=dOka6HoKXxM8l5SQrb98l4aa7BK6N2VEelwxg1XYIY4DYj+Lncu3j/W44xX/MB2ExO
+        dMxRX2qKfp4tMPmSYkLaILSKuzwXJu1TkB2O/EEG3FfehUp/gYXJ+RhK8nczmInVb2KR
+        90RneGBj530JE38TzGWW26r/o1iTM+4zKN1qL1WYkqQ6XRe82f12ntK41OSJXzn4x/PI
+        CVQbd1+GGMDv14rk4cmjh/uN53G9Ylsat8Asalo6iOtvw0GP6h7C3y4w+l0iDmrP55pp
+        qhLf83eTQ5FBl73COSshe+ROqplANp9NebtQ2JsZSACBcg+n0y/BuHLJ2vqYg2MaYVKI
+        VrOQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=1e100.net; s=20161025;
+       h=x-gm-message-state:content-transfer-encoding:from:mime-version
+        :subject:date:references:cc:to:message-id;
+       bh=QezkWEAMM5Bm905cQDdlZp8zIj7GnNjxyo6fIGr11cE=;
+       b=TshfNzA+daCnm7Bklu/hv2rlFEQRFdGkMChaGRZIGvXoJ68y2FHnKNuGLyKcFD9o8l
+        LzqGBbjlH+9Rq1h2EI9UTbCp3UohyzB++48ZhZ9xWqboFShiq3VDMImwcuIx34/TLFzc
+        iljtkoh5MBalgMbrW0/2v4CMTVACFO/6X8dGqMD5dz7ySsmBYR/pEBwa+s+VgEH1EtSw
+        5GpVD6ATqYI7iZ2Yu6cbzRLIdvBioVeoNEqIfgdQ/nYy9BE9v4GEV+xx/6eG4zJFSXys
+        QQspwoQ59P5tOms+CEt6Bduzi5pL4lBt1S0iCTFisbOEOTCmjCqu6U1N9zemLjHOZwrx
+        1OZQ==
+X-Gm-Message-State: AOAM531r7yyMsGlCjRblFB7BZGsGPVRi5eHyEQOnePJ2jsINik7JxxRH
+   LvTrqbhAiWEpeJRoNCzpE2NbB/yMLgM=
+X-Google-Smtp-Source: ABdhPJw4pPDMR1M7KAaTr+LB/5GpT8r0cv1H7UdHFlKlGwkSiy6aBfT+IE1NrEi2IuISxvJHXNdf6A==
+X-Received: by 2002:a9d:4d0f:: with SMTP id n15mr3438785otf.134.1614191674267;
+       Wed, 24 Feb 2021 10:34:34 -0800 (PST)
+Return-Path: <universereservetreasury.0@gmail.com>
+Received: from ?IPv6:2600:100e:b01e:18cf:3130:66ff:9172:fbb2? ([2600:100e:b01e:18cf:3130:66ff:9172:fbb2])
+       by smtp.gmail.com with ESMTPSA id a7sm559397oon.8.2021.02.24.10.34.33
+       (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+       Wed, 24 Feb 2021 10:34:33 -0800 (PST)
+Content-Type: multipart/alternative; boundary=Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01
+Content-Transfer-Encoding: 7bit
+From: =?utf-8?Q?_=C2=BF=C2=A7|THOMASjCatalano|=C2=A1=C2=A7?= <universereservetreasury.0@gmail.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Fwd:_=C2=BF=C2=BF$Skip_to_Main_Content_Help_|_Apply_fo?=
+=?utf-8?Q?r_New_EIN_|_Exit_EIN_Assistant___Your_Progress:1._Iden?=
+=?utf-8?Q?tity_2._Authenticate_3._Addresses_4._Details_5._EIN_Co?=
+=?utf-8?Q?nfirmation_Summary_of_your_information__Please_review_?=
+=?utf-8?Q?the_information_you_are_about_to_submit._If_any_of_the?=
+=?utf-8?Q?_information_below_is_incorrect,_you_will_need_to_star?=
+=?utf-8?Q?t_a_new_application.__Click_the_"Submit"_button_at_the?=
+=?utf-8?Q?_bottom_of_the_page_to_receive_your_EIN.___Organizatio?=
+=?utf-8?Q?n_Type:_Non-Profit/Tax-Exempt_Organization___=09_Non-P?=
+=?utf-8?Q?rofit/Tax-Exempt_Organization_Information___=09Legal_n?=
+=?utf-8?Q?ame:=09SUPREME_COURT_OF_THE_UNITED_STATES_Trade_name/D?=
+=?utf-8?Q?oing_business_as:=09SUPREME_COURT_OF_THE_UNITED_STATES?=
+=?utf-8?Q?_County:=09DISTRICT_OF_COLUMBIA_State/Territory:=09DC_?=
+=?utf-8?Q?Start_date:=09FEBRUARY_2021______=09_Addresses___=09Ph?=
+=?utf-8?Q?ysical_Location:=091_1ST_ST_NE__=09_=09WASHINGTON_DC_2?=
+=?utf-8?Q?0543__=09Phone_Number:_=09313-348-0827___=09Mailing_Ad?=
+=?utf-8?Q?dress:=095120_BROADWAY_APT_302__=09=09DENVER_CO_80216_?=
+=?utf-8?Q?_=09=09UNITED_STATES____Responsible_Party_Name:=09THOM?=
+=?utf-8?Q?AS_J_CATALANO_SSN/ITIN:=09XXX-XX-4812______=09_Employe?=
+=?utf-8?Q?e_Information_Date_wages_or_annu?=
+Date: Wed, 24 Feb 2021 11:34:32 -0700
+References: <1174FD61-3C1E-4594-8714-5B15D3D55FD4@gmail.com>
+Cc: webmaster@esa.int
+To: webmaster@irs.gov
+Message-Id: <C24C568F-1A7A-408B-AD73-2B2F9D73D18C@gmail.com>
+X-Mailer: iPhone Mail (17F80)
+
+
+--Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01
+Content-Type: text/plain;
+   charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=
+=E2=80=A2_||||
+
+Begin forwarded message:
+
+From: =C2=BF=C2=A7|THOMASjCatalano|=C2=A1=C2=A7 <universereservetreasury.0=
+@gmail.com>
+Date: February 24, 2021 at 11:32:13 MST
+To: UniverseReserveTreasury.0@gmail.com
+Cc: .UniverseReserveTreasury.0@gmail.com
+Subject: Fwd:  =C2=BF=C2=BF$Skip to Main Content Help | Apply for New EIN |=
+Exit EIN Assistant  Your Progress:1. Identity 2. Authenticate 3. Addresses 4=
+. Details 5. EIN Confirmation Summary of your information  Please review the=
+information you are about to submit. If any of the information below is inc=
+orrect, you will need to start a new application.  Click the "Submit" button=
+at the bottom of the page to receive your EIN.  Organization Type: Non-Prof=
+it/Tax-Exempt Organization  Non-Profit/Tax-Exempt Organization Information  L=
+egal name: SUPREME COURT OF THE UNITED STATES Trade name/Doing business as: S=
+UPREME COURT OF THE UNITED STATES County: DISTRICT OF COLUMBIA State/Territo=
+ry: DC Start date: FEBRUARY 2021      Addresses  Physical Location: 1 1ST ST=
+NE  WASHINGTON DC 20543  Phone Number: 313-348-0827  Mailing Address: 5120 B=
+ROADWAY APT 302  DENVER CO 80216  UNITED STATES    Responsible Party Name: T=
+HOMAS J CATALANO SSN/ITIN: XXX-XX-4812      Employee Information Date wages o=
+r annuit
+=20
+=EF=BB=BF
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+=99=E2=80=A2_||||
+=20
+Begin forwarded message:
+=20
+From: =C2=BF=C2=A7|THOMASjCatalano|=C2=A1=C2=A7 <universereservetreasury.=
+0@gmail.com>
+Date: February 24, 2021 at 11:31:00 MST
+To: .UniverseReserveTreasury.0@gmail.com
+Cc: UniverseReserveTreasury.0@gmail.com
+Subject: =C2=BF=C2=BF$Skip to Main Content Help | Apply for New EIN | Exi=
+t EIN Assistant  Your Progress:1. Identity 2. Authenticate 3. Addresses 4. D=
+etails 5. EIN Confirmation Summary of your information  Please review the in=
+formation you are about to submit. If any of the information below is incorr=
+ect, you will need to start a new application.  Click the "Submit" button at=
+the bottom of the page to receive your EIN.  Organization Type: Non-Profit/=
+Tax-Exempt Organization  Non-Profit/Tax-Exempt Organization Information  Leg=
+al name: SUPREME COURT OF THE UNITED STATES Trade name/Doing business as: SU=
+PREME COURT OF THE UNITED STATES County: DISTRICT OF COLUMBIA State/Territor=
+y: DC Start date: FEBRUARY 2021      Addresses  Physical Location: 1 1ST ST N=
+E  WASHINGTON DC 20543  Phone Number: 313-348-0827  Mailing Address: 5120 BR=
+OADWAY APT 302  DENVER CO 80216  UNITED STATES    Responsible Party Name: TH=
+OMAS J CATALANO SSN/ITIN: XXX-XX-4812      Employee Information Date wages o=
+r annuit
+=20
+=EF=BB=BF=C2=BF$ Help | Apply for New EIN | Exit
+EIN Assistant
+=20
+Your Progress:1. Identity 2. Authenticate 3. Addresses 4. Details 5. EIN C=
+onfirmation
+Summary of your information
+=20
+Please review the information you are about to submit. If any of the info=
+rmation below is incorrect, you will need to start a new application.
+=20
+Click the "Submit" button at the bottom of the page to receive your EIN.
+=20
+=20
+Organization Type: Non-Profit/Tax-Exempt Organization
+=20
+=09
+Non-Profit/Tax-Exempt Organization Information
+=20
+   Legal name:    SUPREME COURT OF THE UNITED STATES
+Trade name/Doing business as:    SUPREME COURT OF THE UNITED STATES
+County:    DISTRICT OF COLUMBIA
+State/Territory:    DC
+Start date:    FEBRUARY 2021
+=20
+=20
+=20
+=09
+Addresses
+=20
+   Physical Location:    1 1ST ST NE
+       WASHINGTON DC 20543
+   Phone Number:    313-348-0827
+=20
+   Mailing Address:    5120 BROADWAY APT 302
+       DENVER CO 80216=20
+       UNITED STATES=20
+=20
+=20
+Responsible Party
+Name:    THOMAS J CATALANO
+SSN/ITIN:    XXX-XX-4812
+=20
+=20
+=20
+=09
+Employee Information
+Date wages or annuities will be paid:    FEBRUARY 2021=20
+Number of agricultural employees:    1
+Number of other employees:    1
+Tax Liability of $1000 or less during calendar year:    NO
+=20
+=20
+=20
+Principal Business Activity=20
+What your business/organization does:    OTHER
+Principal products/services:    POLICY
+=20
+=20
+=20
+Additional Non-Profit/Tax-Exempt Organization Information
+Owns a 55,000 pounds or greater=20
+highway motor vehicle: =09
+NO
+Involves gambling/wagering:    NO
+Involves alcohol, tobacco or firearms:    NO
+Files Form 720 (Quarterly=20
+Federal Excise Tax Return): =09
+YES
+Has employees who receive Forms W-2:    YES
+Reason for Applying:    PURCHASED ACTIVE BUSINESS
+=20
+=20
+=20
+We strongly recommend you print this summary page for your records as thi=
+s will be your only copy of the application. You will not be able to return t=
+o this page after you click the "Submit" button.=20
+=20
+=20
+Click "Submit" to send your request and receive your EIN.
+   Once you submit, please wait while your application is being proces=
+sed. It can take up to two minutes for your application to be processed.
+IRS Privacy Policy | Accessibility=20
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+=99=E2=80=A2_||||
+
+--Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01
+Content-Type: text/html;
+   charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><br><br><div dir=3D"ltr">||||_=E2=80=A2=E2=80=
+=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||</di=
+v><div dir=3D"ltr"><br>Begin forwarded message:<br><br></div><blockquote typ=
+e=3D"cite"><div dir=3D"ltr"><b>From:</b> =C2=BF=C2=A7|THOMASjCatalano|=C2=A1=
+=C2=A7 &lt;universereservetreasury.0@gmail.com&gt;<br><b>Date:</b> February 2=
+4, 2021 at 11:32:13 MST<br><b>To:</b> UniverseReserveTreasury.0@gmail.com<br=
+<b>Cc:</b> .UniverseReserveTreasury.0@gmail.com<br><b>Subject:</b> <b>Fwd:&=
+nbsp;  =C2=BF=C2=BF$Skip to Main Content Help | Apply for New EIN | Exit EIN=
+Assistant&nbsp;  Your Progress:1. Identity 2. Authenticate 3. Addresses 4. D=
+etails 5. EIN Confirmation Summary of your information&nbsp; Please review t=
+he information you are about to submit. If any of the information below is i=
+ncorrect, you will need to start a new application.&nbsp; Click the "Submit"=
+button at the bottom of the page to receive your EIN.&nbsp;  Organization T=
+ype: Non-Profit/Tax-Exempt Organization&nbsp;       Non-Profit/Tax-Exempt Orga=
+nization Information&nbsp;      Legal name:    SUPREME COURT OF THE UNITED=
+STATES Trade name/Doing business as:    SUPREME COURT OF THE UNITED STATES C=
+ounty:    DISTRICT OF COLUMBIA State/Territory:    DC Start date:    FEBRUARY 20=
+21&nbsp; &nbsp; &nbsp;     Addresses&nbsp;      Physical Location:    1 1=
+ST ST NE&nbsp;        WASHINGTON DC 20543&nbsp;    Phone Number:    313=
+-348-0827&nbsp;      Mailing Address:    5120 BROADWAY APT 302&nbsp;=
+       DENVER CO 80216&nbsp;        UNITED STATES&nbsp; &nbsp; R=
+esponsible Party Name:    THOMAS J CATALANO SSN/ITIN:    XXX-XX-4812&nbsp; &=
+nbsp; &nbsp;     Employee Information Date wages or annuit</b><br><br></div=
+</blockquote><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<meta http=
+-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"><br><br><div d=
+ir=3D"ltr">||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=
+=9D=E2=80=99=E2=80=A2_||||</div><div dir=3D"ltr"><br>Begin forwarded message=
+:<br><br></div><blockquote type=3D"cite"><div dir=3D"ltr"><b>From:</b> =C2=BF=
+=C2=A7|THOMASjCatalano|=C2=A1=C2=A7 &lt;universereservetreasury.0@gmail.com&=
+gt;<br><b>Date:</b> February 24, 2021 at 11:31:00 MST<br><b>To:</b> .Univers=
+eReserveTreasury.0@gmail.com<br><b>Cc:</b> UniverseReserveTreasury.0@gmail.c=
+om<br><b>Subject:</b> <b>=C2=BF=C2=BF$Skip to Main Content Help | Apply for N=
+ew EIN | Exit EIN Assistant&nbsp;  Your Progress:1. Identity 2. Authenticate=
+3. Addresses 4. Details 5. EIN Confirmation Summary of your information&nbs=
+p; Please review the information you are about to submit. If any of the info=
+rmation below is incorrect, you will need to start a new application.&nbsp; C=
+lick the "Submit" button at the bottom of the page to receive your EIN.&nbsp=
+;  Organization Type: Non-Profit/Tax-Exempt Organization&nbsp;       No=
+n-Profit/Tax-Exempt Organization Information&nbsp;      Legal name:    SUP=
+REME COURT OF THE UNITED STATES Trade name/Doing business as:    SUPREME COU=
+RT OF THE UNITED STATES County:    DISTRICT OF COLUMBIA State/Territory:    DC S=
+tart date:    FEBRUARY 2021&nbsp; &nbsp; &nbsp;     Addresses&nbsp;  =
+   Physical Location:    1 1ST ST NE&nbsp;        WASHINGTON DC 20543=
+&nbsp;    Phone Number:    313-348-0827&nbsp;      Mailing Address:    512=
+0 BROADWAY APT 302&nbsp;        DENVER CO 80216&nbsp;        UNI=
+TED STATES&nbsp; &nbsp; Responsible Party Name:    THOMAS J CATALANO SSN/ITIN:=
+   XXX-XX-4812&nbsp; &nbsp; &nbsp;     Employee Information Date w=
+ages or annuit</b><br><br></div></blockquote><blockquote type=3D"cite"><div d=
+ir=3D"ltr">=EF=BB=BF<meta http-equiv=3D"content-type" content=3D"text/html; c=
+harset=3Dutf-8">=C2=BF$<a href=3D"https://sa.www4.irs.gov/modiein/individual=
+/verify-information.jsp#SkipLinks" style=3D"text-align: right; font-family: a=
+rial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto; f=
+ont-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><img src=3D"=
+https://sa.www4.irs.gov/modiein/images/blank.gif" title=3D"Skip to Main Cont=
+ent." alt=3D"Skip to Main Content" width=3D"0" height=3D"0" border=3D"0" sty=
+le=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""></a><span style=
+=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: right; background-co=
+lor: rgb(216, 254, 255); font-family: arial, verdana, sans-serif; font-size:=
+12px; -webkit-text-size-adjust: auto;">&nbsp;</span><a href=3D"https://sa.w=
+ww4.irs.gov/modiein/individual/help/help-toc.jsp" target=3D"help_popup" titl=
+e=3D"Click here to go to the Help page." style=3D"text-align: right; font-fa=
+mily: arial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust:=
+auto; font-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><b>H=
+elp</b></a><span style=3D"font-weight: bold; color: rgb(0, 0, 0); text-align=
+: right; background-color: rgb(216, 254, 255); font-family: arial, verdana, s=
+ans-serif; font-size: 12px; -webkit-text-size-adjust: auto;">&nbsp;</span><s=
+pan style=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: right; back=
+ground-color: rgb(216, 254, 255); font-family: arial, verdana, sans-serif; f=
+ont-size: 12px; -webkit-text-size-adjust: auto;">|</span><span style=3D"font=
+-weight: bold; color: rgb(0, 0, 0); text-align: right; background-color: rgb=
+(216, 254, 255); font-family: arial, verdana, sans-serif; font-size: 12px; -=
+webkit-text-size-adjust: auto;">&nbsp;</span><a href=3D"https://sa.www4.irs.=
+gov/modiein/IndividualEINClientServlet?action=3DStartNewAppAction" title=3D"=
+Click here to apply for a new EIN." style=3D"text-align: right; font-family:=
+arial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto=
+; font-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><b>Apply f=
+or New EIN</b></a><span style=3D"font-weight: bold; color: rgb(0, 0, 0); tex=
+t-align: right; background-color: rgb(216, 254, 255); font-family: arial, ve=
+rdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto;">&nbsp;<=
+/span><span style=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: rig=
+ht; background-color: rgb(216, 254, 255); font-family: arial, verdana, sans-=
+serif; font-size: 12px; -webkit-text-size-adjust: auto;">|</span><span style=
+=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: right; background-co=
+lor: rgb(216, 254, 255); font-family: arial, verdana, sans-serif; font-size:=
+12px; -webkit-text-size-adjust: auto;">&nbsp;</span><a href=3D"https://sa.w=
+ww4.irs.gov/modiein/IndividualEINClientServlet?action=3DExitApplicationActio=
+n" title=3D"Click here to exit." style=3D"text-align: right; font-family: ar=
+ial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto; f=
+ont-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><b>Exit</b><=
+/a><div id=3D"main" style=3D"-webkit-text-size-adjust: auto; font-stretch: n=
+ormal; font-size: 12px; line-height: normal; font-family: arial, verdana, sa=
+ns-serif; background-color: rgb(255, 255, 255); width: 770px; margin: -0.5em=
+auto 0em; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"><div id=3D"skipn=
+av"><a name=3D"SkipLinks"></a></div><div class=3D"individual-page-title" sty=
+le=3D"padding-left: 10px; padding-bottom: 5px;"><h1 style=3D"font-stretch: n=
+ormal; font-size: 15px; line-height: normal; color: rgb(0, 30, 90);">EIN Ass=
+istant<img src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=
+=3D"720" height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-uniq=
+ue-identifier=3D""></h1></div></div><div id=3D"main" style=3D"-webkit-text-s=
+ize-adjust: auto; font-stretch: normal; font-size: 12px; line-height: normal=
+; font-family: arial, verdana, sans-serif; background-color: rgb(255, 255, 2=
+55); width: 770px; margin: -0.5em auto 0em; caret-color: rgb(0, 0, 0); color=
+: rgb(0, 0, 0);"><div class=3D"ind-headerBar" style=3D"background-color: rgb=
+(0, 30, 90); text-align: right; padding: 0px; height: 31px; margin-top: -13p=
+x;"><div id=3D"individual-list" style=3D"padding-top: 2px; padding-bottom: 2=
+px;"><ul style=3D"margin-top: -2px; margin-left: -40px;"><li style=3D"margin=
+-left: 0px; float: left; color: rgb(255, 255, 255); text-align: center; font=
+-weight: bold; width: 125px; display: inline; padding-top: 2px; padding-bott=
+om: 2px;">Your Progress:</li><li id=3D"identity1" style=3D"margin-left: 0px;=
+float: left; color: rgb(255, 255, 255); text-align: center; font-weight: bo=
+ld; width: 125px; display: inline; padding-top: 2px; padding-bottom: 2px;">1=
+. Identity&nbsp;<img id=3D"" src=3D"https://sa.www4.irs.gov/modiein/images/c=
+heck-web.gif" title=3D"" style=3D"margin: 0px; border: 0px;" data-unique-ide=
+ntifier=3D""></li><li id=3D"authenticate1" style=3D"margin-left: 0px; float:=
+left; color: rgb(255, 255, 255); text-align: center; font-weight: bold; wid=
+th: 125px; display: inline; padding-top: 2px; padding-bottom: 2px;">2. Authe=
+nticate&nbsp;<img id=3D"" src=3D"https://sa.www4.irs.gov/modiein/images/chec=
+k-web.gif" title=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identi=
+fier=3D""></li><li id=3D"address1" style=3D"margin-left: 0px; float: left; c=
+olor: rgb(255, 255, 255); text-align: center; font-weight: bold; width: 125p=
+x; display: inline; padding-top: 2px; padding-bottom: 2px;">3. Addresses&nbs=
+p;<img id=3D"" src=3D"https://sa.www4.irs.gov/modiein/images/check-web.gif" t=
+itle=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""></=
+li><li id=3D"details1" style=3D"margin-left: 0px; float: left; color: rgb(25=
+5, 255, 255); text-align: center; font-weight: bold; width: 125px; display: i=
+nline; padding-top: 2px; padding-bottom: 2px;">4. Details&nbsp;<img id=3D"" s=
+rc=3D"https://sa.www4.irs.gov/modiein/images/check-web.gif" title=3D"" style=
+=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""></li><li id=3D"ei=
+n-confirmation1" style=3D"margin-left: 0px; float: left; background-color: r=
+gb(187, 202, 233); text-align: center; font-weight: bold; width: 125px; disp=
+lay: inline; padding-top: 2px; padding-bottom: 2px;">5. EIN Confirmation</li=
+</ul></div></div></div><div id=3D"main" class=3D"body" style=3D"-webkit-tex=
+t-size-adjust: auto; font-stretch: normal; font-size: 12px; line-height: nor=
+mal; font-family: arial, verdana, sans-serif; background-color: rgb(255, 255=
+, 255); width: 770px; margin: -12px auto 0em; caret-color: rgb(0, 0, 0); col=
+or: rgb(0, 0, 0);"><div id=3D"topcontent" class=3D"nopadding" style=3D"paddi=
+ng: 3px 10px 0px;"><div id=3D"individual-leftcontent" style=3D"float: left; w=
+idth: 562.5px;"><h2 st ¿ ¿$$&§|||
+
+
+Edit profile
+„’“THOMAS CATALANO”"„
+@tomsnode
+@tomsnode
+¿github.com/theBITsEXCHANG…Born February 5, 1981Joined January 2016
+141 Following
+175 Followers
+Tweets
+Tweets & replies
+Media
+Likes
+„’“THOMAS CATALANO”"„’s Tweets
+You Retweeted
+
+„’“THOMAS CATALANO”"„
+@tomsnode
+·
+2m
+¿&§@ 
+@tomsnode
+ ||’BIO: §The content of this THØMASjCatalanø |
+
+
+
+Edit profile
+„’“THOMAS CATALANO”"„
+@tomsnode
+@tomsnode
+¿github.com/theBITsEXCHANG…Born February 5, 1981Joined January 2016
+141 Following
+175 Followers
+Tweets
+Tweets & replies
+Media
+Likes
+„’“THOMAS CATALANO”"„’s Tweets
+You Retweeted
+
+„’“THOMAS CATALANO”"„
+@tomsnode
+·
+2m
+¿&§@ 
+@tomsnode
+ ||’BIO: §The content of this THØMASjCatalanø ||–135-74-4812—|
+
+
+
+Edit profile
+„’“THOMAS CATALANO”"„
+@tomsnode
+@tomsnode
+¿github.com/theBITsEXCHANG…Born February 5, 1981Joined January 2016
+141 Following
+175 Followers
+Tweets
+Tweets & replies
+Media
+Likes
+„’“THOMAS CATALANO”"„’s Tweets
+You Retweeted
+
+„’“THOMAS CATALANO”"„
+@tomsnode
+·
+2m
+¿&§@ 
+@tomsnode
+ ||’BIO: §The content of this THØMASjCatalanø |||¡&&§§§•§•• ¿¿$¿$&§||| This message was created automatically by the SMTP relay on esrutmmgwext.esa.int.
+
+A message that you sent could not be delivered to all of its recipients.
+The following address(es) failed:
+
+ webmaster@esa.int
+   SMTP error from remote mail server after RCPT TO:<webmaster@esa.int>:
+   host 172.18.96.4 [172.18.96.4]: 550 5.1.1 <webmaster@esa.int>:
+   Recipient address rejected: User unknown in local recipient table
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <universereservetreasury.0@gmail.com>
+Received: from mail-ot1-f51.google.com ([209.85.210.51]:34474)
+   by esrutmmgwext.esa.int with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+   (Exim 4.82_1-5b7a7c0-XX)
+   (envelope-from <universereservetreasury.0@gmail.com>)
+   id 1lEyzc-0004YX-2I
+   for webmaster@esa.int; Wed, 24 Feb 2021 19:34:37 +0100
+Received: by mail-ot1-f51.google.com with SMTP id b16so3158187otq.1
+       for <webmaster@esa.int>; Wed, 24 Feb 2021 10:34:36 -0800 (PST)
+X-CTCH-RefID: str=0001.0A782F23.60369C3D.0055,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=20161025;
+       h=content-transfer-encoding:from:mime-version:subject:date:references
+        :cc:to:message-id;
+       bh=QezkWEAMM5Bm905cQDdlZp8zIj7GnNjxyo6fIGr11cE=;
+       b=dOka6HoKXxM8l5SQrb98l4aa7BK6N2VEelwxg1XYIY4DYj+Lncu3j/W44xX/MB2ExO
+        dMxRX2qKfp4tMPmSYkLaILSKuzwXJu1TkB2O/EEG3FfehUp/gYXJ+RhK8nczmInVb2KR
+        90RneGBj530JE38TzGWW26r/o1iTM+4zKN1qL1WYkqQ6XRe82f12ntK41OSJXzn4x/PI
+        CVQbd1+GGMDv14rk4cmjh/uN53G9Ylsat8Asalo6iOtvw0GP6h7C3y4w+l0iDmrP55pp
+        qhLf83eTQ5FBl73COSshe+ROqplANp9NebtQ2JsZSACBcg+n0y/BuHLJ2vqYg2MaYVKI
+        VrOQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=1e100.net; s=20161025;
+       h=x-gm-message-state:content-transfer-encoding:from:mime-version
+        :subject:date:references:cc:to:message-id;
+       bh=QezkWEAMM5Bm905cQDdlZp8zIj7GnNjxyo6fIGr11cE=;
+       b=TshfNzA+daCnm7Bklu/hv2rlFEQRFdGkMChaGRZIGvXoJ68y2FHnKNuGLyKcFD9o8l
+        LzqGBbjlH+9Rq1h2EI9UTbCp3UohyzB++48ZhZ9xWqboFShiq3VDMImwcuIx34/TLFzc
+        iljtkoh5MBalgMbrW0/2v4CMTVACFO/6X8dGqMD5dz7ySsmBYR/pEBwa+s+VgEH1EtSw
+        5GpVD6ATqYI7iZ2Yu6cbzRLIdvBioVeoNEqIfgdQ/nYy9BE9v4GEV+xx/6eG4zJFSXys
+        QQspwoQ59P5tOms+CEt6Bduzi5pL4lBt1S0iCTFisbOEOTCmjCqu6U1N9zemLjHOZwrx
+        1OZQ==
+X-Gm-Message-State: AOAM531r7yyMsGlCjRblFB7BZGsGPVRi5eHyEQOnePJ2jsINik7JxxRH
+   LvTrqbhAiWEpeJRoNCzpE2NbB/yMLgM=
+X-Google-Smtp-Source: ABdhPJw4pPDMR1M7KAaTr+LB/5GpT8r0cv1H7UdHFlKlGwkSiy6aBfT+IE1NrEi2IuISxvJHXNdf6A==
+X-Received: by 2002:a9d:4d0f:: with SMTP id n15mr3438785otf.134.1614191674267;
+       Wed, 24 Feb 2021 10:34:34 -0800 (PST)
+Return-Path: <universereservetreasury.0@gmail.com>
+Received: from ?IPv6:2600:100e:b01e:18cf:3130:66ff:9172:fbb2? ([2600:100e:b01e:18cf:3130:66ff:9172:fbb2])
+       by smtp.gmail.com with ESMTPSA id a7sm559397oon.8.2021.02.24.10.34.33
+       (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+       Wed, 24 Feb 2021 10:34:33 -0800 (PST)
+Content-Type: multipart/alternative; boundary=Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01
+Content-Transfer-Encoding: 7bit
+From: =?utf-8?Q?_=C2=BF=C2=A7|THOMASjCatalano|=C2=A1=C2=A7?= <universereservetreasury.0@gmail.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Fwd:_=C2=BF=C2=BF$Skip_to_Main_Content_Help_|_Apply_fo?=
+=?utf-8?Q?r_New_EIN_|_Exit_EIN_Assistant___Your_Progress:1._Iden?=
+=?utf-8?Q?tity_2._Authenticate_3._Addresses_4._Details_5._EIN_Co?=
+=?utf-8?Q?nfirmation_Summary_of_your_information__Please_review_?=
+=?utf-8?Q?the_information_you_are_about_to_submit._If_any_of_the?=
+=?utf-8?Q?_information_below_is_incorrect,_you_will_need_to_star?=
+=?utf-8?Q?t_a_new_application.__Click_the_"Submit"_button_at_the?=
+=?utf-8?Q?_bottom_of_the_page_to_receive_your_EIN.___Organizatio?=
+=?utf-8?Q?n_Type:_Non-Profit/Tax-Exempt_Organization___=09_Non-P?=
+=?utf-8?Q?rofit/Tax-Exempt_Organization_Information___=09Legal_n?=
+=?utf-8?Q?ame:=09SUPREME_COURT_OF_THE_UNITED_STATES_Trade_name/D?=
+=?utf-8?Q?oing_business_as:=09SUPREME_COURT_OF_THE_UNITED_STATES?=
+=?utf-8?Q?_County:=09DISTRICT_OF_COLUMBIA_State/Territory:=09DC_?=
+=?utf-8?Q?Start_date:=09FEBRUARY_2021______=09_Addresses___=09Ph?=
+=?utf-8?Q?ysical_Location:=091_1ST_ST_NE__=09_=09WASHINGTON_DC_2?=
+=?utf-8?Q?0543__=09Phone_Number:_=09313-348-0827___=09Mailing_Ad?=
+=?utf-8?Q?dress:=095120_BROADWAY_APT_302__=09=09DENVER_CO_80216_?=
+=?utf-8?Q?_=09=09UNITED_STATES____Responsible_Party_Name:=09THOM?=
+=?utf-8?Q?AS_J_CATALANO_SSN/ITIN:=09XXX-XX-4812______=09_Employe?=
+=?utf-8?Q?e_Information_Date_wages_or_annu?=
+Date: Wed, 24 Feb 2021 11:34:32 -0700
+References: <1174FD61-3C1E-4594-8714-5B15D3D55FD4@gmail.com>
+Cc: webmaster@esa.int
+To: webmaster@irs.gov
+Message-Id: <C24C568F-1A7A-408B-AD73-2B2F9D73D18C@gmail.com>
+X-Mailer: iPhone Mail (17F80)
+
+
+--Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01
+Content-Type: text/plain;
+   charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=
+=E2=80=A2_||||
+
+Begin forwarded message:
+
+From: =C2=BF=C2=A7|THOMASjCatalano|=C2=A1=C2=A7 <universereservetreasury.0=
+@gmail.com>
+Date: February 24, 2021 at 11:32:13 MST
+To: UniverseReserveTreasury.0@gmail.com
+Cc: .UniverseReserveTreasury.0@gmail.com
+Subject: Fwd:  =C2=BF=C2=BF$Skip to Main Content Help | Apply for New EIN |=
+Exit EIN Assistant  Your Progress:1. Identity 2. Authenticate 3. Addresses 4=
+. Details 5. EIN Confirmation Summary of your information  Please review the=
+information you are about to submit. If any of the information below is inc=
+orrect, you will need to start a new application.  Click the "Submit" button=
+at the bottom of the page to receive your EIN.  Organization Type: Non-Prof=
+it/Tax-Exempt Organization  Non-Profit/Tax-Exempt Organization Information  L=
+egal name: SUPREME COURT OF THE UNITED STATES Trade name/Doing business as: S=
+UPREME COURT OF THE UNITED STATES County: DISTRICT OF COLUMBIA State/Territo=
+ry: DC Start date: FEBRUARY 2021      Addresses  Physical Location: 1 1ST ST=
+NE  WASHINGTON DC 20543  Phone Number: 313-348-0827  Mailing Address: 5120 B=
+ROADWAY APT 302  DENVER CO 80216  UNITED STATES    Responsible Party Name: T=
+HOMAS J CATALANO SSN/ITIN: XXX-XX-4812      Employee Information Date wages o=
+r annuit
+=20
+=EF=BB=BF
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+=99=E2=80=A2_||||
+=20
+Begin forwarded message:
+=20
+From: =C2=BF=C2=A7|THOMASjCatalano|=C2=A1=C2=A7 <universereservetreasury.=
+0@gmail.com>
+Date: February 24, 2021 at 11:31:00 MST
+To: .UniverseReserveTreasury.0@gmail.com
+Cc: UniverseReserveTreasury.0@gmail.com
+Subject: =C2=BF=C2=BF$Skip to Main Content Help | Apply for New EIN | Exi=
+t EIN Assistant  Your Progress:1. Identity 2. Authenticate 3. Addresses 4. D=
+etails 5. EIN Confirmation Summary of your information  Please review the in=
+formation you are about to submit. If any of the information below is incorr=
+ect, you will need to start a new application.  Click the "Submit" button at=
+the bottom of the page to receive your EIN.  Organization Type: Non-Profit/=
+Tax-Exempt Organization  Non-Profit/Tax-Exempt Organization Information  Leg=
+al name: SUPREME COURT OF THE UNITED STATES Trade name/Doing business as: SU=
+PREME COURT OF THE UNITED STATES County: DISTRICT OF COLUMBIA State/Territor=
+y: DC Start date: FEBRUARY 2021      Addresses  Physical Location: 1 1ST ST N=
+E  WASHINGTON DC 20543  Phone Number: 313-348-0827  Mailing Address: 5120 BR=
+OADWAY APT 302  DENVER CO 80216  UNITED STATES    Responsible Party Name: TH=
+OMAS J CATALANO SSN/ITIN: XXX-XX-4812      Employee Information Date wages o=
+r annuit
+=20
+=EF=BB=BF=C2=BF$ Help | Apply for New EIN | Exit
+EIN Assistant
+=20
+Your Progress:1. Identity 2. Authenticate 3. Addresses 4. Details 5. EIN C=
+onfirmation
+Summary of your information
+=20
+Please review the information you are about to submit. If any of the info=
+rmation below is incorrect, you will need to start a new application.
+=20
+Click the "Submit" button at the bottom of the page to receive your EIN.
+=20
+=20
+Organization Type: Non-Profit/Tax-Exempt Organization
+=20
+=09
+Non-Profit/Tax-Exempt Organization Information
+=20
+   Legal name:    SUPREME COURT OF THE UNITED STATES
+Trade name/Doing business as:    SUPREME COURT OF THE UNITED STATES
+County:    DISTRICT OF COLUMBIA
+State/Territory:    DC
+Start date:    FEBRUARY 2021
+=20
+=20
+=20
+=09
+Addresses
+=20
+   Physical Location:    1 1ST ST NE
+       WASHINGTON DC 20543
+   Phone Number:    313-348-0827
+=20
+   Mailing Address:    5120 BROADWAY APT 302
+       DENVER CO 80216=20
+       UNITED STATES=20
+=20
+=20
+Responsible Party
+Name:    THOMAS J CATALANO
+SSN/ITIN:    XXX-XX-4812
+=20
+=20
+=20
+=09
+Employee Information
+Date wages or annuities will be paid:    FEBRUARY 2021=20
+Number of agricultural employees:    1
+Number of other employees:    1
+Tax Liability of $1000 or less during calendar year:    NO
+=20
+=20
+=20
+Principal Business Activity=20
+What your business/organization does:    OTHER
+Principal products/services:    POLICY
+=20
+=20
+=20
+Additional Non-Profit/Tax-Exempt Organization Information
+Owns a 55,000 pounds or greater=20
+highway motor vehicle: =09
+NO
+Involves gambling/wagering:    NO
+Involves alcohol, tobacco or firearms:    NO
+Files Form 720 (Quarterly=20
+Federal Excise Tax Return): =09
+YES
+Has employees who receive Forms W-2:    YES
+Reason for Applying:    PURCHASED ACTIVE BUSINESS
+=20
+=20
+=20
+We strongly recommend you print this summary page for your records as thi=
+s will be your only copy of the application. You will not be able to return t=
+o this page after you click the "Submit" button.=20
+=20
+=20
+Click "Submit" to send your request and receive your EIN.
+   Once you submit, please wait while your application is being proces=
+sed. It can take up to two minutes for your application to be processed.
+IRS Privacy Policy | Accessibility=20
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+=99=E2=80=A2_||||
+
+--Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01
+Content-Type: text/html;
+   charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><br><br><div dir=3D"ltr">||||_=E2=80=A2=E2=80=
+=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||</di=
+v><div dir=3D"ltr"><br>Begin forwarded message:<br><br></div><blockquote typ=
+e=3D"cite"><div dir=3D"ltr"><b>From:</b> =C2=BF=C2=A7|THOMASjCatalano|=C2=A1=
+=C2=A7 &lt;universereservetreasury.0@gmail.com&gt;<br><b>Date:</b> February 2=
+4, 2021 at 11:32:13 MST<br><b>To:</b> UniverseReserveTreasury.0@gmail.com<br=
+<b>Cc:</b> .UniverseReserveTreasury.0@gmail.com<br><b>Subject:</b> <b>Fwd:&=
+nbsp;  =C2=BF=C2=BF$Skip to Main Content Help | Apply for New EIN | Exit EIN=
+Assistant&nbsp;  Your Progress:1. Identity 2. Authenticate 3. Addresses 4. D=
+etails 5. EIN Confirmation Summary of your information&nbsp; Please review t=
+he information you are about to submit. If any of the information below is i=
+ncorrect, you will need to start a new application.&nbsp; Click the "Submit"=
+button at the bottom of the page to receive your EIN.&nbsp;  Organization T=
+ype: Non-Profit/Tax-Exempt Organization&nbsp;       Non-Profit/Tax-Exempt Orga=
+nization Information&nbsp;      Legal name:    SUPREME COURT OF THE UNITED=
+STATES Trade name/Doing business as:    SUPREME COURT OF THE UNITED STATES C=
+ounty:    DISTRICT OF COLUMBIA State/Territory:    DC Start date:    FEBRUARY 20=
+21&nbsp; &nbsp; &nbsp;     Addresses&nbsp;      Physical Location:    1 1=
+ST ST NE&nbsp;        WASHINGTON DC 20543&nbsp;    Phone Number:    313=
+-348-0827&nbsp;      Mailing Address:    5120 BROADWAY APT 302&nbsp;=
+       DENVER CO 80216&nbsp;        UNITED STATES&nbsp; &nbsp; R=
+esponsible Party Name:    THOMAS J CATALANO SSN/ITIN:    XXX-XX-4812&nbsp; &=
+nbsp; &nbsp;     Employee Information Date wages or annuit</b><br><br></div=
+</blockquote><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<meta http=
+-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"><br><br><div d=
+ir=3D"ltr">||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=
+=9D=E2=80=99=E2=80=A2_||||</div><div dir=3D"ltr"><br>Begin forwarded message=
+:<br><br></div><blockquote type=3D"cite"><div dir=3D"ltr"><b>From:</b> =C2=BF=
+=C2=A7|THOMASjCatalano|=C2=A1=C2=A7 &lt;universereservetreasury.0@gmail.com&=
+gt;<br><b>Date:</b> February 24, 2021 at 11:31:00 MST<br><b>To:</b> .Univers=
+eReserveTreasury.0@gmail.com<br><b>Cc:</b> UniverseReserveTreasury.0@gmail.c=
+om<br><b>Subject:</b> <b>=C2=BF=C2=BF$Skip to Main Content Help | Apply for N=
+ew EIN | Exit EIN Assistant&nbsp;  Your Progress:1. Identity 2. Authenticate=
+3. Addresses 4. Details 5. EIN Confirmation Summary of your information&nbs=
+p; Please review the information you are about to submit. If any of the info=
+rmation below is incorrect, you will need to start a new application.&nbsp; C=
+lick the "Submit" button at the bottom of the page to receive your EIN.&nbsp=
+;  Organization Type: Non-Profit/Tax-Exempt Organization&nbsp;       No=
+n-Profit/Tax-Exempt Organization Information&nbsp;      Legal name:    SUP=
+REME COURT OF THE UNITED STATES Trade name/Doing business as:    SUPREME COU=
+RT OF THE UNITED STATES County:    DISTRICT OF COLUMBIA State/Territory:    DC S=
+tart date:    FEBRUARY 2021&nbsp; &nbsp; &nbsp;     Addresses&nbsp;  =
+   Physical Location:    1 1ST ST NE&nbsp;        WASHINGTON DC 20543=
+&nbsp;    Phone Number:    313-348-0827&nbsp;      Mailing Address:    512=
+0 BROADWAY APT 302&nbsp;        DENVER CO 80216&nbsp;        UNI=
+TED STATES&nbsp; &nbsp; Responsible Party Name:    THOMAS J CATALANO SSN/ITIN:=
+   XXX-XX-4812&nbsp; &nbsp; &nbsp;     Employee Information Date w=
+ages or annuit</b><br><br></div></blockquote><blockquote type=3D"cite"><div d=
+ir=3D"ltr">=EF=BB=BF<meta http-equiv=3D"content-type" content=3D"text/html; c=
+harset=3Dutf-8">=C2=BF$<a href=3D"https://sa.www4.irs.gov/modiein/individual=
+/verify-information.jsp#SkipLinks" style=3D"text-align: right; font-family: a=
+rial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto; f=
+ont-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><img src=3D"=
+https://sa.www4.irs.gov/modiein/images/blank.gif" title=3D"Skip to Main Cont=
+ent." alt=3D"Skip to Main Content" width=3D"0" height=3D"0" border=3D"0" sty=
+le=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""></a><span style=
+=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: right; background-co=
+lor: rgb(216, 254, 255); font-family: arial, verdana, sans-serif; font-size:=
+12px; -webkit-text-size-adjust: auto;">&nbsp;</span><a href=3D"https://sa.w=
+ww4.irs.gov/modiein/individual/help/help-toc.jsp" target=3D"help_popup" titl=
+e=3D"Click here to go to the Help page." style=3D"text-align: right; font-fa=
+mily: arial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust:=
+auto; font-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><b>H=
+elp</b></a><span style=3D"font-weight: bold; color: rgb(0, 0, 0); text-align=
+: right; background-color: rgb(216, 254, 255); font-family: arial, verdana, s=
+ans-serif; font-size: 12px; -webkit-text-size-adjust: auto;">&nbsp;</span><s=
+pan style=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: right; back=
+ground-color: rgb(216, 254, 255); font-family: arial, verdana, sans-serif; f=
+ont-size: 12px; -webkit-text-size-adjust: auto;">|</span><span style=3D"font=
+-weight: bold; color: rgb(0, 0, 0); text-align: right; background-color: rgb=
+(216, 254, 255); font-family: arial, verdana, sans-serif; font-size: 12px; -=
+webkit-text-size-adjust: auto;">&nbsp;</span><a href=3D"https://sa.www4.irs.=
+gov/modiein/IndividualEINClientServlet?action=3DStartNewAppAction" title=3D"=
+Click here to apply for a new EIN." style=3D"text-align: right; font-family:=
+arial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto=
+; font-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><b>Apply f=
+or New EIN</b></a><span style=3D"font-weight: bold; color: rgb(0, 0, 0); tex=
+t-align: right; background-color: rgb(216, 254, 255); font-family: arial, ve=
+rdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto;">&nbsp;<=
+/span><span style=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: rig=
+ht; background-color: rgb(216, 254, 255); font-family: arial, verdana, sans-=
+serif; font-size: 12px; -webkit-text-size-adjust: auto;">|</span><span style=
+=3D"font-weight: bold; color: rgb(0, 0, 0); text-align: right; background-co=
+lor: rgb(216, 254, 255); font-family: arial, verdana, sans-serif; font-size:=
+12px; -webkit-text-size-adjust: auto;">&nbsp;</span><a href=3D"https://sa.w=
+ww4.irs.gov/modiein/IndividualEINClientServlet?action=3DExitApplicationActio=
+n" title=3D"Click here to exit." style=3D"text-align: right; font-family: ar=
+ial, verdana, sans-serif; font-size: 12px; -webkit-text-size-adjust: auto; f=
+ont-stretch: normal; line-height: normal; color: rgb(0, 0, 0);"><b>Exit</b><=
+/a><div id=3D"main" style=3D"-webkit-text-size-adjust: auto; font-stretch: n=
+ormal; font-size: 12px; line-height: normal; font-family: arial, verdana, sa=
+ns-serif; background-color: rgb(255, 255, 255); width: 770px; margin: -0.5em=
+auto 0em; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"><div id=3D"skipn=
+av"><a name=3D"SkipLinks"></a></div><div class=3D"individual-page-title" sty=
+le=3D"padding-left: 10px; padding-bottom: 5px;"><h1 style=3D"font-stretch: n=
+ormal; font-size: 15px; line-height: normal; color: rgb(0, 30, 90);">EIN Ass=
+istant<img src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=
+=3D"720" height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-uniq=
+ue-identifier=3D""></h1></div></div><div id=3D"main" style=3D"-webkit-text-s=
+ize-adjust: auto; font-stretch: normal; font-size: 12px; line-height: normal=
+; font-family: arial, verdana, sans-serif; background-color: rgb(255, 255, 2=
+55); width: 770px; margin: -0.5em auto 0em; caret-color: rgb(0, 0, 0); color=
+: rgb(0, 0, 0);"><div class=3D"ind-headerBar" style=3D"background-color: rgb=
+(0, 30, 90); text-align: right; padding: 0px; height: 31px; margin-top: -13p=
+x;"><div id=3D"individual-list" style=3D"padding-top: 2px; padding-bottom: 2=
+px;"><ul style=3D"margin-top: -2px; margin-left: -40px;"><li style=3D"margin=
+-left: 0px; float: left; color: rgb(255, 255, 255); text-align: center; font=
+-weight: bold; width: 125px; display: inline; padding-top: 2px; padding-bott=
+om: 2px;">Your Progress:</li><li id=3D"identity1" style=3D"margin-left: 0px;=
+float: left; color: rgb(255, 255, 255); text-align: center; font-weight: bo=
+ld; width: 125px; display: inline; padding-top: 2px; padding-bottom: 2px;">1=
+. Identity&nbsp;<img id=3D"" src=3D"https://sa.www4.irs.gov/modiein/images/c=
+heck-web.gif" title=3D"" style=3D"margin: 0px; border: 0px;" data-unique-ide=
+ntifier=3D""></li><li id=3D"authenticate1" style=3D"margin-left: 0px; float:=
+left; color: rgb(255, 255, 255); text-align: center; font-weight: bold; wid=
+th: 125px; display: inline; padding-top: 2px; padding-bottom: 2px;">2. Authe=
+nticate&nbsp;<img id=3D"" src=3D"https://sa.www4.irs.gov/modiein/images/chec=
+k-web.gif" title=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identi=
+fier=3D""></li><li id=3D"address1" style=3D"margin-left: 0px; float: left; c=
+olor: rgb(255, 255, 255); text-align: center; font-weight: bold; width: 125p=
+x; display: inline; padding-top: 2px; padding-bottom: 2px;">3. Addresses&nbs=
+p;<img id=3D"" src=3D"https://sa.www4.irs.gov/modiein/images/check-web.gif" t=
+itle=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""></=
+li><li id=3D"details1" style=3D"margin-left: 0px; float: left; color: rgb(25=
+5, 255, 255); text-align: center; font-weight: bold; width: 125px; display: i=
+nline; padding-top: 2px; padding-bottom: 2px;">4. Details&nbsp;<img id=3D"" s=
+rc=3D"https://sa.www4.irs.gov/modiein/images/check-web.gif" title=3D"" style=
+=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""></li><li id=3D"ei=
+n-confirmation1" style=3D"margin-left: 0px; float: left; background-color: r=
+gb(187, 202, 233); text-align: center; font-weight: bold; width: 125px; disp=
+lay: inline; padding-top: 2px; padding-bottom: 2px;">5. EIN Confirmation</li=
+</ul></div></div></div><div id=3D"main" class=3D"body" style=3D"-webkit-tex=
+t-size-adjust: auto; font-stretch: normal; font-size: 12px; line-height: nor=
+mal; font-family: arial, verdana, sans-serif; background-color: rgb(255, 255=
+, 255); width: 770px; margin: -12px auto 0em; caret-color: rgb(0, 0, 0); col=
+or: rgb(0, 0, 0);"><div id=3D"topcontent" class=3D"nopadding" style=3D"paddi=
+ng: 3px 10px 0px;"><div id=3D"individual-leftcontent" style=3D"float: left; w=
+idth: 562.5px;"><h2 style=3D"font-stretch: normal; font-size: 14px; line-hei=
+ght: normal; color: rgb(0, 30, 90);">Summary of your information</h2><p styl=
+e=3D"font-stretch: normal; line-height: 14px;">Please review the information=
+you are about to submit. If any of the information below is incorrect, you w=
+ill need to&nbsp;<a href=3D"https://sa.www4.irs.gov/modiein/IndividualEINCli=
+entServlet?action=3DStartNewAppAction" style=3D"font-stretch: normal; font-s=
+ize: 20px; line-height: 14px; color: rgb(102, 28, 128);">start a new applica=
+tion.</a></p><div class=3D"hint_text_different_font" style=3D"color: rgb(0, 4=
+0, 120); font-weight: bold;">Click the "Submit" button at the bottom of the p=
+age to receive your EIN.</div><br><br><div><div class=3D"bigger-font" style=3D=
+"font-size: 13px; font-weight: bold;">Organization Type: Non-Profit/Tax-Exem=
+pt Organization</div><br><span class=3D"space" style=3D"padding-left: 45px;"=
+</span></div><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td=
+style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-h=
+eight: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px; font-weig=
+ht: bold;">Non-Profit/Tax-Exempt Organization Information</div></td><td styl=
+e=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height=
+: 14px;"></td></tr></tbody></table><br><table><tbody><tr><td width=3D"50" st=
+yle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heig=
+ht: 14px;">&nbsp;</td><td width=3D"250" align=3D"left" style=3D"color: rgb(0=
+, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">Legal na=
+me:&nbsp;</td><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch:=
+normal; font-size: 12px; line-height: 14px;"><b>SUPREME COURT OF THE UNITED=
+STATES</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stretch: nor=
+mal; font-size: 12px; line-height: 14px;"></td><td width=3D"250" align=3D"le=
+ft" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; lin=
+e-height: 14px;">Trade name/Doing business as:</td><td align=3D"left" style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"><b>SUPREME COURT OF THE UNITED STATES</b></td></tr><tr><td style=3D"col=
+or: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"=
+</td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-st=
+retch: normal; font-size: 12px; line-height: 14px;">County:&nbsp;</td><td al=
+ign=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><b>DISTRICT OF COLUMBIA</b></td></tr><tr><td style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"></td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); fon=
+t-stretch: normal; font-size: 12px; line-height: 14px;">State/Territory:&nbs=
+p;</td><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal=
+; font-size: 12px; line-height: 14px;"><b>DC</b></td></tr><tr><td style=3D"c=
+olor: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px=
+;"></td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-=
+stretch: normal; font-size: 12px; line-height: 14px;">Start date:</td><td al=
+ign=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><b>FEBRUARY 2021</b></td></tr></tbody></table><br><=
+img src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550=
+" height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-iden=
+tifier=3D"">&nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D"color:=
+rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">&n=
+bsp;</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px=
+; font-weight: bold;">Addresses</div></td><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td></tr></tbody>=
+</table><br><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0);=
+font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td w=
+idth=3D"250" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;">Physical Location:&nbsp;</td><td align=3D"left" sty=
+le=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heigh=
+t: 14px;"><b>1 1ST ST NE</b></td></tr><tr><td width=3D"50" style=3D"color: r=
+gb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbs=
+p;</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12=
+px; line-height: 14px;">&nbsp;</td><td align=3D"left" style=3D"color: rgb(0,=
+0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>WASHIN=
+GTON DC 20543</b></td></tr><tr></tr><tr></tr><tr></tr><tr><td width=3D"50" s=
+tyle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-hei=
+ght: 14px;">&nbsp;</td><td width=3D"250" style=3D"color: rgb(0, 0, 0); font-=
+stretch: normal; font-size: 12px; line-height: 14px;">Phone Number:&nbsp;</t=
+d><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;"><b><a href=3D"tel:313-348-0827" style=3D"f=
+ont-weight: normal; font-stretch: normal; line-height: 14px; color: rgb(102,=
+28, 128);">313-348-0827</a></b></td></tr></tbody></table><br><table><tbody>=
+<tr><td width=3D"50" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;">&nbsp;</td><td align=3D"left" width=3D"250=
+" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-=
+height: 14px;">Mailing Address:</td><td align=3D"left" style=3D"color: rgb(0=
+, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>5120 B=
+ROADWAY APT 302</b></td></tr><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td=
+width=3D"230" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size=
+: 12px; line-height: 14px;"></td><td align=3D"left" style=3D"color: rgb(0, 0=
+, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>DENVER C=
+O 80216&nbsp;</b></td></tr><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0)=
+; font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td w=
+idth=3D"230" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"></td><td align=3D"left" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>UNITED STAT=
+ES&nbsp;</b></td></tr></tbody></table><img src=3D"https://sa.www4.irs.gov/mo=
+diein/images/1x1-grey.gif" width=3D"550" height=3D"1" alt=3D"" style=3D"marg=
+in: 0px; border: 0px;" data-unique-identifier=3D"">&nbsp;<br><br><table><tbo=
+dy><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0); font-stretch: normal; f=
+ont-size: 12px; line-height: 14px;"></td><td align=3D"left" width=3D"250" st=
+yle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heig=
+ht: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px; font-weight:=
+bold;">Responsible Party</div></td></tr><tr><td style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td style=
+=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height:=
+14px;"></td></tr><tr></tr><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0)=
+; font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D=
+"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;">Name:</td><td align=3D"left" style=3D"colo=
+r: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">=
+<b>THOMAS J CATALANO</b></td></tr><tr><td width=3D"50" style=3D"color: rgb(0=
+, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td=
+width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: no=
+rmal; font-size: 12px; line-height: 14px;">SSN/ITIN:&nbsp;</td><td align=3D"=
+left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;"><b>XXX-XX-4812</b></td></tr></tbody></table><br><img src=3D=
+"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550" height=3D=
+"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""=
+&nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td=
+align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-siz=
+e: 12px; line-height: 14px;"><div class=3D"bigger-font" style=3D"font-size: 1=
+3px; font-weight: bold;">Employee Information</div></td></tr><tr><td style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"></td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size:=
+12px; line-height: 14px;"></td></tr><tr><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"=
+250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font=
+-size: 12px; line-height: 14px;">Date wages or annuities will be paid:</td><=
+td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line=
+-height: 14px;"><b>FEBRUARY 2021&nbsp;</b></td></tr><tr><td style=3D"color: r=
+gb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td=
+<td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch=
+: normal; font-size: 12px; line-height: 14px;">Number of agricultural employ=
+ees:</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><b>1</b></td></tr><tr><td style=3D"color: rgb(0, 0,=
+0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td wid=
+th=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal=
+; font-size: 12px; line-height: 14px;">Number of other employees:</td><td st=
+yle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heig=
+ht: 14px;"><b>1</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stre=
+tch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"250" ali=
+gn=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;">Tax Liability of $1000 or less during calendar year=
+:</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12p=
+x; line-height: 14px;"><b>NO</b></td></tr></tbody></table><br><img src=3D"ht=
+tps://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550" height=3D"1=
+" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identifier=3D"">&=
+nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0)=
+; font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td align=3D=
+"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px; font=
+-weight: bold;">Principal Business Activity&nbsp;</div></td></tr><tr><td sty=
+le=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heigh=
+t: 14px;"></td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;"></td></tr><tr><td style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=
+=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; f=
+ont-size: 12px; line-height: 14px;">What your business/organization does:</t=
+d><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;"><b>OTHER</b></td></tr><tr><td style=3D"col=
+or: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"=
+</td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-st=
+retch: normal; font-size: 12px; line-height: 14px;">Principal products/servi=
+ces:</td><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: norm=
+al; font-size: 12px; line-height: 14px;"><b>POLICY</b></td></tr></tbody></ta=
+ble><br><img src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" wid=
+th=3D"550" height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-un=
+ique-identifier=3D"">&nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"></td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); fon=
+t-stretch: normal; font-size: 12px; line-height: 14px;"><div class=3D"bigger=
+-font" style=3D"font-size: 13px; font-weight: bold;">Additional Non-Profit/T=
+ax-Exempt Organization Information</div></td><td align=3D"left" style=3D"col=
+or: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"=
+</td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;"></td><td style=3D"color: rgb(0, 0, 0); font-=
+stretch: normal; font-size: 12px; line-height: 14px;"></td></tr><tr><td styl=
+e=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height=
+: 14px;"></td><td width=3D"230" align=3D"left" style=3D"color: rgb(0, 0, 0);=
+font-stretch: normal; font-size: 12px; line-height: 14px;">Owns a 55,000 po=
+unds or greater&nbsp;<br>highway motor vehicle:&nbsp;</td><td align=3D"left"=
+style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-h=
+eight: 14px;"><br><b>NO</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"=
+230" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font=
+-size: 12px; line-height: 14px;">Involves gambling/wagering:</td><td align=3D=
+"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;"><b>NO</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"=
+230" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font=
+-size: 12px; line-height: 14px;">Involves alcohol, tobacco or firearms:</td>=
+<td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;"><b>NO</b></td></tr><tr><td style=3D"color: r=
+gb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td=
+<td width=3D"230" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch=
+: normal; font-size: 12px; line-height: 14px;">Files Form 720 (Quarterly&nbs=
+p;<br>Federal Excise Tax Return):&nbsp;</td><td align=3D"left" style=3D"colo=
+r: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">=
+<br><b>YES</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stretch: n=
+ormal; font-size: 12px; line-height: 14px;"></td><td width=3D"230" align=3D"=
+left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;">Has employees who receive Forms W-2:</td><td align=3D"lef=
+t" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line=
+-height: 14px;"><b>YES</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); fo=
+nt-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"2=
+30" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;">Reason for Applying:</td><td align=3D"left" s=
+tyle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-hei=
+ght: 14px;"><b>PURCHASED ACTIVE BUSINESS</b></td></tr></tbody></table><br><i=
+mg src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550"=
+height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-ident=
+ifier=3D"">&nbsp;<br><br><form name=3D"form1" method=3D"post" action=3D"http=
+s://sa.www4.irs.gov/modiein/IndividualEINClientServlet?action=3DGenerateEINA=
+ction"><b>We strongly recommend you print this summary page for your records=
+as this will be your only copy of the application. You will not be able to r=
+eturn to this page after you click the "Submit" button.</b>&nbsp;<br><br><br=
+<table><tbody><tr><td width=3D"30" align=3D"left" valign=3D"top" style=3D"c=
+olor: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px=
+;"></td><td width=3D"1500" align=3D"left" valign=3D"top" style=3D"color: rgb=
+(0, 0, 0); font-stretch: normal; font-size: 12p $SUPREME COURT OF THE 🇺🇸 UNITED STATES of America §§@¡!&§§|||¿?!!¡•’”THØMAS JOSEPH CATALANØ””“‘,:,–135-74-4812–,:,–1981z02z05–::5120 BROADWAY apt 302 Denver, COLORADO (CO) 802162099•*+1 (313) 348-0827””*+1 (720) 812-1626””¡¡¡||¡!¿?¡&§§•§ x; line-height: 14px;"><div c=
+lass=3D"hint_text_different_font" style=3D"color: rgb(0, 40, 120); font-weig=
+ht: bold;">Click "Submit" to send your request and receive your EIN.</div></=
+td><td align=3D"left" width=3D"150" valign=3D"top" style=3D"color: rgb(0, 0,=
+0); font-stretch: normal; font-size: 12px; line-height: 14px;"><input type=3D=
+"submit" name=3D"Submit" value=3D"Submit" title=3D"" disabled=3D""></td><td a=
+lign=3D"left" width=3D"400" valign=3D"top" style=3D"color: rgb(0, 0, 0); fon=
+t-stretch: normal; font-size: 12px; line-height: 14px;"><span class=3D"valid=
+ation_error_text" style=3D"font-weight: bold; color: red;">Once you submit, p=
+lease wait while your application is being processed. It can take up to two m=
+inutes for your application to be processed.</span></td></tr></tbody></table=
+</form></div></div><div class=3D"footer" id=3D"footerDiv" style=3D"width: 7=
+70px; color: rgb(28, 78, 128); clear: both; height: auto; text-align: center=
+; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(128,=
+152, 184); margin-top: 10px; padding-top: 10px;"><a href=3D"https://sa.www4=
+.irs.gov/modiein/IndividualEINClientServlet?action=3DLinkAction&amp;linkfoll=
+owed=3Dtrue&amp;linkid=3D22" target=3D"_blank" title=3D"Click here to view t=
+he IRS Privacy Policy." style=3D"font-stretch: normal; line-height: normal; c=
+olor: rgb(102, 28, 128);">IRS Privacy Policy</a>&nbsp;|&nbsp;<a href=3D"" ta=
+rget=3D"_blank" title=3D"Click this link for accessibility options" style=3D=
+"font-stretch: normal; line-height: normal; color: rgb(102, 28, 128);">Acces=
+sibility</a>&nbsp;<br></div></div><div><br><div dir=3D"ltr">||||_=E2=80=A2=E2=
+=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||<=
+/div></div></div></blockquote></div></blockquote></body></html>=
+
+--Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01--||¡$&§§•§¡¡&§§•• ¿$$&§|||
+
+
+Edit profile
+„’“THOMAS CATALANO”"„
+@tomsnode
+@tomsnode
+¿github.com/theBITsEXCHANG…Born February 5, 1981Joined January 2016
+141 Following
+175 Followers
+Tweets
+Tweets & replies
+Media
+Likes
+„’“THOMAS CATALANO”"„’s Tweets
+You Retweeted
+
+„’“THOMAS CATALANO”"„
+@tomsnode
+·
+2m
+¿&§@ 
+@tomsnode
+ ||’BIO: §The content of this THØMASjCatalanø |
+
+
+
+Edit profile
+„’“THOMAS CATALANO”"„
+@tomsnode
+@tomsnode
+¿github.com/theBITsEXCHANG…Born February 5, 1981Joined January 2016
+141 Following
+175 Followers
+Tweets
+Tweets & replies
+Media
+Likes
+„’“THOMAS CATALANO”"„’s Tweets
+You Retweeted
+
+„’“THOMAS CATALANO”"„
+@tomsnode
+·
+2m
+¿&§@ 
+@tomsnode
+ ||’BIO: §The content of this THØMASjCatalanø ||–135-74-4812—|
+
+
+
+Edit profile
+„’“THOMAS CATALANO”"„
+@tomsnode
+@tomsnode
+¿github.com/theBITsEXCHANG…Born February 5, 1981Joined January 2016
+141 Following
+175 Followers
+Tweets
+Tweets & replies
+Media
+Likes
+„’“THOMAS CATALANO”"„’s Tweets
+You Retweeted
+
+„’“THOMAS CATALANO”"„
+@tomsnode
+·
+2m
+¿&§@ 
+@tomsnode
+ ||’BIO: §The content of this THØMASjCatalanø |||¡&&§§§•§ yle=3D"font-stretch: normal; font-size: 14px; line-hei=
+ght: normal; color: rgb(0, 30, 90);">Summary of your information</h2><p styl=
+e=3D"font-stretch: normal; line-height: 14px;">Please review the information=
+you are about to submit. If any of the information below is incorrect, you w=
+ill need to&nbsp;<a href=3D"https://sa.www4.irs.gov/modiein/IndividualEINCli=
+entServlet?action=3DStartNewAppAction" style=3D"font-stretch: normal; font-s=
+ize: 20px; line-height: 14px; color: rgb(102, 28, 128);">start a new applica=
+tion.</a></p><div class=3D"hint_text_different_font" style=3D"color: rgb(0, 4=
+0, 120); font-weight: bold;">Click the "Submit" button at the bottom of the p=
+age to receive your EIN.</div><br><br><div><div class=3D"bigger-font" style=3D=
+"font-size: 13px; font-weight: bold;">Organization Type: Non-Profit/Tax-Exem=
+pt Organization</div><br><span class=3D"space" style=3D"padding-left: 45px;"=
+</span></div><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td=
+style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-h=
+eight: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px; font-weig=
+ht: bold;">Non-Profit/Tax-Exempt Organization Information</div></td><td styl=
+e=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height=
+: 14px;"></td></tr></tbody></table><br><table><tbody><tr><td width=3D"50" st=
+yle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heig=
+ht: 14px;">&nbsp;</td><td width=3D"250" align=3D"left" style=3D"color: rgb(0=
+, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">Legal na=
+me:&nbsp;</td><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch:=
+normal; font-size: 12px; line-height: 14px;"><b>SUPREME COURT OF THE UNITED=
+STATES</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stretch: nor=
+mal; font-size: 12px; line-height: 14px;"></td><td width=3D"250" align=3D"le=
+ft" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; lin=
+e-height: 14px;">Trade name/Doing business as:</td><td align=3D"left" style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"><b>SUPREME COURT OF THE UNITED STATES</b></td></tr><tr><td style=3D"col=
+or: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"=
+</td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-st=
+retch: normal; font-size: 12px; line-height: 14px;">County:&nbsp;</td><td al=
+ign=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><b>DISTRICT OF COLUMBIA</b></td></tr><tr><td style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"></td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); fon=
+t-stretch: normal; font-size: 12px; line-height: 14px;">State/Territory:&nbs=
+p;</td><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal=
+; font-size: 12px; line-height: 14px;"><b>DC</b></td></tr><tr><td style=3D"c=
+olor: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px=
+;"></td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-=
+stretch: normal; font-size: 12px; line-height: 14px;">Start date:</td><td al=
+ign=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><b>FEBRUARY 2021</b></td></tr></tbody></table><br><=
+img src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550=
+" height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-iden=
+tifier=3D"">&nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D"color:=
+rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">&n=
+bsp;</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px=
+; font-weight: bold;">Addresses</div></td><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td></tr></tbody>=
+</table><br><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0);=
+font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td w=
+idth=3D"250" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;">Physical Location:&nbsp;</td><td align=3D"left" sty=
+le=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heigh=
+t: 14px;"><b>1 1ST ST NE</b></td></tr><tr><td width=3D"50" style=3D"color: r=
+gb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbs=
+p;</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12=
+px; line-height: 14px;">&nbsp;</td><td align=3D"left" style=3D"color: rgb(0,=
+0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>WASHIN=
+GTON DC 20543</b></td></tr><tr></tr><tr></tr><tr></tr><tr><td width=3D"50" s=
+tyle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-hei=
+ght: 14px;">&nbsp;</td><td width=3D"250" style=3D"color: rgb(0, 0, 0); font-=
+stretch: normal; font-size: 12px; line-height: 14px;">Phone Number:&nbsp;</t=
+d><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;"><b><a href=3D"tel:313-348-0827" style=3D"f=
+ont-weight: normal; font-stretch: normal; line-height: 14px; color: rgb(102,=
+28, 128);">313-348-0827</a></b></td></tr></tbody></table><br><table><tbody>=
+<tr><td width=3D"50" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;">&nbsp;</td><td align=3D"left" width=3D"250=
+" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-=
+height: 14px;">Mailing Address:</td><td align=3D"left" style=3D"color: rgb(0=
+, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>5120 B=
+ROADWAY APT 302</b></td></tr><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td=
+width=3D"230" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size=
+: 12px; line-height: 14px;"></td><td align=3D"left" style=3D"color: rgb(0, 0=
+, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>DENVER C=
+O 80216&nbsp;</b></td></tr><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0)=
+; font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td w=
+idth=3D"230" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"></td><td align=3D"left" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;"><b>UNITED STAT=
+ES&nbsp;</b></td></tr></tbody></table><img src=3D"https://sa.www4.irs.gov/mo=
+diein/images/1x1-grey.gif" width=3D"550" height=3D"1" alt=3D"" style=3D"marg=
+in: 0px; border: 0px;" data-unique-identifier=3D"">&nbsp;<br><br><table><tbo=
+dy><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0); font-stretch: normal; f=
+ont-size: 12px; line-height: 14px;"></td><td align=3D"left" width=3D"250" st=
+yle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heig=
+ht: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px; font-weight:=
+bold;">Responsible Party</div></td></tr><tr><td style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td style=
+=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height:=
+14px;"></td></tr><tr></tr><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0)=
+; font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D=
+"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;">Name:</td><td align=3D"left" style=3D"colo=
+r: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">=
+<b>THOMAS J CATALANO</b></td></tr><tr><td width=3D"50" style=3D"color: rgb(0=
+, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td=
+width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: no=
+rmal; font-size: 12px; line-height: 14px;">SSN/ITIN:&nbsp;</td><td align=3D"=
+left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;"><b>XXX-XX-4812</b></td></tr></tbody></table><br><img src=3D=
+"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550" height=3D=
+"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identifier=3D""=
+&nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;">&nbsp;</td><td=
+align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-siz=
+e: 12px; line-height: 14px;"><div class=3D"bigger-font" style=3D"font-size: 1=
+3px; font-weight: bold;">Employee Information</div></td></tr><tr><td style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"></td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size:=
+12px; line-height: 14px;"></td></tr><tr><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"=
+250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font=
+-size: 12px; line-height: 14px;">Date wages or annuities will be paid:</td><=
+td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line=
+-height: 14px;"><b>FEBRUARY 2021&nbsp;</b></td></tr><tr><td style=3D"color: r=
+gb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td=
+<td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch=
+: normal; font-size: 12px; line-height: 14px;">Number of agricultural employ=
+ees:</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;"><b>1</b></td></tr><tr><td style=3D"color: rgb(0, 0,=
+0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td wid=
+th=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal=
+; font-size: 12px; line-height: 14px;">Number of other employees:</td><td st=
+yle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heig=
+ht: 14px;"><b>1</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stre=
+tch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"250" ali=
+gn=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 1=
+2px; line-height: 14px;">Tax Liability of $1000 or less during calendar year=
+:</td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12p=
+x; line-height: 14px;"><b>NO</b></td></tr></tbody></table><br><img src=3D"ht=
+tps://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550" height=3D"1=
+" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-identifier=3D"">&=
+nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D"color: rgb(0, 0, 0)=
+; font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td align=3D=
+"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;"><div class=3D"bigger-font" style=3D"font-size: 13px; font=
+-weight: bold;">Principal Business Activity&nbsp;</div></td></tr><tr><td sty=
+le=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-heigh=
+t: 14px;"></td><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;"></td></tr><tr><td style=3D"color: rgb(0, 0, 0=
+); font-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=
+=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; f=
+ont-size: 12px; line-height: 14px;">What your business/organization does:</t=
+d><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; fon=
+t-size: 12px; line-height: 14px;"><b>OTHER</b></td></tr><tr><td style=3D"col=
+or: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"=
+</td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); font-st=
+retch: normal; font-size: 12px; line-height: 14px;">Principal products/servi=
+ces:</td><td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: norm=
+al; font-size: 12px; line-height: 14px;"><b>POLICY</b></td></tr></tbody></ta=
+ble><br><img src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" wid=
+th=3D"550" height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-un=
+ique-identifier=3D"">&nbsp;<br><br><table><tbody><tr><td width=3D"50" style=3D=
+"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14=
+px;"></td><td width=3D"250" align=3D"left" style=3D"color: rgb(0, 0, 0); fon=
+t-stretch: normal; font-size: 12px; line-height: 14px;"><div class=3D"bigger=
+-font" style=3D"font-size: 13px; font-weight: bold;">Additional Non-Profit/T=
+ax-Exempt Organization Information</div></td><td align=3D"left" style=3D"col=
+or: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"=
+</td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;"></td><td style=3D"color: rgb(0, 0, 0); font-=
+stretch: normal; font-size: 12px; line-height: 14px;"></td></tr><tr><td styl=
+e=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height=
+: 14px;"></td><td width=3D"230" align=3D"left" style=3D"color: rgb(0, 0, 0);=
+font-stretch: normal; font-size: 12px; line-height: 14px;">Owns a 55,000 po=
+unds or greater&nbsp;<br>highway motor vehicle:&nbsp;</td><td align=3D"left"=
+style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-h=
+eight: 14px;"><br><b>NO</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"=
+230" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font=
+-size: 12px; line-height: 14px;">Involves gambling/wagering:</td><td align=3D=
+"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;"><b>NO</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); f=
+ont-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"=
+230" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font=
+-size: 12px; line-height: 14px;">Involves alcohol, tobacco or firearms:</td>=
+<td align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;"><b>NO</b></td></tr><tr><td style=3D"color: r=
+gb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;"></td=
+<td width=3D"230" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch=
+: normal; font-size: 12px; line-height: 14px;">Files Form 720 (Quarterly&nbs=
+p;<br>Federal Excise Tax Return):&nbsp;</td><td align=3D"left" style=3D"colo=
+r: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px;">=
+<br><b>YES</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); font-stretch: n=
+ormal; font-size: 12px; line-height: 14px;"></td><td width=3D"230" align=3D"=
+left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; l=
+ine-height: 14px;">Has employees who receive Forms W-2:</td><td align=3D"lef=
+t" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line=
+-height: 14px;"><b>YES</b></td></tr><tr><td style=3D"color: rgb(0, 0, 0); fo=
+nt-stretch: normal; font-size: 12px; line-height: 14px;"></td><td width=3D"2=
+30" align=3D"left" style=3D"color: rgb(0, 0, 0); font-stretch: normal; font-=
+size: 12px; line-height: 14px;">Reason for Applying:</td><td align=3D"left" s=
+tyle=3D"color: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-hei=
+ght: 14px;"><b>PURCHASED ACTIVE BUSINESS</b></td></tr></tbody></table><br><i=
+mg src=3D"https://sa.www4.irs.gov/modiein/images/1x1-grey.gif" width=3D"550"=
+height=3D"1" alt=3D"" style=3D"margin: 0px; border: 0px;" data-unique-ident=
+ifier=3D"">&nbsp;<br><br><form name=3D"form1" method=3D"post" action=3D"http=
+s://sa.www4.irs.gov/modiein/IndividualEINClientServlet?action=3DGenerateEINA=
+ction"><b>We strongly recommend you print this summary page for your records=
+as this will be your only copy of the application. You will not be able to r=
+eturn to this page after you click the "Submit" button.</b>&nbsp;<br><br><br=
+<table><tbody><tr><td width=3D"30" align=3D"left" valign=3D"top" style=3D"c=
+olor: rgb(0, 0, 0); font-stretch: normal; font-size: 12px; line-height: 14px=
+;"></td><td width=3D"1500" align=3D"left" valign=3D"top" style=3D"color: rgb=
+(0, 0, 0); font-stretch: normal; font-size: 12p $SUPREME COURT OF THE 🇺🇸 UNITED STATES of America §§@¡!&§§|||¿?!!¡•’”THØMAS JOSEPH CATALANØ””“‘,:,–135-74-4812–,:,–1981z02z05–::5120 BROADWAY apt 302 Denver, COLORADO (CO) 802162099•*+1 (313) 348-0827””*+1 (720) 812-1626””¡¡¡||¡!¿?¡&§§•§ x; line-height: 14px;"><div c=
+lass=3D"hint_text_different_font" style=3D"color: rgb(0, 40, 120); font-weig=
+ht: bold;">Click "Submit" to send your request and receive your EIN.</div></=
+td><td align=3D"left" width=3D"150" valign=3D"top" style=3D"color: rgb(0, 0,=
+0); font-stretch: normal; font-size: 12px; line-height: 14px;"><input type=3D=
+"submit" name=3D"Submit" value=3D"Submit" title=3D"" disabled=3D""></td><td a=
+lign=3D"left" width=3D"400" valign=3D"top" style=3D"color: rgb(0, 0, 0); fon=
+t-stretch: normal; font-size: 12px; line-height: 14px;"><span class=3D"valid=
+ation_error_text" style=3D"font-weight: bold; color: red;">Once you submit, p=
+lease wait while your application is being processed. It can take up to two m=
+inutes for your application to be processed.</span></td></tr></tbody></table=
+</form></div></div><div class=3D"footer" id=3D"footerDiv" style=3D"width: 7=
+70px; color: rgb(28, 78, 128); clear: both; height: auto; text-align: center=
+; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(128,=
+152, 184); margin-top: 10px; padding-top: 10px;"><a href=3D"https://sa.www4=
+.irs.gov/modiein/IndividualEINClientServlet?action=3DLinkAction&amp;linkfoll=
+owed=3Dtrue&amp;linkid=3D22" target=3D"_blank" title=3D"Click here to view t=
+he IRS Privacy Policy." style=3D"font-stretch: normal; line-height: normal; c=
+olor: rgb(102, 28, 128);">IRS Privacy Policy</a>&nbsp;|&nbsp;<a href=3D"" ta=
+rget=3D"_blank" title=3D"Click this link for accessibility options" style=3D=
+"font-stretch: normal; line-height: normal; color: rgb(102, 28, 128);">Acces=
+sibility</a>&nbsp;<br></div></div><div><br><div dir=3D"ltr">||||_=E2=80=A2=E2=
+=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||<=
+/div></div></div></blockquote></div></blockquote></body></html>=
+
+--Apple-Mail-777CB4F6-A93C-4DE1-83AE-CDA81BC3DE01--||¡$&§§•§
