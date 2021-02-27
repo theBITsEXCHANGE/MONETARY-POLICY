@@ -362,6 +362,66 @@ and__or 'TIME'_'TIMER'"::;
 ,\nonce-.-cnonce_calculations;
 -\2021z02z27:
 ,\nonce-.-cnonce_calculations;
+
+
+¿$:        $$$.          $„“‘”’“THØMAS JØSEPH CATALANØOØ$ $•–135-74-4812–$.         ¡$$$&§§•§>><
+
+
+||||_•”’THOMAS-j._Catalano’*”’•_||||
+
+
+||||_•”’THOMAS-j._Catalano’*”’•_||||
+
+Begin forwarded message:
+
+From: "cdle_ui-alerts@state.co.us" <cdle_ui-alerts@state.co.us>
+Date: February 27, 2021 at 07:10:53 MST
+To: "tomcatalano@outlook.com" <tomcatalano@outlook.com>
+Subject: Account Password Changed
+
+﻿
+Division of Unemployment Insurance
+P.O. Box 400
+Denver, CO 80201-0400
+	
+Go online: coloradoui.gov
+Call: 1-800-388-5515
+Fax: 303-318-9014
+
+
+
+The password for the unemployment insurance account 12810079 was just changed. 
+
+If this was you, then you can safely ignore this email. 
+
+If this was not you, your account has been compromised. Reset your password immediately atcoloradoui.gov. 
+
+Make your account more secure:
+Protect your personal information (i.e., Social Security Number, username, and password).
+Never share your password.
+We will never ask for this personal information by email.
+Create a password that is difficult to guess.
+Use a combination of lowercase and uppercase letters, numbers, and symbols (i.e., @, #, $, %, &, *).
+Make sure the password is different from your username.
+Do not respond to an email unless you are sure about the sender.
+
+If you need help or have questions, contact us at 1-800-388-5515 , Monday through Friday from 8 a.m. to 4 p.m. 
+
+If you do not get an email in your inbox, check your spam folder. To help our emails go to your inbox, add cdle_ui-alerts@state.co.us to your contacts. 
+
+This is an automated message from the Colorado Department of Labor and Employment. Please do not reply to this message. Replies to this message are routed to an unmonitored mailbox. If you have an unemployment claim or need to request payment, log into your account at coloradoui.gov anytime Sunday through Friday between 2 a.m. to 12 a.m. (midnight). 
+
+Learn about e-mail security or report suspicious e-mail at coloradoui.gov
+Terms of Use
+Colorado Department of Labor and Employment.
+P.O. Box 400
+Denver, CO 80201-0400
+© 2021 COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT. All rights reserved.
+
+
+IMPORTANTE: Este documento afecta su elegibilidad para recibir beneficios de Seguro de Desempleo. Si usted no entiende este documento, llame inmediatamente a la línea de servicio al cliente del Departamento de Trabajo y Empleo de Colorado al 1-800-388-5515.§•§>><•
+•
+
 -\2021z02z28:
 ,\nonce-.-cnonce_calculations;
 -\2021z02z29:
