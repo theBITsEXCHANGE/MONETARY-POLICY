@@ -1,6 +1,1762 @@
 ||||_•”’THOMAS-j._Catalano’*”’•_||||
 
-Secretary Colorado Secretary of State logo - cube with a C in itColorado 
+Secretary Colorado This message was created automatically by the SMTP relay on escutmmgwext.esa.int.
+
+A message that you sent could not be delivered to all of its recipients.
+The following address(es) failed:
+
+ webmaster@esa.int
+   SMTP error from remote mail server after RCPT TO:<webmaster@esa.int>:
+   host 172.18.96.4 [172.18.96.4]: 550 5.1.1 <webmaster@esa.int>:
+   Recipient address rejected: User unknown in local recipient table
+
+------ This is a copy of the message, including all the headers. ------
+------ The body of the message is 174301 characters long; only the first
+------ 106000 or so are included here.
+
+Return-path: <tomcatalano.0@gmail.com>
+Received: from mail-oi1-f170.google.com([209.85.167.170]:42754)
+   by escutmmgwext.esa.int with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+   (Exim 4.82_1-5b7a7c0-XX)
+   (envelope-from <tomcatalano.0@gmail.com>)
+   id 1lILLl-0007Ca-0K
+   for webmaster@esa.int; Sat, 06 Mar 2021 02:03:22 +0100
+Received: by mail-oi1-f170.google.comwith SMTP id x135so67923oia.9
+       for <webmaster@esa.int>; Fri, 05 Mar 2021 17:03:20 -0800 (PST)
+X-CTCH-RefID: str=0001.0A782F21.6042D4DA.003B,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=20161025;
+       h=content-transfer-encoding:from:mime-version:date:subject:message-id
+        :references:to;
+       bh=xNJUR9E+A79NA94azm+My7URl4Ay6IaTcElPe9ksuxg=;
+       b=aOnK+Rx+jCPprBKiZhjCO0zD8KzIO1eRy6YQVFz/BShGAO30Hb7LzBdvfxgWPF1qaY
+        MXJ8E8tJVGe+XoKMhOwaDZNY7YhooMMl/M7h+ePfsze6MvFcb8vC708fYn/U/QhJKBcC
+        +EJ6ABJ2WwaCOnaoiynkjUtAfAT1v70yYmA2RX9B7+8ZoHn2VV1kYovHdDEShmQ8/AEI
+        fNDOdg6poQfhaoCPwEuvYRKEXjS35iZTkU7rqE9PauVgF35XtGACzSSvZQKhoqR5/pVi
+        lBMbRI/AHdlL9Or/PEmY7NPDIChbT362jJ/Drvp5odv9q0ul6kB5c/koq//2tiYH3k2R
+        E+tw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=1e100.net; s=20161025;
+       h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+        :subject:message-id:references:to;
+       bh=xNJUR9E+A79NA94azm+My7URl4Ay6IaTcElPe9ksuxg=;
+       b=WPXMpuOnTQNE1Z/ny9MbzXIAjo9NTjuM72WiF7HkQREJy6L2zR8yZBVun96Ddp/OoQ
+        +wiZCcKBAgyZqXSHBGh22MviZyfEFDYhdPTN8xga802kcRk2i8bujJpNCzNCHE7Viz3J
+        dKuYbVR9cONj7Tdkgoddx+EfTPAkIZfgwhFMa3h+suVvokYFhTAQkCx3wKT+06wA0Vod
+        9K5wxBOjq9hHaLSq77dazjvi9w6xyP3RcIb1HX7rT/fjj2xKC+/I34vhsVpqw+nglouO
+        sCWeskh+QdVGvnPC6XS1iIxpp2oQK8P6JSFkz5wy2ZWQc1ugVVhv5zYlSwVmlk+ejsU4
+        wkCA==
+X-Gm-Message-State: AOAM532Tqxkxv0VrO89phdm+r6dyTP34rrTT9ba50f1V/TVxDSaUKKxr
+   cMcEQFGZJJLKK6E64js86QE=
+X-Google-Smtp-Source: ABdhPJxCXELM/63s6/29jcpSGQPaOJrS5alWKCh36CJjx9LnjmO0mZ9IexifwO+8S/xCa/TgSPXYww==
+X-Received: by 2002:aca:3dd7:: with SMTP id k206mr9145973oia.10.1614992598776;
+       Fri, 05 Mar 2021 17:03:18 -0800 (PST)
+Return-Path: <tomcatalano.0@gmail.com>
+Received: from ?IPv6:2600:100e:b057:2368:cc6f:89cd:9eb8:41ba? ([2600:100e:b057:2368:cc6f:89cd:9eb8:41ba])
+       by smtp.gmail.com with ESMTPSA id c25sm1011698otk.35.2021.03.05.17.03.15
+       (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+       Fri, 05 Mar 2021 17:03:18 -0800 (PST)
+Content-Type: multipart/signed; boundary=Apple-Mail-7D115BC3-80E1-4DCF-AD87-209D0F8C64BD; protocol="application/pkcs7-signature"; micalg=sha-256
+Content-Transfer-Encoding: 7bit
+From: =?utf-8?Q?"=E2=80=A2=E2=80=99THOMAS-j.=5FCatalano-CATALANO?=
+=?utf-8?Q?=E2=80=99*=E2=80=9D=E2=80=A2::=E2=80=99itomcatalano.0*?=
+=?utf-8?Q?=E2=80=99!=C2=A1gmail.com=C2=A1*=E2=80=99=C3=AE=C2=A1?=
+=?utf-8?Q?=C2=A1=C2=A1~-=E2=80=9Caccount=E2=80=9D-~=E2=80=99acco?=
+=?utf-8?Q?unt=E2=80=99*,=E2=80=99=E2=80=9D=5F=5F=5F=5F=5F^=E2=80=A2"?= <tomcatalano.0@gmail.com>
+Mime-Version: 1.0 (1.0)
+Date: Fri, 5 Mar 2021 18:03:14 -0700
+Subject: Fwd: Friday, March  CDLE  Friday, March 5, 2021    CATALANO , THOMAS
+       Logoff     Change Password  Home Name: CATALANO, THOMAS  Effective
+Date: 8/16/2020 Claimant ID: 12810079  Benefit Year End: 8/14/2021 Claim ID:
+2020-01 Claim Status: Exhausted_Active  Basic Information Program Type    PEUC
+File Date    8/17/2020 Reopen Date    3/1/2021 Job/Union Attached Date     Preferred
+Language    English Correspondence Preference    US Mail  Claim Information Maximum
+Benefit Amount    $4,316 Weekly Benefit Amount    $332 Week Last Certified    1/3/2021
+BalanceBalance    $4,316 Hold Payment      Deduction & Payments Child Support
+Percentage    0.00% Child Support Effective Date    TBD State Tax Withholding    4.00%
+Federal Tax Withholding    10.00% Payment Option    Direct deposit  Correspondence
+Recent Correspondence    4 Fact Findings    1 Pending Issues    1  Pending Weekly
+Certifications If you were unemployed, you may request benefit payments for
+the following weeks:   Export Search: Showing 1 to 4 of 4 entries
+Certification Week  (Sunday through
+Message-Id: <19542D9E-A515-4640-AB8C-10F29B9CA1C3@gmail.com>
+References: <162237E1-9D5F-4BA2-9A50-23378756CA69@gmail.com>
+To: webmaster@irs.gov, webmaster@fcc.gov, webmaster@nasa.gov,
+webmaster@usmint.gov, webmaster@esa.int,
+=?utf-8?Q?=5F|||=5F=E2=80=A2=E2=80=99THOMAS-j=5FCatalano=E2=80=9D*?=
+=?utf-8?Q?=E2=80=99=E2=80=A2=5F|||=5F_*?= <tomcatalano@outlook.com>
+X-Mailer: iPhone Mail (17F80)
+
+
+--Apple-Mail-7D115BC3-80E1-4DCF-AD87-209D0F8C64BD
+Content-Type: multipart/alternative;
+   boundary=Apple-Mail-ED10598C-D74E-436C-A145-1CE33FC593D9
+Content-Transfer-Encoding: 7bit
+
+
+--Apple-Mail-ED10598C-D74E-436C-A145-1CE33FC593D9
+Content-Type: text/plain;
+   charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=
+=E2=80=A2_||||
+
+Begin forwarded message:
+
+From: "=E2=80=A2=E2=80=99THOMAS-j._Catalano-CATALANO=E2=80=99*=E2=80=9D=E2=
+=80=A2::=E2=80=99itomcatalano.0*=E2=80=99!=C2=A1gmail.com=C2=A1*=E2=80=99=C3=
+=AE=C2=A1=C2=A1=C2=A1~-=E2=80=9Caccount=E2=80=9D-~=E2=80=99account=E2=80=99*=
+,=E2=80=99=E2=80=9D_____^=E2=80=A2" <tomcatalano.0@gmail.com>
+Date: March 5, 2021 at 16:44:08 MST
+To: tomcatalano.0@gmail.com
+Subject: Fwd:  Friday, March  CDLE  Friday, March 5, 2021    CATALANO , TH=
+OMAS        Logoff    Change Password  Home Name: CATALANO, THOMAS  Effectiv=
+e Date: 8/16/2020 Claimant ID: 12810079  Benefit Year End: 8/14/2021 Claim I=
+D: 2020-01 Claim Status: Exhausted_Active  Basic Information Program Type PE=
+UC File Date 8/17/2020 Reopen Date 3/1/2021 Job/Union Attached Date Preferre=
+d Language English Correspondence Preference US Mail  Claim Information Maxi=
+mum Benefit Amount $4,316 Weekly Benefit Amount $332 Week Last Certified 1/3=
+/2021 BalanceBalance $4,316 Hold Payment   Deduction & Payments Child Suppor=
+t Percentage 0.00% Child Support Effective Date TBD State Tax Withholding 4.=
+00% Federal Tax Withholding 10.00% Payment Option Direct deposit  Correspond=
+ence Recent Correspondence 4 Fact Findings 1 Pending Issues 1  Pending Weekl=
+y Certifications If you were unemployed, you may request benefit payments fo=
+r the following weeks:  Export Search: Showing 1 to 4 of 4 entries Certifica=
+tion Week  (Sunday through
+=20
+=EF=BB=BFFwd: Friday, March  CDLE  Friday, March 5, 2021    CATALANO , THO=
+MAS        Logoff     Change Password  Home Name: CATALANO, THOMAS  Effectiv=
+e Date: 8/16/2020 Claimant ID: 12810079  Benefit Year End: 8/14/2021 Claim I=
+D: 2020-01 Claim Status: Exhausted_Active  Basic Information Program Type=
+   PEUC File Date    8/17/2020 Reopen Date    3/1/2021 Job/Union Attached Date=
+    Preferred Language    English Correspondence Preference    US Mail  Cl=
+aim Information Maximum Benefit Amount    $4,316 Weekly Benefit Amount    $33=
+2 Week Last Certified    1/3/2021 BalanceBalance    $4,316 Hold Payment=
+     Deduction & Payments Child Support Percentage    0.00% Child=
+Support Effective Date    TBD State Tax Withholding    4.00% Federal Tax W=
+ithholding    10.00% Payment Option    Direct deposit  Correspondence Rece=
+nt Correspondence    4 Fact Findings    1 Pending Issues    1  P=
+ending Weekly Certifications If you were unemployed, you may request benefit=
+payments for the following weeks:   Export Search: Showing 1 to 4 of 4 entr=
+ies Certification Week  (Sunday through Saturday)    Action January 10, 2=
+021 - January 16, 2021    Start Weekly Certification  January 17, 2021 - Janu=
+ary 23, 2021    Start Weekly Certification  January 24, 2021 - January 30, 2=
+021    Start Weekly Certification  January 31, 2021 - February 06, 2021=
+   Start Weekly Certification  Important Messages - These Messages Need Your A=
+ttention Warning    You need to respond to an important request for inf=
+ormation. If you do not provide this information the completion of your clai=
+m may be delayed. Select here to view requested information. Other Messages N=
+o records found... Last Five(5) Weekly Certifications Certification Week  (S=
+unday through Saturday)    Submitted Date    Confirmation Number    Status Janu=
+ary 03, 2021 - January 09, 2021    3/5/2021 4:23:13 PM    W-05R21058339293410=
+11    Submitted My Account Home Page       My Inbox View and respond to i=
+tems requiring your immediate attention and other important documents.       =
+ View Correspondences View Correspondences.        View and Maintain A=
+ccount Information View and/or change information related to your Benefit Ac=
+count.   Benefits Estimate View an estimate of potential benefits based on c=
+urrently reported Colorado wages.        Request Benefit Payment Com=
+plete a request for weekly benefit payment.   Manage Debt Repay overpayment d=
+ebt, create or view a payment plan, view overpayment history, view repayment=
+history, view debt notices, or request a waiver.         Back to TopAcc=
+essibilityPrivacy StatementViewing Tips =C2=A9 2021 COLORADO DEPARTMENT OF L=
+ABOR AND EMPLOYMENT.=C2=A7=E2=80=A2 CDLE  Friday, March 5, 2021    CATALANO ,=
+THOMAS        Logoff     Change Password  Home Name: CATALANO, THOMAS  Effe=
+ctive Date: 8/16/2020 Claimant ID: 12810079  Benefit Year End: 8/14/2021Cla=
+im ID: 2020-01 Claim Status: Exhausted_Active  Basic Information Program Typ=
+e    PEUC File Date    8/17/2020 Reopen Date    3/1/2021 Job/Union Attached=
+Date     Preferred Language    English Correspondence Preference    US M=
+ail  Claim Information Maximum Benefit Amount    $4,316 Weekly Benefit Amoun=
+t    $332 Week Last Certified    1/3/2021 BalanceBalance    $4,=
+316 Hold Payment      Deduction & Payments Child Support Percentage=
+   0.00% Child Support Effective Date    TBD State Tax Withholding    4.0=
+0% Federal Tax Withholding    10.00% Payment Option    Direct deposit  Cor=
+respondence Recent Correspondence    4 Fact Findings    1 Pending I=
+ssues    1  Pending Weekly Certifications If you were unemployed, you may re=
+quest benefit payments for the following weeks:   Export Search: Showing 1 t=
+o 4 of 4 entries Certification Week  (Sunday through Saturday)    Action Janu=
+ary 10, 2021 - January 16, 2021    Start Weekly Certification  January 17, 202=
+1 - January 23, 2021    Start Weekly Certification  January 24, 2021 - Janu=
+ary 30, 2021    Start Weekly Certification  January 31, 2021 - February 06,=
+2021    Start Weekly Certification  Important Messages - These Messages Nee=
+d Your Attention Warning    You need to respond to an important request=
+for information. If you do not provide this information the completion of y=
+our claim may be delayed. Select here to view requested information. Other M=
+essages No records found... Last Five(5) Weekly Certifications Certification=
+Week  (Sunday through Saturday)    Submitted Date    Confirmation Number=
+   Status January 03, 2021 - January 09, 2021    3/5/2021 4:23:13 PM=
+   W-05R2105833929341011    Submitted My Account Home Page       My Inb=
+ox View and respond to items requiring your immediate attention and other im=
+portant documents.         View Correspondences View Correspondences.=
+       View and Maintain Account Information View and/or change informatio=
+n related to your Benefit Account.   Benefits Estimate View an estimate of p=
+otential benefits based on currently reported Colorado wages.        Req=
+uest Benefit Payment Complete a request for weekly benefit payment.   Manage=
+Debt Repay overpayment debt, create or view a payment plan, view overpaymen=
+t history, view repayment history, view debt notices, or request a waiver.=
+        Back to TopAccessibilityPrivacy StatementViewing Tips =C2=A9 2021 COLO=
+RADO DEPARTMENT OF LABOR AND EMPLOYMENT.=C2=A7  ||||_=E2=80=A2=E2=80=9D=E2=80=
+=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||=C2=A7=E2=80=A2=
+=C2=A7 5, 2021 CATALANO , THOMAS Logoff
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+=99=E2=80=A2_||||
+=20
+Begin forwarded message:
+=20
+From: "=E2=80=A2=E2=80=99THOMAS-j._Catalano-CATALANO=E2=80=99*=E2=80=9D=E2=
+=80=A2::=E2=80=99itomcatalano.0*=E2=80=99!=C2=A1gmail.com=C2=A1*=E2=80=99=C3=
+=AE=C2=A1=C2=A1=C2=A1~-=E2=80=9Caccount=E2=80=9D-~=E2=80=99account=E2=80=99*=
+,=E2=80=99=E2=80=9D_____^=E2=80=A2" <tomcatalano.0@gmail.com>
+Date: March 5, 2021 at 16:42:26 MST
+To: _|||_=E2=80=A2=E2=80=99THOMAS-j_Catalano=E2=80=9D*=E2=80=99=E2=80=A2_=
+|||_ * <tomcatalano.0@gmail.com>
+Subject: Friday, March 5, 2021 CATALANO , THOMAS Logoff
+=20
+=20
+=20
+=20
+Friday, March 5, 2021
+=20
+CATALANO , THOMAS
+ =20
+  Logoff=20
+  Change Password=20
+Home
+Name: CATALANO, THOMAS=20
+Effective Date: 8/16/2020
+Claimant ID: 12810079=20
+Benefit Year End: 8/14/2021
+Claim ID: 2020-01
+Claim Status: Exhausted_Active
+=20
+Basic Information
+Program Type    PEUC
+File Date    8/17/2020
+Reopen Date    3/1/2021
+Job/Union Attached Date=09
+Preferred Language    English
+Correspondence Preference    US Mail
+=20
+Claim Information
+Maximum Benefit Amount    $4,316
+Weekly Benefit Amount    $332
+Week Last Certified    1/3/2021
+Balance    $4,316
+Hold Payment=09
+=20
+Deduction & Payments
+Child Support Percentage    0.00%
+Child Support Effective Date    TBD
+State Tax Withholding    4.00%
+Federal Tax Withholding    10.00%
+Payment Option    Direct deposit
+=20
+Correspondence
+Recent Correspondence    4
+Fact Findings    1
+Pending Issues    1
+=20
+Pending Weekly Certifications
+If you were unemployed, you may request benefit payments for the followin=
+Show Quoted Content
+Subject: Friday, March 5, 2021 CATALANO , THOMAS Logoff
+=20
+=20
+=20
+=20
+Friday, March 5, 2021
+=20
+CATALANO , THOMAS
+ =20
+  Logoff=20
+  Change Password=20
+Home
+Name: CATALANO, THOMAS=20
+Effective Date: 8/16/2020
+Claimant ID: 12810079=20
+Benefit Year End: 8/14/2021
+Claim ID: 2020-01
+Claim Status: Exhausted_Active
+=20
+Basic Information
+Program Type    PEUC
+File Date    8/17/2020
+Reopen Date    3/1/2021
+Job/Union Attached Date=09
+Preferred Language    English
+Correspondence Preference    US Mail
+=20
+Claim Information
+Maximum Benefit Amount    $4,316
+Weekly Benefit Amount    $332
+Week Last Certified    1/3/2021
+Balance    $4,316
+Hold Payment=09
+=20
+Deduction & Payments
+Child Support Percentage    0.00%
+Child Support Effective Date    TBD
+State Tax Withholding    4.00%
+Federal Tax Withholding    10.00%
+Payment Option    Direct deposit
+=20
+Correspondence
+Recent Correspondence    4
+Fact Findings    1
+Pending Issues    1
+=20
+Pending Weekly Certifications
+If you were unemployed, you may request benefit payments for the followin=
+g weeks:=20
+=20
+Export
+Search:
+Showing 1 to 4 of 4 entries
+Certification Week=20
+(Sunday through Saturday)    Action
+January 10, 2021 - January 16, 2021    Start Weekly Certification=20
+January 17, 2021 - January 23, 2021    Start Weekly Certification=20
+January 24, 2021 - January 30, 2021    Start Weekly Certification=20
+January 31, 2021 - February 06, 2021    Start Weekly Certification=20
+Important Messages - These Messages Need Your Attention
+   You need to respond to an important request for information. If you=
+Show Quoted Content
+=20
+Export
+Search:
+Showing 1 to 4 of 4 entries
+Certification Week=20
+(Sunday through Saturday)    Action
+January 10, 2021 - January 16, 2021    Start Weekly Certification=20
+January 17, 2021 - January 23, 2021    Start Weekly Certification=20
+January 24, 2021 - January 30, 2021    Start Weekly Certification=20
+January 31, 2021 - February 06, 2021    Start Weekly Certification=20
+Important Messages - These Messages Need Your Attention
+   You need to respond to an important request for information. If you=
+do not provide this information the completion of your claim may be delayed=
+. Select here to view requested information.
+Other Messages
+No records found...
+Last Five(5) Weekly Certifications
+Certification Week=20
+(Sunday through Saturday)    Submitted Date    Confirmation Number    Sta=
+tus
+January 03, 2021 - January 09, 2021    3/5/2021 4:23:13 PM    W-05R210583=
+3929341011    Submitted
+My Account Home Page
+=20
+=20
+=20
+My Inbox
+View and respond to items requiring your immediate attention and other im=
+Show Quoted Content
+My Account Home Page
+=20
+=20
+=20
+My Inbox
+View and respond to items requiring your immediate attention and other im=
+portant documents.=09
+=20
+=20
+View Correspondences
+View Correspondences.        View and Maintain Account Informati=
+on
+View and/or change information related to your Benefit Account.
+=20
+Benefits Estimate
+View an estimate of potential benefits based on currently reported Colora=
+do wages.        Request Benefit Payment
+Complete a request for weekly benefit payment.
+=20
+Manage Debt
+Repay overpayment debt, create or view a payment plan, view overpayment h=
+istory, view repayment history, view debt notices, or request a waiver.=09
+=20
+=20
+Back to TopAccessibilityPrivacy StatementViewing Tips
+=C2=A9 2021 COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT.=C2=A7=E2=80=A2
+=20
+=20
+Friday, March 5, 2021
+=20
+CATALANO , THOMAS
+ =20
+  Logoff=20
+  Change Password=20
+Home
+Name: CATALANO, THOMAS=20
+Effective Date: 8/16/2020
+Claimant ID: 12810079=20
+Benefit Year End: 8/14/2021
+Claim ID: 2020-01
+Claim Status: Exhausted_Active
+=20
+Basic Information
+Program Type    PEUC
+File Date    8/17/2020
+Reopen Date    3/1/2021
+Job/Union Attached Date=09
+Preferred Language    English
+Correspondence Preference    US Mail
+=20
+Claim Information
+Maximum Benefit Amount    $4,316
+Weekly Benefit Amount    $332
+Week Last Certified    1/3/2021
+Balance    $4,316
+Hold Payment=09
+=20
+Deduction & Payments
+Child Support Percentage    0.00%
+Child Support Effective Date    TBD
+State Tax Withholding    4.00%
+Federal Tax Withholding    10.00%
+Payment Option    Direct deposit
+=20
+Correspondence
+Recent Correspondence    4
+Fact Findings    1
+Pending Issues    1
+=20
+Pending Weekly Certifications
+If you were unemployed, you may request benefit payments for the followin=
+Show Quoted Content
+=20
+=20
+Back to TopAccessibilityPrivacy StatementViewing Tips
+=C2=A9 2021 COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT.=C2=A7=E2=80=A2
+=20
+=20
+Friday, March 5, 2021
+=20
+CATALANO , THOMAS
+ =20
+  Logoff=20
+  Change Password=20
+Home
+Name: CATALANO, THOMAS=20
+Effective Date: 8/16/2020
+Claimant ID: 12810079=20
+Benefit Year End: 8/14/2021
+Claim ID: 2020-01
+Claim Status: Exhausted_Active
+=20
+Basic Information
+Program Type    PEUC
+File Date    8/17/2020
+Reopen Date    3/1/2021
+Job/Union Attached Date=09
+Preferred Language    English
+Correspondence Preference    US Mail
+=20
+Claim Information
+Maximum Benefit Amount    $4,316
+Weekly Benefit Amount    $332
+Week Last Certified    1/3/2021
+Balance    $4,316
+Hold Payment=09
+=20
+Deduction & Payments
+Child Support Percentage    0.00%
+Child Support Effective Date    TBD
+State Tax Withholding    4.00%
+Federal Tax Withholding    10.00%
+Payment Option    Direct deposit
+=20
+Correspondence
+Recent Correspondence    4
+Fact Findings    1
+Pending Issues    1
+=20
+Pending Weekly Certifications
+If you were unemployed, you may request benefit payments for the followin=
+g weeks:=20
+=20
+Export
+Search:
+Showing 1 to 4 of 4 entries
+Certification Week=20
+(Sunday through Saturday)    Action
+January 10, 2021 - January 16, 2021    Start Weekly Certification=20
+January 17, 2021 - January 23, 2021    Start Weekly Certification=20
+January 24, 2021 - January 30, 2021    Start Weekly Certification=20
+January 31, 2021 - February 06, 2021    Start Weekly Certification=20
+Important Messages - These Messages Need Your Attention
+   You need to respond to an important request for information. If you=
+Show Quoted Content
+=20
+Export
+Search:
+Showing 1 to 4 of 4 entries
+Certification Week=20
+(Sunday through Saturday)    Action
+January 10, 2021 - January 16, 2021    Start Weekly Certification=20
+January 17, 2021 - January 23, 2021    Start Weekly Certification=20
+January 24, 2021 - January 30, 2021    Start Weekly Certification=20
+January 31, 2021 - February 06, 2021    Start Weekly Certification=20
+Important Messages - These Messages Need Your Attention
+   You need to respond to an important request for information. If you=
+do not provide this information the completion of your claim may be delayed=
+. Select here to view requested information.
+Other Messages
+No records found...
+Last Five(5) Weekly Certifications
+Certification Week=20
+(Sunday through Saturday)    Submitted Date    Confirmation Number    Sta=
+tus
+January 03, 2021 - January 09, 2021    3/5/2021 4:23:13 PM    W-05R210583=
+3929341011    Submitted
+My Account Home Page
+=20
+=20
+=20
+My Inbox
+View and respond to items requiring your immediate attention and other im=
+Show Quoted Content
+My Account Home Page
+=20
+=20
+=20
+My Inbox
+View and respond to items requiring your immediate attention and other im=
+portant documents.=09
+=20
+=20
+View Correspondences
+View Correspondences.        View and Maintain Account Informati=
+on
+View and/or change information related to your Benefit Account.
+=20
+Benefits Estimate
+View an estimate of potential benefits based on currently reported Colora=
+do wages.        Request Benefit Payment
+Complete a request for weekly benefit payment.
+=20
+Manage Debt
+Repay overpayment debt, create or view a payment plan, view overpayment h=
+istory, view repayment history, view debt notices, or request a waiver.=09
+=20
+=20
+Back to TopAccessibilityPrivacy StatementViewing Tips
+=C2=A9 2021 COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT.=C2=A7
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+Show Quoted Content
+=20
+=20
+Back to TopAccessibilityPrivacy StatementViewing Tips
+=C2=A9 2021 COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT.=C2=A7
+=20
+||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=
+=99=E2=80=A2_||||=C2=A7=E2=80=A2=C2=A7=C2=A7
+
+--Apple-Mail-ED10598C-D74E-436C-A145-1CE33FC593D9
+Content-Type: text/html;
+   charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><br><br><div dir=3D"ltr">||||_=E2=80=A2=E2=80=
+=9D=E2=80=99THOMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||</di=
+v><div dir=3D"ltr"><br>Begin forwarded message:<br><br></div><blockquote typ=
+e=3D"cite"><div dir=3D"ltr"><b>From:</b> "=E2=80=A2=E2=80=99THOMAS-j._Catala=
+no-CATALANO=E2=80=99*=E2=80=9D=E2=80=A2::=E2=80=99itomcatalano.0*=E2=80=99!=C2=
+=A1gmail.com=C2=A1*=E2=80=99=C3=AE=C2=A1=C2=A1=C2=A1~-=E2=80=9Caccount=E2=80=
+=9D-~=E2=80=99account=E2=80=99*,=E2=80=99=E2=80=9D_____^=E2=80=A2" &lt;tomca=
+talano.0@gmail.com&gt;<br><b>Date:</b> March 5, 2021 at 16:44:08 MST<br><b>T=
+o:</b> tomcatalano.0@gmail.com<br><b>Subject:</b> <b>Fwd:&nbsp; Friday, Marc=
+h&nbsp; CDLE&nbsp; Friday, March 5, 2021&nbsp; &nbsp; CATALANO , THOMAS&nbsp=
+; &nbsp; &nbsp; &nbsp; Logoff&nbsp; &nbsp;  Change Password&nbsp; Home Name:=
+CATALANO, THOMAS&nbsp; Effective Date: 8/16/2020 Claimant ID: 12810079&nbsp=
+; Benefit Year End: 8/14/2021 Claim ID: 2020-01 Claim Status: Exhausted_Acti=
+ve&nbsp; Basic Information Program Type    PEUC File Date    8/17/2020 Reopen Da=
+te    3/1/2021 Job/Union Attached Date     Preferred Language    Eng=
+lish Correspondence Preference    US Mail&nbsp; Claim Information Maximum Ben=
+efit Amount    $4,316 Weekly Benefit Amount    $332 Week Last Certified=
+   1/3/2021 BalanceBalance    $4,316 Hold Payment    &nbsp; Deduction &a=
+mp; Payments Child Support Percentage    0.00% Child Support Effective Date=
+   TBD State Tax Withholding    4.00% Federal Tax Withholding    10.00% Paym=
+ent Option    Direct deposit&nbsp; Correspondence Recent Correspondence=
+   4 Fact Findings    1 Pending Issues    1&nbsp; Pending Weekly Cert=
+ifications If you were unemployed, you may request benefit payments for the f=
+ollowing weeks:&nbsp;  Export Search: Showing 1 to 4 of 4 entries Certificat=
+ion Week&nbsp; (Sunday through</b><br><br></div></blockquote><blockquote typ=
+e=3D"cite"><div dir=3D"ltr">=EF=BB=BF<meta http-equiv=3D"content-type" conte=
+nt=3D"text/html; charset=3Dutf-8">Fwd: Friday, March &nbsp;CDLE &nbsp;Friday=
+, March 5, 2021 &nbsp; &nbsp;CATALANO , THOMAS &nbsp; &nbsp; &nbsp; &nbsp;Lo=
+goff &nbsp; &nbsp; Change Password &nbsp;Home Name: CATALANO, THOMAS &nbsp;E=
+ffective Date: 8/16/2020 Claimant ID: 12810079 &nbsp;Benefit Year End: 8/14/=
+2021 Claim ID: 2020-01 Claim Status: Exhausted_Active &nbsp;Basic Informatio=
+n Program Type<span class=3D"Apple-tab-span" style=3D"white-space: pre;">=
+   </span>PEUC File Date<span class=3D"Apple-tab-span" style=3D"white-space: p=
+re;">    </span>8/17/2020 Reopen Date<span class=3D"Apple-tab-span" style=3D=
+"white-space: pre;">    </span>3/1/2021 Job/Union Attached Date<span class=3D=
+"Apple-tab-span" style=3D"white-space: pre;">    </span>&nbsp;Preferred Lang=
+uage<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Engl=
+ish Correspondence Preference<span class=3D"Apple-tab-span" style=3D"white-s=
+pace: pre;">    </span>US Mail &nbsp;Claim Information Maximum Benefit Amou=
+nt<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>$4,3=
+16 Weekly Benefit Amount<span class=3D"Apple-tab-span" style=3D"white-space:=
+pre;">    </span>$332 Week Last Certified<span class=3D"Apple-tab-span" style=
+=3D"white-space: pre;">    </span>1/3/2021 BalanceBalance<span class=3D"Apple-=
+tab-span" style=3D"white-space: pre;">    </span>$4,316 Hold Payment<span cla=
+ss=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>&nbsp;&nbsp;=
+Deduction &amp; Payments Child Support Percentage<span class=3D"Apple-tab-sp=
+an" style=3D"white-space: pre;">    </span>0.00% Child Support Effectiv=
+e Date<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </s=
+pan>TBD State Tax Withholding<span class=3D"Apple-tab-span" style=3D"white-s=
+pace: pre;">    </span>4.00% Federal Tax Withholding<span class=3D"Apple-ta=
+b-span" style=3D"white-space: pre;">    </span>10.00% Payment Option<span c=
+lass=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Direct depos=
+it &nbsp;Correspondence Recent Correspondence<span class=3D"Apple-tab-span" s=
+tyle=3D"white-space: pre;">    </span>4 Fact Findings<span class=3D"Apple-=
+tab-span" style=3D"white-space: pre;">    </span>1 Pending Issues<span class=3D=
+"Apple-tab-span" style=3D"white-space: pre;">    </span>1 &nbsp;Pending Week=
+ly Certifications If you were unemployed, you may request benefit payments f=
+or the following weeks: &nbsp; Export Search: Showing 1 to 4 of 4 entries Ce=
+rtification Week &nbsp;(Sunday through Saturday)<span class=3D"Apple-tab-spa=
+n" style=3D"white-space: pre;">    </span>Action January 10, 2021 - January 16=
+, 2021<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </s=
+pan>Start Weekly Certification &nbsp;January 17, 2021 - January 23, 2021<spa=
+n class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Start Weekly=
+Certification &nbsp;January 24, 2021 - January 30, 2021<span class=3D"Apple=
+-tab-span" style=3D"white-space: pre;">    </span>Start Weekly Certification &=
+nbsp;January 31, 2021 - February 06, 2021<span class=3D"Apple-tab-span" styl=
+e=3D"white-space: pre;">    </span>Start Weekly Certification &nbsp;Imp=
+ortant Messages - These Messages Need Your Attention Warning<span class=3D"A=
+pple-tab-span" style=3D"white-space: pre;">    </span>You need to respond t=
+o an important request for information. If you do not provide this informati=
+on the completion of your claim may be delayed. Select here to view requeste=
+d information. Other Messages No records found... Last Five(5) Weekly Certif=
+ications Certification Week &nbsp;(Sunday through Saturday)<span class=3D"Ap=
+ple-tab-span" style=3D"white-space: pre;">    </span>Submitted Date<span c=
+lass=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Confirmation=
+Number<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </s=
+pan>Status January 03, 2021 - January 09, 2021<span class=3D"Apple-tab-span"=
+style=3D"white-space: pre;">    </span>3/5/2021 4:23:13 PM<span class=3D"Ap=
+ple-tab-span" style=3D"white-space: pre;">    </span>W-05R210583392934101=
+1<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Subm=
+itted My Account Home Page &nbsp; &nbsp; &nbsp; My Inbox View and respond to=
+items requiring your immediate attention and other important documents.<spa=
+n class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>&nbsp;&nbsp;=
+&nbsp; View Correspondences View Correspondences.<span class=3D"Apple-tab-s=
+pan" style=3D"white-space: pre;">        </span>View and Maintain Ac=
+count Information View and/or change information related to your Benefit Acc=
+ount. &nbsp; Benefits Estimate View an estimate of potential benefits based o=
+n currently reported Colorado wages.<span class=3D"Apple-tab-span" style=3D"=
+white-space: pre;">        </span>Request Benefit Payment Complete a r=
+equest for weekly benefit payment. &nbsp; Manage Debt Repay overpayment debt=
+, create or view a payment plan, view overpayment history, view repayment hi=
+story, view debt notices, or request a waiver.<span class=3D"Apple-tab-span"=
+style=3D"white-space: pre;">    </span>&nbsp;&nbsp; &nbsp; Back to TopAcces=
+sibilityPrivacy StatementViewing Tips =C2=A9 2021 COLORADO DEPARTMENT OF LAB=
+OR AND EMPLOYMENT.=C2=A7=E2=80=A2 CDLE &nbsp;Friday, March 5, 2021 &nbsp; &n=
+bsp;CATALANO , THOMAS &nbsp; &nbsp; &nbsp; &nbsp;Logoff &nbsp; &nbsp; Change=
+Password &nbsp;Home Name: CATALANO, THOMAS &nbsp;Effective Date: 8/16/2020 C=
+laimant ID: 12810079 &nbsp;Benefit Year End: 8/14/2021 Claim ID: 2020-01 Cla=
+im Status: Exhausted_Active &nbsp;Basic Information Program Type<span class=3D=
+"Apple-tab-span" style=3D"white-space: pre;">    </span>PEUC File Date<span c=
+lass=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>8/17/2020 Re=
+open Date<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </s=
+pan>3/1/2021 Job/Union Attached Date<span class=3D"Apple-tab-span" style=3D"=
+white-space: pre;">    </span>&nbsp;Preferred Language<span class=3D"Apple=
+-tab-span" style=3D"white-space: pre;">    </span>English Correspondence Prefe=
+rence<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </s=
+pan>US Mail &nbsp;Claim Information Maximum Benefit Amount<span class=3D"App=
+le-tab-span" style=3D"white-space: pre;">    </span>$4,316 Weekly Benefi=
+t Amount<span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </s=
+pan>$332 Week Last Certified<span class=3D"Apple-tab-span" style=3D"white-sp=
+ace: pre;">    </span>1/3/2021 BalanceBalance<span class=3D"Apple-tab-span=
+" style=3D"white-space: pre;">    </span>$4,316 Hold Payment<span class=3D"Ap=
+ple-tab-span" style=3D"white-space: pre;">    </span>&nbsp;&nbsp;Deductio=
+n &amp; Payments Child Support Percentage<span class=3D"Apple-tab-span" styl=
+e=3D"white-space: pre;">    </span>0.00% Child Support Effective Date<s=
+pan class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>TBD S=
+tate Tax Withholding<span class=3D"Apple-tab-span" style=3D"white-space: pre=
+;">    </span>4.00% Federal Tax Withholding<span class=3D"Apple-tab-span" s=
+tyle=3D"white-space: pre;">    </span>10.00% Payment Option<span class=3D"=
+Apple-tab-span" style=3D"white-space: pre;">    </span>Direct deposit &nbsp=
+;Correspondence Recent Correspondence<span class=3D"Apple-tab-span" style=3D=
+"white-space: pre;">    </span>4 Fact Findings<span class=3D"Apple-tab-span=
+" style=3D"white-space: pre;">    </span>1 Pending Issues<span class=3D"Apple=
+-tab-span" style=3D"white-space: pre;">    </span>1 &nbsp;Pending Weekly Certi=
+fications If you were unemployed, you may request benefit payments for the f=
+ollowing weeks: &nbsp; Export Search: Showing 1 to 4 of 4 entries Certificat=
+ion Week &nbsp;(Sunday through Saturday)<span class=3D"Apple-tab-span" style=
+=3D"white-space: pre;">    </span>Action January 10, 2021 - January 16, 2021<s=
+pan class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Star=
+t Weekly Certification &nbsp;January 17, 2021 - January 23, 2021<span class=3D=
+"Apple-tab-span" style=3D"white-space: pre;">    </span>Start Weekly Certifi=
+cation &nbsp;January 24, 2021 - January 30, 2021<span class=3D"Apple-tab-spa=
+n" style=3D"white-space: pre;">    </span>Start Weekly Certification &nbsp;Jan=
+uary 31, 2021 - February 06, 2021<span class=3D"Apple-tab-span" style=3D"whi=
+te-space: pre;">    </span>Start Weekly Certification &nbsp;Important M=
+essages - These Messages Need Your Attention Warning<span class=3D"Apple-tab=
+-span" style=3D"white-space: pre;">    </span>You need to respond to an im=
+portant request for information. If you do not provide this information the c=
+ompletion of your claim may be delayed. Select here to view requested inform=
+ation. Other Messages No records found... Last Five(5) Weekly Certifications=
+Certification Week &nbsp;(Sunday through Saturday)<span class=3D"Apple-tab-=
+span" style=3D"white-space: pre;">    </span>Submitted Date<span class=3D=
+"Apple-tab-span" style=3D"white-space: pre;">    </span>Confirmation Number<=
+span class=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Stat=
+us January 03, 2021 - January 09, 2021<span class=3D"Apple-tab-span" style=3D=
+"white-space: pre;">    </span>3/5/2021 4:23:13 PM<span class=3D"Apple-tab-=
+span" style=3D"white-space: pre;">    </span>W-05R2105833929341011<span c=
+lass=3D"Apple-tab-span" style=3D"white-space: pre;">    </span>Submitted My=
+Account Home Page &nbsp; &nbsp; &nbsp; My Inbox View and respond to items r=
+equiring your immediate attention and other important documents.<span class=3D=
+"Apple-tab-span" style=3D"white-space: pre;">    </span>&nbsp;&nbsp; &nbsp; V=
+iew Correspondences View Correspondences.<span class=3D"Apple-tab-span" styl=
+e=3D"white-space: pre;">        </span>View and Maintain Account In=
+formation View and/or change information related to your Benefit Account. &n=
+bsp; Benefits Estimate View an estimate of potential benefits based on curre=
+ntly reported Colorado wages.<span class=3D"Apple-tab-span" style=3D"white-s=
+pace: pre;">        </span>Request Benefit Payment Complete a request f=
+or weekly benefit payment. &nbsp; Manage Debt Repay overpayment debt, create=
+or view a payment plan, view overpayment history, view repayment history, v=
+iew debt notices, or request a waiver.<span class=3D"Apple-tab-span" style=3D=
+"white-space: pre;">    </span>&nbsp;&nbsp; &nbsp; Back to TopAccessibility=
+Privacy StatementViewing Tips =C2=A9 2021 COLORADO DEPARTMENT OF LABOR AND E=
+MPLOYMENT.=C2=A7 &nbsp;||||_=E2=80=A2=E2=80=9D=E2=80=99THOMAS-j._Catalano=E2=
+=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||=C2=A7=E2=80=A2=C2=A7 5, 2021 CATALAN=
+O , THOMAS Logoff<br><br><div dir=3D"ltr">||||_=E2=80=A2=E2=80=9D=E2=80=99TH=
+OMAS-j._Catalano=E2=80=99*=E2=80=9D=E2=80=99=E2=80=A2_||||</div><div dir=3D"=
+ltr"><br>Begin forwarded message:<br><br></div><blockquote type=3D"cite"><di=
+v dir=3D"ltr"><b>From:</b>&nbsp;"=E2=80=A2=E2=80=99THOMAS-j._Catalano-CATALA=
+NO=E2=80=99*=E2=80=9D=E2=80=A2::=E2=80=99itomcatalano.0*=E2=80=99!=C2=A1gmai=
+l.com=C2=A1*=E2=80=99=C3=AE=C2=A1=C2=A1=C2=A1~-=E2=80=9Caccount=E2=80=9D-~=E2=
+=80=99account=E2=80=99*,=E2=80=99=E2=80=9D_____^=E2=80=A2" &lt;tomcatalano.0=
+@gmail.com&gt;<br><b>Date:</b>&nbsp;March 5, 2021 at 16:42:26 MST<br><b>To:<=
+/b>&nbsp;_|||_=E2=80=A2=E2=80=99THOMAS-j_Catalano=E2=80=9D*=E2=80=99=E2=80=A2=
+_|||_ * &lt;tomcatalano.0@gmail.com&gt;<br><b>Subject:</b>&nbsp;<b>Friday, M=
+arch 5, 2021 CATALANO , THOMAS Logoff</b><br><br></div></blockquote><blockqu=
+ote type=3D"cite"><div dir=3D"ltr"><div class=3D"col-md-2 logo" style=3D"box=
+-sizing: border-box; position: relative; width: 375px; min-height: 1px; padd=
+ing-right: 15px; padding-left: 15px;"><br></div><div class=3D"col-md-2 logo"=
+style=3D"box-sizing: border-box; position: relative; min-height: 1px; paddi=
+ng-right: 15px; padding-left: 15px; width: 291px !important;"><div class=3D"=
+top-bar" style=3D"box-sizing: border-box; padding: 5px 0px;"><div class=3D"c=
+ontainer" style=3D"box-sizing: border-box; padding-right: 15px; padding-left=
+: 15px; margin-right: auto; margin-left: auto; width: 276px !important;"><di=
+v class=3D"row" style=3D"box-sizing: border-box; display: flex; flex-wrap: w=
+rap; margin-right: -15px; margin-left: -15px;"><div class=3D"col-md-2 logo" s=
+tyle=3D"box-sizing: border-box; position: relative; width: 375px; min-height=
+: 1px; padding-right: 15px; padding-left: 15px;"><img id=3D"logouFacts" src=3D=
+"https://myui.clouduim.cdle.state.co.us/images/core/ufacts_logo.png" class=3D=
+"img-fluid x-apple-edge-to-edge" alt=3D"CDLE" style=3D"vertical-align: middl=
+e; box-sizing: border-box; border-style: none; height: auto;" data-unique-id=
+entifier=3D""></div><div class=3D"col-md-10" style=3D"box-sizing: border-box=
+; position: relative; min-height: 1px; padding-right: 15px; padding-left: 15=
+px; width: 276px !important;"><div class=3D"row" style=3D"box-sizing: border=
+-box; display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15p=
+x;"><div class=3D"col-md-2" style=3D"box-sizing: border-box; position: relat=
+ive; width: 375px; min-height: 1px; padding-right: 15px; padding-left: 15px;=
+"></div><div class=3D"col-md-10" style=3D"box-sizing: border-box; position: r=
+elative; width: 375px; min-height: 1px; padding-right: 15px; padding-left: 1=
+5px;"><div class=3D"top-bar-right" style=3D"box-sizing: border-box; font-siz=
+e: 12px; text-align: right; padding-right: 15px;"><a href=3D"https://myui.cl=
+ouduim.cdle.state.co.us/Claimant/Core/Navigate.ASPX#" aria-label=3D"navigati=
+on link" class=3D"hidden-md hidden-lg main-nav-toggle" style=3D"text-decorat=
+ion: none; color: rgb(255, 255, 255); box-sizing: border-box; text-decoratio=
+n-skip: objects; float: left;"><svg class=3D"svg-inline--fa fa-bars fa-w-14"=
+title=3D"Bars" aria-labelledby=3D"svg-inline--fa-title-1" data-prefix=3D"fa=
+" data-icon=3D"bars" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewB=
+ox=3D"0 0 448 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M16 1=
+32h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163=
+0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.83=
+7-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160=
+h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-=
+16 16v40c0 8.837 7.163 16 16 16z"></path></svg></a><div class=3D"logged-user=
+" style=3D"box-sizing: border-box; display: inline-block; vertical-align: mi=
+ddle; zoom: 1;"><div class=3D"btn-group" style=3D"box-sizing: border-box; po=
+sition: relative; display: inline-flex; vertical-align: middle;"><a href=3D"=
+https://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.ASPX#" class=3D=
+"btn-link" style=3D"text-decoration: none; color: white; box-sizing: border-=
+box; text-decoration-skip: objects; border-color: transparent; padding-left:=
+0px;">Friday, March 5, 2021</a>&nbsp;&nbsp;<a href=3D"https://myui.clouduim=
+.cdle.state.co.us/Claimant/Core/Navigate.ASPX#" class=3D"btn-link" data-togg=
+le=3D"dropdown" style=3D"text-decoration: none; color: white; box-sizing: bo=
+rder-box; text-decoration-skip: objects; border-color: transparent; padding-=
+left: 0px;">CATALANO , THOMAS<span class=3D"caret" style=3D"box-sizing: bord=
+er-box;"></span></a><span class=3D"text" style=3D"box-sizing: border-box;">&=
+nbsp;&nbsp;&nbsp;</span><a href=3D"https://myui.clouduim.cdle.state.co.us/Cl=
+aimant/Core/Navigate.aspx?Go=3DCore.Login" style=3D"text-decoration: none; c=
+olor: white; box-sizing: border-box; text-decoration-skip: objects;">&nbsp;&=
+nbsp;<svg class=3D"svg-inline--fa fa-power-off fa-w-16" title=3D"Power Off" a=
+ria-labelledby=3D"svg-inline--fa-title-4" data-prefix=3D"fa" data-icon=3D"po=
+wer-off" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 51=
+2 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M400 54.1c63 45 1=
+04 118.6 104 201.9 0 136.8-110.8 247.7-247.5 248C120 504.3 8.2 393 8 256.4 7=
+.9 173.1 48.9 99.3 111.8 54.2c11.7-8.3 28-4.8 35 7.7L162.6 90c5.9 10.5 3.1 2=
+3.8-6.6 31-41.5 30.8-68 79.6-68 134.9-.1 92.3 74.5 168.1 168 168.1 91.6 0 16=
+8.6-74.2 168-169.1-.3-51.8-24.7-101.8-68.1-134-9.7-7.2-12.4-20.5-6.5-30.9l15=
+.8-28.1c7-12.4 23.2-16.1 34.8-7.8zM296 264V24c0-13.3-10.7-24-24-24h-32c-13.3=
+0-24 10.7-24 24v240c0 13.3 10.7 24 24 24h32c13.3 0 24-10.7 24-24z"></path><=
+/svg>&nbsp;<span class=3D"text" style=3D"box-sizing: border-box;">Logoff&nbs=
+p;</span></a></div></div><a href=3D"https://myui.clouduim.cdle.state.co.us/C=
+laimant/Core/Navigate.aspx?Go=3DCore.ChangePassword" style=3D"text-decoratio=
+n: none; color: white; box-sizing: border-box; text-decoration-skip: objects=
+;">&nbsp;&nbsp;<svg class=3D"svg-inline--fa fa-key fa-w-16 fa-rotate-270" ti=
+tle=3D"Key" aria-labelledby=3D"svg-inline--fa-title-5" data-prefix=3D"fa" da=
+ta-icon=3D"key" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
+"0 0 512 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M512 176.0=
+01C512 273.203 433.202 352 336 352c-11.22 0-22.19-1.062-32.827-3.069l-24.012=
+27.014A23.999 23.999 0 0 1 261.223 384H224v40c0 13.255-10.745 24-24 24h-40v=
+40c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24v-78.059c0-6.365 2.5=
+29-12.47 7.029-16.971l161.802-161.802C163.108 213.814 160 195.271 160 176 16=
+0 78.798 238.797.001 335.999 0 433.488-.001 512 78.511 512176.001zM336 128c=
+0 26.51 21.49 48 48 48s48-21.49 48-48-21.49-48-48-48-48 21.49-48 48z"></path=
+</svg>&nbsp;<span class=3D"text" style=3D"box-sizing: border-box;">Change P=
+assword&nbsp;</span></a></div></div></div></div></div></div></div><div class=
+=3D"bottom" style=3D"box-sizing: border-box;"><div class=3D"container" style=
+=3D"box-sizing: border-box; padding-right: 15px; padding-left: 15px; margin-=
+right: auto; margin-left: auto; width: 276px !important;"><div class=3D"row"=
+style=3D"box-sizing: border-box; display: flex; flex-wrap: wrap; margin-rig=
+ht: -15px; margin-left: -15px;"><div class=3D"content-wrapper" style=3D"box-=
+sizing: border-box; padding: 15px; min-height: 670px; margin-left: 0px; back=
+ground-color: rgb(249, 249, 249); border-left-width: 1px; border-left-style:=
+solid; border-left-color: rgb(228, 228, 228); width: 276px !important; heig=
+ht: auto !important;"><div class=3D"row" style=3D"box-sizing: border-box; di=
+splay: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;"></di=
+v><div data-step=3D"1" data-intro=3D"Enhanced Last Staff Searches" data-posi=
+tion=3D"down" style=3D"box-sizing: border-box; padding-top: 7px;"></div><div=
+class=3D"row breadCrumbsContainer" style=3D"box-sizing: border-box; display=
+: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;"><div clas=
+s=3D"col-md-7 breadCrumbsDiv " style=3D"box-sizing: border-box; position: re=
+lative; width: 374px; min-height: 1px; padding-right: 15px; padding-left: 15=
+px;"><ul class=3D"breadcrumb" style=3D"margin-bottom: 5px; padding: 15px 1re=
+m 0.75rem 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; list-=
+style: none; border-top-left-radius: 0.25rem; border-top-right-radius: 0.25r=
+em; border-bottom-right-radius: 0.25rem; border-bottom-left-radius: 0.25rem;=
+"><li style=3D"box-sizing: border-box;"><svg data-translate=3D"home" aria-hi=
+dden=3D"true" class=3D"svg-inline--fa fa-home fa-w-18" data-prefix=3D"fa" da=
+ta-icon=3D"home" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
+"0 0 576 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M488 312.7=
+V456c0 13.3-10.7 24-24 24H348c-6.6 0-12-5.4-12-12V356c0-6.6-5.4-12-12-12h-72=
+c-6.6 0-12 5.4-12 12v112c0 6.6-5.4 12-12 12H112c-13.3 0-24-10.7-24-24V312.7c=
+0-3.6 1.6-7 4.4-9.3l188-154.8c4.4-3.6 10.8-3.6 15.3 0l188 154.8c2.7 2.3 4.3 5=
+.7 4.3 9.3zm83.6-60.9L488 182.9V44.4c0-6.6-5.4-12-12-12h-56c-6.6 0-12 5.4-12=
+12V117l-89.5-73.7c-17.7-14.6-43.3-14.6-61 0L4.4 251.8c-5.1 4.2-5.8 11.8-1.6=
+16.9l25.5 31c4.2 5.1 11.8 5.8 16.9 1.6l235.2-193.7c4.4-3.6 10.8-3.6 15.3 0l=
+235.2 193.7c5.1 4.2 12.7 3.5 16.9-1.6l25.5-31c4.2-5.2 3.4-12.7-1.7-16.9z"></=
+path></svg><a href=3D"https://myui.clouduim.cdle.state.co.us/Claimant/Core/N=
+avigate.aspx?Go=3DCore.Navigation&amp;Index=3D-1" style=3D"text-decoration: n=
+one; color: rgb(85, 85, 85); box-sizing: border-box; text-decoration-skip: o=
+bjects;">Home</a></li></ul></div><div class=3D"col-md-5 " style=3D"box-sizin=
+g: border-box; position: relative; width: 374px; min-height: 1px; padding-ri=
+ght: 15px; padding-left: 15px;"><div class=3D"top-content" style=3D"box-sizi=
+ng: border-box; text-align: right; margin-bottom: 10px; padding-top: 15px;">=
+</div></div></div><div class=3D"content" style=3D"box-sizing: border-box;"><=
+div class=3D"main-content" id=3D"print_area" style=3D"box-sizing: border-box=
+; padding-bottom: 30px;"><div id=3D"main-row" style=3D"box-sizing: border-bo=
+x;"><div style=3D"box-sizing: border-box;"><div style=3D"box-sizing: border-=
+box;"><div id=3D"ctl00_ctl00_cphMain_pnlClaimantContext" class=3D"white10Bot=
+tomMargin accountHide" data-id=3D"pnlClaimantContext" style=3D"box-sizing: b=
+order-box; background-color: white; margin-bottom: 10px; box-shadow: rgb(200=
+, 200, 200) 2px 2px 10px; width: 260px !important;"><div class=3D"card" styl=
+e=3D"box-sizing: border-box; position: relative; display: flex; flex-directi=
+on: column; min-width: 0px; word-wrap: break-word; background-clip: border-b=
+ox; border: 1px solid rgba(0, 0, 0, 0.125); border-top-left-radius: 0.25rem;=
+border-top-right-radius: 0.25rem; border-bottom-right-radius: 0.25rem; bord=
+er-bottom-left-radius: 0.25rem;"><div class=3D"card-body" style=3D"box-sizin=
+g: border-box; flex: 1 1 auto; padding: 1.25rem;"><div class=3D"main-header r=
+ow" style=3D"box-sizing: border-box; display: flex; flex-wrap: wrap; margin-=
+right: -15px; margin-left: -15px; margin-bottom: 0px; padding: 10px;"><div c=
+lass=3D"col-md-4 col-xs-4 claimantContext" style=3D"box-sizing: border-box; p=
+osition: relative; width: 312px; min-height: 1px; padding-right: 15px; paddi=
+ng-left: 15px;">Name:&nbsp;<span style=3D"box-sizing: border-box;">CATALANO,=
+THOMAS</span>&nbsp;<br style=3D"box-sizing: border-box;">Effective Date:&nb=
+sp;<span style=3D"box-sizing: border-box;">8/16/2020</span></div><div class=3D=
+"col-md-4 col-xs-4 claimantContext" style=3D"box-sizing: border-box; positio=
+n: relative; width: 312px; min-height: 1px; padding-right: 15px; padding-lef=
+t: 15px;">Claimant ID:&nbsp;<span style=3D"box-sizing: border-box;">12810079=
+</span>&nbsp;<br style=3D"box-sizing: border-box;">Benefit Year&nbsp;End:&nb=
+sp;<span style=3D"box-sizing: border-box;">8/14/2021</span></div><div class=3D=
+"col-md-4 col-xs-4 claimantContext" style=3D"box-sizing: border-box; positio=
+n: relative; width: 312px; min-height: 1px; padding-right: 15px; padding-lef=
+t: 15px;">Claim ID:&nbsp;<span style=3D"box-sizing: border-box;">2020-01</sp=
+an><br style=3D"box-sizing: border-box;">Claim Status:&nbsp;<span style=3D"b=
+ox-sizing: border-box;">Exhausted_Active</span></div></div></div></div></div=
+</div><div id=3D"ctl00_ctl00_cphMain_cphMain_pnlClaimantInfo" data-id=3D"pn=
+lClaimantInfo" style=3D"box-sizing: border-box; width: 260px !important;"><d=
+iv class=3D"x-apple-transform-wrapper" style=3D"height: 1523.30900243309px;"=
+<table cellspacing=3D"0" role=3D"presentation" data-id=3D"fvwMonetaryInfo" b=
+order=3D"0" id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo" style=3D"box-=
+sizing: border-box; border-collapse: collapse; transform-origin: 0px 0px; tr=
+ansform: scale(0.6326034063260341); width: 344px !important; height: 2408.28=
+125px !important;"><tbody style=3D"box-sizing: border-box;"><tr style=3D"box=
+-sizing: border-box;"><td colspan=3D"2" style=3D"box-sizing: border-box;"><d=
+iv class=3D"row" style=3D"box-sizing: border-box; display: flex; flex-wrap: w=
+rap; margin-right: -15px; margin-left: -15px;"><div class=3D"col-lg-6 col-xl=
+-3 col-md-6 col-sm-12 style=3D" padding-left:0px;"=3D"" style=3D"box-sizing:=
+border-box; position: relative; width: 372px; min-height: 1px; padding-righ=
+t: 15px; padding-left: 15px;"><div class=3D"card" style=3D"box-sizing: borde=
+r-box; position: relative; display: flex; flex-direction: column; min-width:=
+0px; word-wrap: break-word; background-color: rgb(255, 255, 255); backgroun=
+d-clip: border-box; border: 1px solid rgba(0, 0, 0, 0.125); border-top-left-=
+radius: 0.25rem; border-top-right-radius: 0.25rem; border-bottom-right-radiu=
+s: 0.25rem; border-bottom-left-radius: 0.25rem;"><div class=3D"card-body" st=
+yle=3D"box-sizing: border-box; flex: 1 1 auto; padding: 1.25rem;"><div class=
+=3D"card-title clearfix" style=3D"box-sizing: border-box; margin-bottom: 0.7=
+5rem; clear: both; zoom: 1;"><div style=3D"box-sizing: border-box; color: rg=
+b(0, 113, 188);"><svg class=3D"svg-inline--fa fa-info-circle fa-w-16 fa-2x f=
+loat-right" title=3D"Information" aria-labelledby=3D"svg-inline--fa-title-6"=
+data-prefix=3D"fas" data-icon=3D"info-circle" role=3D"img" xmlns=3D"http://=
+www.w3.org/2000/svg" viewBox=3D"0 0 512 512" data-fa-i2svg=3D""><path fill=3D=
+"currentColor" d=3D"M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 2=
+48 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18=
+.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-=
+5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64=
+h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 1=
+2 12v100h12c6.627 0 12 5.373 12 12v24z"></path></svg></div><div class=3D"tex=
+t-xs-right float-left" style=3D"box-sizing: border-box; float: left !importa=
+nt;"><span style=3D"box-sizing: border-box;">Basic Information</span></div><=
+/div><div class=3D"card-text" style=3D"box-sizing: border-box; margin-bottom=
+: 0px;"><table class=3D"table table-sm" role=3D"presentation" style=3D"box-s=
+izing: border-box; border-collapse: collapse; width: 300px; max-width: 100%;=
+margin-bottom: 1rem;"><tbody style=3D"box-sizing: border-box;"><tr style=3D=
+"box-sizing: border-box;"><td style=3D"box-sizing: border-box; padding: 0.3r=
+em; vertical-align: top; border-top-width: 1px; border-top-style: solid; bor=
+der-top-color: rgb(222, 226, 230);">Program Type</td><td style=3D"box-sizing=
+: border-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; b=
+order-top-style: solid; border-top-color: rgb(222, 226, 230); text-align: ri=
+ght;"><span class=3D"float-right font-weight-bold" style=3D"box-sizing: bord=
+er-box; float: right !important; font-weight: 700 !important;"><span id=3D"c=
+tl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblPrgTypeCode" data-id=3D"lblPrg=
+TypeCode" style=3D"box-sizing: border-box;">PEUC</span></span></td></tr><tr s=
+tyle=3D"box-sizing: border-box;"><td style=3D"box-sizing: border-box; paddin=
+g: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-style: sol=
+id; border-top-color: rgb(222, 226, 230);">File Date</td><td style=3D"box-si=
+zing: border-box; padding: 0.3rem; vertical-align: top; border-top-width: 1p=
+x; border-top-style: solid; border-top-color: rgb(222, 226, 230);"><span cla=
+ss=3D"float-right font-weight-bold" style=3D"box-sizing: border-box; float: r=
+ight !important; font-weight: 700 !important;"><span id=3D"ctl00_ctl00_cphMa=
+in_cphMain_fvwMonetaryInfo_lblFileDate" data-id=3D"lblFileDate" style=3D"box=
+-sizing: border-box;">8/17/2020</span></span></td></tr><tr style=3D"box-sizi=
+ng: border-box;"><td style=3D"box-sizing: border-box; padding: 0.3rem; verti=
+cal-align: top; border-top-width: 1px; border-top-style: solid; border-top-c=
+olor: rgb(222, 226, 230);">Reopen Date</td><td style=3D"box-sizing: border-b=
+ox; padding: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-=
+style: solid; border-top-color: rgb(222, 226, 230);"><span class=3D"float-ri=
+ght font-weight-bold" style=3D"box-sizing: border-box; float: right !importa=
+nt; font-weight: 700 !important;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fv=
+wMonetaryInfo_ULabel10" data-id=3D"ULabel10" style=3D"box-sizing: border-box=
+;">3/1/2021</span></span></td></tr><tr style=3D"box-sizing: border-box;"><td=
+style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top; bord=
+er-top-width: 1px; border-top-style: solid; border-top-color: rgb(222, 226, 2=
+30);">Job/Union Attached Date</td><td style=3D"box-sizing: border-box; paddi=
+ng: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-style: so=
+lid; border-top-color: rgb(222, 226, 230);"><span class=3D"float-right font-=
+weight-bold" style=3D"box-sizing: border-box; float: right !important; font-=
+weight: 700 !important;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetary=
+Info_ULabel11" data-id=3D"ULabel11" style=3D"box-sizing: border-box;"></span=
+</span></td></tr><tr style=3D"box-sizing: border-box;"><td style=3D"box-siz=
+ing: border-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px=
+; border-top-style: solid; border-top-color: rgb(222, 226, 230);">Preferred L=
+anguage</td><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-a=
+lign: top; border-top-width: 1px; border-top-style: solid; border-top-color:=
+rgb(222, 226, 230);"><span class=3D"float-right font-weight-bold" style=3D"=
+box-sizing: border-box; float: right !important; font-weight: 700 !important=
+;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblPrefLanguage" d=
+ata-id=3D"lblPrefLanguage" style=3D"box-sizing: border-box;">English</span><=
+/span></td></tr><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizin=
+g: border-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; b=
+order-top-style: solid; border-top-color: rgb(222, 226, 230);">Correspondenc=
+e Preference</td><td style=3D"box-sizing: border-box; padding: 0.3rem; verti=
+cal-align: top; border-top-width: 1px; border-top-style: solid; border-top-c=
+olor: rgb(222, 226, 230);"><span class=3D"float-right font-weight-bold" styl=
+e=3D"box-sizing: border-box; float: right !important; font-weight: 700 !impo=
+rtant;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblCorresPre=
+f" data-id=3D"lblCorresPref" style=3D"box-sizing: border-box;">US Mail</span=
+</span></td></tr></tbody></table></div></div></div></div><div class=3D"col-=
+lg-6 col-xl-3 col-md-6 col-sm-12" style=3D"box-sizing: border-box; position:=
+relative; width: 372px; min-height: 1px; padding-right: 15px; padding-left:=
+0px;"><div class=3D"card" style=3D"box-sizing: border-box; position: relati=
+ve; display: flex; flex-direction: column; min-width: 0px; word-wrap: break-=
+word; background-color: rgb(255, 255, 255); background-clip: border-box; bor=
+der: 1px solid rgba(0, 0, 0, 0.125); border-top-left-radius: 0.25rem; border=
+-top-right-radius: 0.25rem; border-bottom-right-radius: 0.25rem; border-bott=
+om-left-radius: 0.25rem;"><div class=3D"card-body" style=3D"box-sizing: bord=
+er-box; flex: 1 1 auto; padding: 1.25rem;"><div class=3D"card-title clearfix=
+" style=3D"box-sizing: border-box; margin-bottom: 0.75rem; clear: both; zoom=
+: 1;"><div style=3D"box-sizing: border-box; color: rgb(0, 113, 188);"><svg c=
+lass=3D"svg-inline--fa fa-dollar-sign fa-w-9 fa-2x float-right" title=3D"Dol=
+lar" aria-labelledby=3D"svg-inline--fa-title-7" data-prefix=3D"fa" data-icon=
+=3D"dollar-sign" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
+"0 0 288 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M209.2 233=
+.4l-108-31.6C88.7 198.2 80 186.5 80 173.5c0-16.3 13.2-29.529.5-29.5h66.3c12=
+.2 0 24.2 3.7 34.2 10.5 6.1 4.1 14.3 3.1 19.5-2l34.8-34c7.1-6.9 6.1-18.4-1.8=
+-24.5C238 74.8 207.4 64.1 176 64V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 1=
+6v48h-2.5C45.8 64-5.4 118.7.5 183.6c4.2 46.1 39.4 83.6 83.8 96.6l102.5 30c12=
+.5 3.7 21.2 15.3 21.2 28.3 0 16.3-13.2 29.5-29.5 29.5h-66.3C100 368 88 364.3=
+78 357.5c-6.1-4.1-14.3-3.1-19.5 2l-34.8 34c-7.1 6.9-6.1 18.4 1.8 24.5 24.5 1=
+9.2 55.1 29.9 86.5 30v48c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-48.2c46.6=
+-.9 90.3-28.6 105.7-72.7 21.5-61.6-14.6-124.8-72.5-141.7z"></path></svg></di=
+v><div class=3D"text-xs-right float-left" style=3D"box-sizing: border-box; f=
+loat: left !important;"><span style=3D"box-sizing: border-box;">Claim Inform=
+ation</span></div></div><div class=3D"card-text" style=3D"box-sizing: border=
+-box; margin-bottom: 0px;"><table class=3D"table table-sm" role=3D"presentat=
+ion" style=3D"box-sizing: border-box; border-collapse: collapse; width: 315p=
+x; max-width: 100%; margin-bottom: 1rem;"><tbody style=3D"box-sizing: border=
+-box;"><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizing: border=
+-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; border-to=
+p-style: solid; border-top-color: rgb(222, 226, 230);">Maximum Benefit Amoun=
+t</td><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: t=
+op; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(22=
+2, 226, 230);"><span class=3D"float-right font-weight-bold" style=3D"box-siz=
+ing: border-box; float: right !important; font-weight: 700 !important;"><spa=
+n id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblMbaAm" data-id=3D"lbl=
+MbaAm" style=3D"box-sizing: border-box;">$4,316</span></span></td></tr><tr s=
+tyle=3D"box-sizing: border-box;"><td style=3D"box-sizing: border-box; paddin=
+g: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-style: sol=
+id; border-top-color: rgb(222, 226, 230);">Weekly Benefit Amount</td><td sty=
+le=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top; border-t=
+op-width: 1px; border-top-style: solid; border-top-color: rgb(222, 226, 230)=
+;"><span class=3D"float-right font-weight-bold" style=3D"box-sizing: border-=
+box; float: right !important; font-weight: 700 !important;"><span id=3D"ctl0=
+0_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblWbaAm" data-id=3D"lblWbaAm" style=
+=3D"box-sizing: border-box;">$332</span></span></td></tr><tr style=3D"box-si=
+zing: border-box;"><td style=3D"box-sizing: border-box; padding: 0.3rem; ver=
+tical-align: top; border-top-width: 1px; border-top-style: solid; border-top=
+-color: rgb(222, 226, 230);">Week Last Certified</td><td style=3D"box-sizing=
+: border-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; b=
+order-top-style: solid; border-top-color: rgb(222, 226, 230);"><span class=3D=
+"float-right font-weight-bold" style=3D"box-sizing: border-box; float: right=
+!important; font-weight: 700 !important;"><span id=3D"ctl00_ctl00_cphMain_c=
+phMain_fvwMonetaryInfo_ULabel5" data-id=3D"ULabel5" style=3D"box-sizing: bor=
+der-box;">1/3/2021</span></span></td></tr><tr style=3D"box-sizing: border-bo=
+x;"><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: to=
+p; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(222=
+, 226, 230);"><a tabindex=3D"0" data-target=3D"/Static/Benefits/HomeScrnBal.=
+html" target=3D"_blank" class=3D"defLink" style=3D"color: rgb(30, 112, 160);=
+box-sizing: border-box; text-decoration-skip: objects;">Balance<img src=3D"=
+https://myui.clouduim.cdle.state.co.us/images/core/deflink.gif" alt=3D"Balan=
+ce" aria-hidden=3D"true" class=3D"defLink" style=3D"vertical-align: middle; b=
+ox-sizing: border-box; border-style: none;" data-unique-identifier=3D""></a>=
+</td><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: t=
+op; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(22=
+2, 226, 230);"><span class=3D"float-right font-weight-bold" style=3D"box-siz=
+ing: border-box; float: right !important; font-weight: 700 !important;"><spa=
+n id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_ULabel17" data-id=3D"ULa=
+bel17" style=3D"box-sizing: border-box;">$4,316</span></span></td></tr><tr s=
+tyle=3D"box-sizing: border-box;"><td style=3D"box-sizing: border-box; paddin=
+g: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-style: sol=
+id; border-top-color: rgb(222, 226, 230);">Hold Payment</td><td style=3D"box=
+-sizing: border-box; padding: 0.3rem; vertical-align: top; border-top-width:=
+1px; border-top-style: solid; border-top-color: rgb(222, 226, 230);"><span c=
+lass=3D"float-right font-weight-bold" style=3D"box-sizing: border-box; float=
+: right !important; font-weight: 700 !important;"><span id=3D"ctl00_ctl00_cp=
+hMain_cphMain_fvwMonetaryInfo_ULabel9" data-id=3D"ULabel9" style=3D"box-sizi=
+ng: border-box;"></span></span></td></tr></tbody></table></div></div></div><=
+/div><div class=3D"col-lg-6 col-xl-3 col-md-6 col-sm-12" style=3D"box-sizing=
+: border-box; position: relative; width: 372px; min-height: 1px; padding-rig=
+ht: 15px; padding-left: 0px;"><div class=3D"card" style=3D"box-sizing: borde=
+r-box; position: relative; display: flex; flex-direction: column; min-width:=
+0px; word-wrap: break-word; background-color: rgb(255, 255, 255); backgroun=
+d-clip: border-box; border: 1px solid rgba(0, 0, 0, 0.125); border-top-left-=
+radius: 0.25rem; border-top-right-radius: 0.25rem; border-bottom-right-radiu=
+s: 0.25rem; border-bottom-left-radius: 0.25rem;"><div class=3D"card-body" st=
+yle=3D"box-sizing: border-box; flex: 1 1 auto; padding: 1.25rem;"><div class=
+=3D"card-title clearfix" style=3D"box-sizing: border-box; margin-bottom: 0.7=
+5rem; clear: both; zoom: 1;"><div style=3D"box-sizing: border-box; color: rg=
+b(0, 113, 188);"><svg class=3D"svg-inline--fa fa-money-bill fa-w-20 fa-2x fl=
+oat-right" title=3D"USD" aria-labelledby=3D"svg-inline--fa-title-8" data-pre=
+fix=3D"fas" data-icon=3D"money-bill" role=3D"img" xmlns=3D"http://www.w3.org=
+/2000/svg" viewBox=3D"0 0 640 512" data-fa-i2svg=3D""><path fill=3D"currentC=
+olor" d=3D"M608 64H32C14.33 64 0 78.33 0 96v320c0 17.67 14.33 32 32 32h576c1=
+7.67 0 32-14.33 32-32V96c0-17.67-14.33-32-32-32zM48 400v-64c35.35 0 64 28.65=
+64 64H48zm0-224v-64h64c0 35.35-28.65 64-64 64zm272 176c-44.19 0-80-42.99-80=
+-96 0-53.02 35.82-96 80-96s80 42.98 80 96c0 53.03-35.83 96-80 96zm272 48h-64=
+c0-35.35 28.65-64 64-64v64zm0-224c-35.35 0-64-28.65-64-64h64v64z"></path></s=
+vg></div><div class=3D"text-xs-right float-left" style=3D"box-sizing: border=
+-box; float: left !important;"><span style=3D"box-sizing: border-box;">Deduc=
+tion &amp; Payments</span></div></div><div class=3D"card-text" style=3D"box-=
+sizing: border-box; margin-bottom: 0px;"><table class=3D"table table-sm" rol=
+e=3D"presentation" style=3D"box-sizing: border-box; border-collapse: collaps=
+e; width: 315px; max-width: 100%; margin-bottom: 1rem;"><tbody style=3D"box-=
+sizing: border-box;"><tr style=3D"box-sizing: border-box;"><td style=3D"box-=
+sizing: border-box; padding: 0.3rem; vertical-align: top; border-top-width: 1=
+px; border-top-style: solid; border-top-color: rgb(222, 226, 230);">Child Su=
+pport Percentage</td><td style=3D"box-sizing: border-box; padding: 0.3rem; v=
+ertical-align: top; border-top-width: 1px; border-top-style: solid; border-t=
+op-color: rgb(222, 226, 230);"><span class=3D"float-right font-weight-bold" s=
+tyle=3D"box-sizing: border-box; float: right !important; font-weight: 700 !i=
+mportant;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblChildS=
+upportPercentage" data-id=3D"lblChildSupportPercentage" style=3D"box-sizing:=
+border-box;">0.00%</span></span></td></tr><tr style=3D"box-sizing: border-b=
+ox;"><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: t=
+op; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(22=
+2, 226, 230);">Child Support Effective Date</td><td style=3D"box-sizing: bor=
+der-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; border=
+-top-style: solid; border-top-color: rgb(222, 226, 230);"><span class=3D"flo=
+at-right font-weight-bold" style=3D"box-sizing: border-box; float: right !im=
+portant; font-weight: 700 !important;"><span id=3D"ctl00_ctl00_cphMain_cphMa=
+in_fvwMonetaryInfo_lblChildSupportEffectiveDate" data-id=3D"lblChildSupportE=
+ffectiveDate" style=3D"box-sizing: border-box;">TBD</span></span></td></tr><=
+tr style=3D"box-sizing: border-box;"><td style=3D"box-sizing: border-box; pa=
+dding: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-style:=
+solid; border-top-color: rgb(222, 226, 230);">State Tax Withholding</td><td=
+style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top; bord=
+er-top-width: 1px; border-top-style: solid; border-top-color: rgb(222, 226, 2=
+30);"><span class=3D"float-right font-weight-bold" style=3D"box-sizing: bord=
+er-box; float: right !important; font-weight: 700 !important;"><span id=3D"c=
+tl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblStateTaxWitholding" data-id=3D=
+"lblStateTaxWitholding" style=3D"box-sizing: border-box;">4.00%</span></span=
+</td></tr><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizing: bo=
+rder-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; borde=
+r-top-style: solid; border-top-color: rgb(222, 226, 230);">Federal Tax Withh=
+olding</td><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-al=
+ign: top; border-top-width: 1px; border-top-style: solid; border-top-color: r=
+gb(222, 226, 230);"><span class=3D"float-right font-weight-bold" style=3D"bo=
+x-sizing: border-box; float: right !important; font-weight: 700 !important;"=
+<span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblFederalTaxWithho=
+lding" data-id=3D"lblFederalTaxWithholding" style=3D"box-sizing: border-box;=
+">10.00%</span></span></td></tr><tr style=3D"box-sizing: border-box;"><td st=
+yle=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top; border-=
+top-width: 1px; border-top-style: solid; border-top-color: rgb(222, 226, 230=
+);">Payment Option</td><td style=3D"box-sizing: border-box; padding: 0.3rem;=
+vertical-align: top; border-top-width: 1px; border-top-style: solid; border=
+-top-color: rgb(222, 226, 230);"><span class=3D"float-right font-weight-bold=
+" style=3D"box-sizing: border-box; float: right !important; font-weight: 700=
+!important;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblPay=
+mentOptionsum" data-id=3D"lblPaymentOptionsum" style=3D"box-sizing: border-b=
+ox;">Direct deposit</span></span></td></tr></tbody></table></div></div></div=
+</div><div class=3D"col-lg-6 col-xl-3 col-md-6 col-sm-12" style=3D"box-sizi=
+ng: border-box; position: relative; width: 372px; min-height: 1px; padding-r=
+ight: 15px; padding-left: 0px;"><div class=3D"card" style=3D"box-sizing: bor=
+der-box; position: relative; display: flex; flex-direction: column; min-widt=
+h: 0px; word-wrap: break-word; background-color: rgb(255, 255, 255); backgro=
+und-clip: border-box; border: 1px solid rgba(0, 0, 0, 0.125); border-top-lef=
+t-radius: 0.25rem; border-top-right-radius: 0.25rem; border-bottom-right-rad=
+ius: 0.25rem; border-bottom-left-radius: 0.25rem;"><div class=3D"card-body" s=
+tyle=3D"box-sizing: border-box; flex: 1 1 auto; padding: 1.25rem;"><div clas=
+s=3D"card-title clearfix" style=3D"box-sizing: border-box; margin-bottom: 0.=
+75rem; clear: both; zoom: 1;"><div style=3D"box-sizing: border-box; color: r=
+gb(0, 113, 188);"><svg class=3D"svg-inline--fa fa-envelope fa-w-16 fa-2x flo=
+at-right" title=3D"Envelope" aria-labelledby=3D"svg-inline--fa-title-9" data=
+-prefix=3D"fa" data-icon=3D"envelope" role=3D"img" xmlns=3D"http://www.w3.or=
+g/2000/svg" viewBox=3D"0 0 512 512" data-fa-i2svg=3D""><path fill=3D"current=
+Color" d=3D"M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c=
+-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 11=
+3.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96=
+.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.=
+4-128.7 5.8-4.5 9.2-11.59.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5=
+0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 5=
+0.2 41.8 73.4 41.4z"></path></svg></div><div class=3D"text-xs-right float-le=
+ft" style=3D"box-sizing: border-box; float: left !important;"><span style=3D=
+"box-sizing: border-box;">Correspondence</span></div></div><div class=3D"car=
+d-text" style=3D"box-sizing: border-box; margin-bottom: 0px;"><table class=3D=
+"table table-sm" role=3D"presentation" style=3D"box-sizing: border-box; bord=
+er-collapse: collapse; width: 315px; max-width: 100%; margin-bottom: 1rem;">=
+<tbody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;"><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top=
+; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(222,=
+226, 230);">Recent Correspondence</td><td style=3D"box-sizing: border-box; p=
+adding: 0.3rem; vertical-align: top; border-top-width: 1px; border-top-style=
+: solid; border-top-color: rgb(222, 226, 230);"><span class=3D"float-right f=
+ont-weight-bold" style=3D"box-sizing: border-box; float: right !important; f=
+ont-weight: 700 !important;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMone=
+taryInfo_lblCorres" data-id=3D"lblCorres" style=3D"box-sizing: border-box;">=
+4</span></span></td></tr><tr style=3D"box-sizing: border-box;"><td style=3D"=
+box-sizing: border-box; padding: 0.3rem; vertical-align: top; border-top-wid=
+th: 1px; border-top-style: solid; border-top-color: rgb(222, 226, 230);">Fac=
+t Findings</td><td style=3D"box-sizing: border-box; padding: 0.3rem; vertica=
+l-align: top; border-top-width: 1px; border-top-style: solid; border-top-col=
+or: rgb(222, 226, 230);"><span class=3D"float-right font-weight-bold" style=3D=
+"box-sizing: border-box; float: right !important; font-weight: 700 !importan=
+t;"><span id=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblFactFindings"=
+data-id=3D"lblFactFindings" style=3D"box-sizing: border-box;">1</span></spa=
+n></td></tr><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizing: b=
+order-box; padding: 0.3rem; vertical-align: top; border-top-width: 1px; bord=
+er-top-style: solid; border-top-color: rgb(222, 226, 230);">Pending Issues</=
+td><td style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top=
+; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(222,=
+226, 230);"><span class=3D"float-right font-weight-bold" style=3D"box-sizin=
+g: border-box; float: right !important; font-weight: 700 !important;"><span i=
+d=3D"ctl00_ctl00_cphMain_cphMain_fvwMonetaryInfo_lblPendingIssues" data-id=3D=
+"lblPendingIssues" style=3D"box-sizing: border-box;">1</span></span></td></t=
+r></tbody></table></div></div></div></div></div><br style=3D"box-sizing: bor=
+der-box;"></td></tr></tbody></table></div><div id=3D"ctl00_ctl00_cphMain_cph=
+Main_pnlDCPMessages" data-id=3D"pnlDCPMessages" style=3D"box-sizing: border-=
+box; width: 260px !important;"><div id=3D"ctl00_ctl00_cphMain_cphMain_pnlRec=
+ertifyReminder" data-id=3D"pnlRecertifyReminder" style=3D"box-sizing: border=
+-box; width: 260px !important;"><div class=3D"widget" style=3D"box-sizing: b=
+order-box; border: 1px solid rgb(44, 152, 198); margin-bottom: 20px;"><div c=
+lass=3D"widget-header" style=3D"box-sizing: border-box; padding: 0px 10px; h=
+eight: 36px; border-bottom-width: 1px; border-bottom-style: solid; border-bo=
+ttom-color: rgb(25, 88, 114); background-color: rgb(30, 104, 135);"><h3 styl=
+e=3D"box-sizing: border-box; margin: 0px; font-weight: 500; line-height: 35p=
+x; color: inherit; font-size: 1.1em; display: inline-block; vertical-align: m=
+iddle; zoom: 1; float: none;">Pending Weekly Certifications</h3></div><div c=
+lass=3D"widget-content" style=3D"box-sizing: border-box; padding: 20px 10px;=
+background-color: rgb(255, 255, 255);">If you were unemployed, you may requ=
+est benefit payments for the following weeks:&nbsp;<br style=3D"box-sizing: b=
+order-box;"><br style=3D"box-sizing: border-box;"><div style=3D"box-sizing: b=
+order-box;"><div id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_wrapper=
+" class=3D"dataTables_wrapper container-fluid dt-bootstrap4 no-footer" style=
+=3D"box-sizing: border-box; padding-right: 15px; padding-left: 15px; margin-=
+right: auto; margin-left: auto; width: 249px !important;"><div class=3D"row"=
+style=3D"box-sizing: border-box; display: flex; flex-wrap: wrap; margin-rig=
+ht: -15px; margin-left: -15px;"><div class=3D"col-md-4" style=3D"box-sizing:=
+border-box; position: relative; width: 322px; min-height: 1px; padding-righ=
+t: 15px; padding-left: 15px;"></div><div class=3D"col-md-4" style=3D"box-siz=
+ing: border-box; position: relative; width: 322px; min-height: 1px; padding-=
+right: 15px; padding-left: 15px;"></div><div class=3D"col-md-4" style=3D"box=
+-sizing: border-box; position: relative; width: 322px; min-height: 1px; padd=
+ing-right: 15px; padding-left: 15px;"><div class=3D"dropdown dataTables_filt=
+er" style=3D"box-sizing: border-box; position: relative; float: none; margin=
+-bottom: 5px; text-align: center;"><button class=3D"btn btn-primary dropdown=
+-toggle" type=3D"button" id=3D"dropdownMenuButton" data-toggle=3D"dropdown" a=
+ria-haspopup=3D"true" aria-expanded=3D"false" style=3D"border-top-left-radiu=
+s: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; borde=
+r-bottom-left-radius: 4px; margin: 0px; font-family: Roboto, sans-serif; fon=
+t-size: 15px; line-height: 28px; overflow: visible; white-space: nowrap; ver=
+tical-align: middle; -webkit-user-select: none; border: 0px none rgb(30, 104=
+, 135); padding-right: 20px; padding-left: 20px; transition: all 0.3s ease 0=
+s; color: rgb(255, 255, 255); background-color: rgb(30, 104, 135); box-shado=
+w: none; height: 28px; position: relative; cursor: pointer;">Export</button>=
+</div><div id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_filter" class=
+=3D"dataTables_filter" style=3D"box-sizing: border-box; float: none; margin-=
+bottom: 5px; text-align: center;"><label style=3D"box-sizing: border-box; di=
+splay: inline-block; margin-bottom: 0.5rem; font-size: 0.85em; white-space: n=
+owrap;">Search:<input type=3D"search" class=3D"form-control form-control-sm"=
+placeholder=3D"" aria-controls=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCer=
+tify" style=3D"margin: 0px 0px 0px 0.5em; font-family: Arial, Helvetica, san=
+s-serif; font-size: 0.875rem; line-height: 1.5; overflow: visible; border-to=
+p-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius=
+: 0px; border-bottom-left-radius: 0px; outline-offset: -2px; -webkit-appeara=
+nce: none; width: auto; padding: 0.25rem 0.5rem; color: rgb(73, 80, 87); bac=
+kground-color: rgb(255, 255, 255); background-clip: padding-box; border-colo=
+r: rgb(127, 133, 127); transition: border-color 0.15s ease-in-out, box-shado=
+w 0.15s ease-in-out; -webkit-box-shadow: none; box-shadow: none;"></label></=
+div></div></div><div class=3D"row" style=3D"box-sizing: border-box; display:=
+flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;"><div class=
+=3D"col-md-6" style=3D"box-sizing: border-box; position: relative; width: 32=
+2px; min-height: 1px; padding-right: 15px; padding-left: 15px;"><div class=3D=
+"dataTables_info" id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_info" r=
+ole=3D"status" aria-live=3D"polite" style=3D"box-sizing: border-box; font-si=
+ze: 0.85em; line-height: 2.7em; padding-top: 0.85em; white-space: nowrap; te=
+xt-align: center;">Showing 1 to 4 of 4 entries</div></div><div class=3D"col-=
+md-6" style=3D"box-sizing: border-box; position: relative; width: 322px; min=
+-height: 1px; padding-right: 15px; padding-left: 15px;"></div></div></div><d=
+iv class=3D"x-apple-transform-wrapper" style=3D"height: 297.2974549921308px;=
+"><table class=3D"grid table table-sm table-striped table-bordered dt-respon=
+sive no-wrap dataTable no-footer dtr-inline" cellspacing=3D"0" rules=3D"all"=
+data-disablebtns=3D"true" data-id=3D"grdWeeksToCertify" border=3D"1" id=3D"=
+ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify" aria-describedby=3D"ctl00_ctl=
+00_cphMain_cphMain_grdWeeksToCertify_info" style=3D"box-sizing: border-box; b=
+order-collapse: collapse; border: 1px solid rgb(222, 226, 230); clear: both;=
+transform-origin: 0px 0px; transform: scale(0.6117231584200222); width: 329=
+.046875px !important; max-width: none !important; margin-bottom: 6px !import=
+ant; margin-top: 6px !important; height: 485.96875px !important;"><thead sty=
+le=3D"box-sizing: border-box;"><tr role=3D"row" style=3D"box-sizing: border-=
+box; font-size: 0.9em;"><th scope=3D"col" class=3D"sorting" tabindex=3D"0" a=
+ria-controls=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify" rowspan=3D"1"=
+colspan=3D"1" aria-label=3D"Certification Week  (Sunday through Saturday): a=
+ctivate to sort column ascending" style=3D"box-sizing: content-box; text-ali=
+gn: inherit; padding: 0.3rem 20px 0.3rem 0.3rem; vertical-align: bottom; bor=
+der-width: 1px 1px 2px 0px; border-style: solid; border-color: rgb(222, 226,=
+230); cursor: pointer; position: relative; color: rgb(30, 112, 160); width:=
+79.19999980926514px;">Certification Week&nbsp;<br style=3D"box-sizing: bord=
+er-box;">(Sunday through Saturday)</th><th scope=3D"col" class=3D"sorting" t=
+abindex=3D"0" aria-controls=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify=
+" rowspan=3D"1" colspan=3D"1" aria-label=3D"Action: activate to sort column a=
+scending" style=3D"box-sizing: content-box; text-align: inherit; padding: 0.=
+3rem 20px 0.3rem 0.3rem; vertical-align: bottom; border-width: 1px 0px 2px; b=
+order-style: solid; border-color: rgb(222, 226, 230); cursor: pointer; posit=
+ion: relative; color: rgb(30, 112, 160); width: 200.19999980926514px;">Actio=
+n</th></tr></thead><tbody style=3D"box-sizing: border-box;"><tr role=3D"row"=
+class=3D"odd" style=3D"box-sizing: border-box; background-color: rgba(0, 0,=
+0, 0.05);"><td style=3D"box-sizing: content-box; padding: 0.3rem; vertical-=
+align: top; border-width: 1px 1px 0px 0px; border-style: solid; border-color=
+: rgb(222, 226, 230); background-color: rgb(245, 245, 245);"><span id=3D"ctl=
+00_ctl00_cphMain_cphMain_grdWeeksToCertify_ctl02_ulCertificationWk" data-id=3D=
+"ulCertificationWk" style=3D"box-sizing: border-box;">January 10, 2021 - Jan=
+uary 16, 2021</span></td><td style=3D"box-sizing: content-box; padding: 0.3r=
+em; vertical-align: top; border-width: 1px 0px 0px; border-style: solid; bor=
+der-color: rgb(222, 226, 230); background-color: rgb(245, 245, 245);"><span i=
+d=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_ctl02_ulSentDate" data-id=
+=3D"ulSentDate" style=3D"box-sizing: border-box;"><a type=3D"button" href=3D=
+"https://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3DBen=
+efits.Payments.ProcessContinuedClaimsNew" class=3D"btn btn-primary btn-lg" a=
+ria-label=3D"Week January 10, 2021 Through January 16, 2021Start Weekly Cert=
+ification button" style=3D"text-decoration: none; color: rgb(255, 255, 255);=
+box-sizing: border-box; background-color: rgb(30, 104, 135); text-decoratio=
+n-skip: objects; display: inline-block; text-align: center; white-space: now=
+rap; vertical-align: middle; -webkit-user-select: none; border: 0px none rgb=
+(30, 104, 135); padding: 0px 20px; font-size: 15px; line-height: 28px; borde=
+r-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-ra=
+dius: 4px; border-bottom-left-radius: 4px; transition: all 0.3s ease 0s; box=
+-shadow: none; font-family: Roboto, sans-serif; height: 28px; margin: 0px; p=
+osition: relative; text-shadow: none; -webkit-appearance: button; cursor: po=
+inter;">Start Weekly Certification&nbsp;<svg class=3D"svg-inline--fa fa-arro=
+w-right fa-w-14" aria-hidden=3D"true" data-prefix=3D"fa" data-icon=3D"arrow-=
+right" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 448 5=
+12" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M190.5 66.9l22.2-22.=
+2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9=
+.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-2=
+4-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-=
+34.3z"></path></svg></a></span></td></tr><tr role=3D"row" class=3D"even" sty=
+le=3D"box-sizing: border-box;"><td style=3D"box-sizing: content-box; padding=
+: 0.3rem; vertical-align: top; border-width: 1px 1px 0px 0px; border-style: s=
+olid; border-color: rgb(222, 226, 230);"><span id=3D"ctl00_ctl00_cphMain_cph=
+Main_grdWeeksToCertify_ctl03_ulCertificationWk" data-id=3D"ulCertificationWk=
+" style=3D"box-sizing: border-box;">January 17, 2021 - January 23, 2021</spa=
+n></td><td style=3D"box-sizing: content-box; padding: 0.3rem; vertical-align=
+: top; border-width: 1px 0px 0px; border-style: solid; border-color: rgb(222=
+, 226, 230);"><span id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_ctl0=
+3_ulSentDate" data-id=3D"ulSentDate" style=3D"box-sizing: border-box;"><a ty=
+pe=3D"button" class=3D"btn btn-primary btn-lg disabled" style=3D"color: rgb(=
+255, 255, 255); box-sizing: border-box; background-color: rgb(30, 104, 135);=
+text-decoration-skip: objects; display: inline-block; text-align: center; w=
+hite-space: nowrap; vertical-align: middle; -webkit-user-select: none; borde=
+r: 0px none rgb(30, 104, 135); padding: 0px 20px; font-size: 15px; line-heig=
+ht: 28px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-=
+bottom-right-radius: 4px; border-bottom-left-radius: 4px; transition: all 0.=
+3s ease 0s; box-shadow: none; font-family: Roboto, sans-serif; height: 28px;=
+margin: 0px; position: relative; text-shadow: none; -webkit-appearance: but=
+ton; opacity: 0.65; pointer-events: none;">Start Weekly Certification&nbsp;<=
+svg class=3D"svg-inline--fa fa-arrow-right fa-w-14" aria-hidden=3D"true" dat=
+a-prefix=3D"fa" data-icon=3D"arrow-right" role=3D"img" xmlns=3D"http://www.w=
+3.org/2000/svg" viewBox=3D"0 0 448 512" data-fa-i2svg=3D""><path fill=3D"cur=
+rentColor" d=3D"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.=
+4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9=
+.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h28=
+7.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg></a></span></td></tr=
+<tr role=3D"row" class=3D"odd" style=3D"box-sizing: border-box; background-=
+color: rgba(0, 0, 0, 0.05);"><td style=3D"box-sizing: content-box; padding: 0=
+.3rem; vertical-align: top; border-width: 1px 1px 0px 0px; border-style: sol=
+id; border-color: rgb(222, 226, 230); background-color: rgb(245, 245, 245);"=
+<span id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_ctl04_ulCertifica=
+tionWk" data-id=3D"ulCertificationWk" style=3D"box-sizing: border-box;">Janu=
+ary 24, 2021 - January 30, 2021</span></td><td style=3D"box-sizing: content-=
+box; padding: 0.3rem; vertical-align: top; border-width: 1px 0px 0px; border=
+-style: solid; border-color: rgb(222, 226, 230); background-color: rgb(245, 2=
+45, 245);"><span id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_ctl04_u=
+lSentDate" data-id=3D"ulSentDate" style=3D"box-sizing: border-box;"><a type=3D=
+"button" class=3D"btn btn-primary btn-lg disabled" style=3D"color: rgb(255, 2=
+55, 255); box-sizing: border-box; background-color: rgb(30, 104, 135); text-=
+decoration-skip: objects; display: inline-block; text-align: center; white-s=
+pace: nowrap; vertical-align: middle; -webkit-user-select: none; border: 0px=
+none rgb(30, 104, 135); padding: 0px 20px; font-size: 15px; line-height: 28=
+px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom=
+-right-radius: 4px; border-bottom-left-radius: 4px; transition: all 0.3s eas=
+e 0s; box-shadow: none; font-family: Roboto, sans-serif; height: 28px; margi=
+n: 0px; position: relative; text-shadow: none; -webkit-appearance: button; o=
+pacity: 0.65; pointer-events: none;">Start Weekly Certification&nbsp;<svg cl=
+ass=3D"svg-inline--fa fa-arrow-right fa-w-14" aria-hidden=3D"true" data-pref=
+ix=3D"fa" data-icon=3D"arrow-right" role=3D"img" xmlns=3D"http://www.w3.org/=
+2000/svg" viewBox=3D"0 0 448 512" data-fa-i2svg=3D""><path fill=3D"currentCo=
+lor" d=3D"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 2=
+4.6 0 33.9L246.6 467.3c-9.4 9.4-24.69.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .=
+4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190=
+.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg></a></span></td></tr><tr ro=
+le=3D"row" class=3D"even" style=3D"box-sizing: border-box;"><td style=3D"box=
+-sizing: content-box; padding: 0.3rem; vertical-align: top; border-width: 1p=
+x 1px 0px 0px; border-style: solid; border-color: rgb(222, 226, 230);"><span=
+id=3D"ctl00_ctl00_cphMain_cphMain_grdWeeksToCertify_ctl05_ulCertificationWk=
+" data-id=3D"ulCertificationWk" style=3D"box-sizing: border-box;">January 31=
+, 2021 - February 06, 2021</span></td><td style=3D"box-sizing: content-box; p=
+adding: 0.3rem; vertical-align: top; border-width: 1px 0px 0px; border-style=
+: solid; border-color: rgb(222, 226, 230);"><span id=3D"ctl00_ctl00_cphMain_=
+cphMain_grdWeeksToCertify_ctl05_ulSentDate" data-id=3D"ulSentDate" style=3D"=
+box-sizing: border-box;"><a type=3D"button" class=3D"btn btn-primary btn-lg d=
+isabled" style=3D"color: rgb(255, 255, 255); box-sizing: border-box; backgro=
+und-color: rgb(30, 104, 135); text-decoration-skip: objects; display: inline=
+-block; text-align: center; white-space: nowrap; vertical-align: middle; -we=
+bkit-user-select: none; border: 0px none rgb(30, 104, 135); padding: 0px 20p=
+x; font-size: 15px; line-height: 28px; border-top-left-radius: 4px; border-t=
+op-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-ra=
+dius: 4px; transition: all 0.3s ease 0s; box-shadow: none; font-family: Robo=
+to, sans-serif; height: 28px; margin: 0px; position: relative; text-shadow: n=
+one; -webkit-appearance: button; opacity: 0.65; pointer-events: none;">Start=
+Weekly Certification&nbsp;<svg class=3D"svg-inline--fa fa-arrow-right fa-w-=
+14" aria-hidden=3D"true" data-prefix=3D"fa" data-icon=3D"arrow-right" role=3D=
+"img" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 448 512" data-fa-i=
+2svg=3D""><path fill=3D"currentColor" d=3D"M190.5 66.9l22.2-22.2c9.4-9.4 24.=
+6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-3=
+3.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v=
+-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path=
+</svg></a></span></td></tr></tbody></table></div></div></div></div></div><d=
+iv id=3D"ctl00_ctl00_cphMain_cphMain_pnlDCPMessagesCritical" class=3D"widget=
+-noborder" data-id=3D"pnlDCPMessagesCritical" style=3D"box-sizing: border-bo=
+x; margin-bottom: 20px; width: 260px !important;"><div class=3D"widget-heade=
+r" style=3D"box-sizing: border-box; padding: 0px 10px; height: 35px; border-=
+bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(25, 8=
+8, 114); background-color: rgb(30, 104, 135);"><h3 data-translate=3D"Navigat=
+e.ImpMsg" style=3D"box-sizing: border-box; margin: 0px; font-weight: 500; li=
+ne-height: 35px; color: inherit; font-size: 1.1em; display: inline-block; ve=
+rtical-align: middle; zoom: 1; float: left;">Important Messages - These Mess=
+ages Need Your Attention</h3></div><div class=3D"widget-content" style=3D"bo=
+x-sizing: border-box;"><div style=3D"box-sizing: border-box;"><div class=3D"=
+x-apple-transform-wrapper" style=3D"height: 74.01459854014598px;"><table cla=
+ss=3D"grid table table-sm table-striped table-bordered dt-responsive no-wrap=
+dataTable" cellspacing=3D"0" rules=3D"all" role=3D"presentation" data-id=3D=
+"ugvDCPMessages_Critical" border=3D"1" id=3D"ctl00_ctl00_cphMain_cphMain_ugv=
+DCPMessages_Critical" style=3D"box-sizing: border-box; border-collapse: coll=
+apse; border: 1px solid rgb(222, 226, 230); clear: both; transform-origin: 0=
+px 0px; transform: scale(0.6326034063260341); width: 344px !important; max-w=
+idth: none !important; margin-bottom: 6px !important; margin-top: 6px !impor=
+tant; height: 116.59375px !important;"><tbody style=3D"box-sizing: border-bo=
+x;"><tr style=3D"box-sizing: border-box; background-color: rgba(0, 0, 0, 0.0=
+5);"><td style=3D"box-sizing: content-box; padding: 0.3rem; vertical-align: t=
+op; border-width: 1px 1px 0px 0px; border-style: solid; border-color: rgb(22=
+2, 226, 230); background-color: rgb(245, 245, 245); width: 30px;"><img id=3D=
+"ctl00_ctl00_cphMain_cphMain_ugvDCPMessages_Critical_ctl02_imgIcon" class=3D=
+"dcpIconImage" alt=3D"Warning" data-id=3D"imgIcon" src=3D"https://myui.cloud=
+uim.cdle.state.co.us/Images/Core/IconValidate.gif" style=3D"vertical-align: m=
+iddle; box-sizing: border-box; border-style: none; border-width: 0px;" data-=
+unique-identifier=3D""></td><td style=3D"box-sizing: content-box; padding: 0=
+.3rem; vertical-align: top; border-width: 1px 0px 0px; border-style: solid; b=
+order-color: rgb(222, 226, 230); background-color: rgb(245, 245, 245);">You n=
+eed to respond to an important request for information. If you do not provid=
+e this information the completion of your claim may be delayed.&nbsp;<a href=
+=3D"https://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3D=
+Benefits.Maintain.Inbox&amp;INBOX=3DY" style=3D"text-decoration: none; color=
+: rgb(30, 112, 160); box-sizing: border-box; text-decoration-skip: objects;"=
+Select here</a>&nbsp;to view requested information.</td></tr></tbody></tabl=
+e></div></div></div></div><div id=3D"ctl00_ctl00_cphMain_cphMain_pnlDCPMessa=
+gesOther" class=3D"widget-noborder" data-id=3D"pnlDCPMessagesOther" style=3D=
+"box-sizing: border-box; margin-bottom: 20px; width: 260px !important;"><div=
+class=3D"widget-header" style=3D"box-sizing: border-box; padding: 0px 10px;=
+height: 35px; border-bottom-width: 1px; border-bottom-style: solid; border-=
+bottom-color: rgb(25, 88, 114); background-color: rgb(30, 104, 135);"><h3 st=
+yle=3D"box-sizing: border-box; margin: 0px; font-weight: 500; line-height: 3=
+5px; color: inherit; font-size: 1.1em; display: inline-block; vertical-align=
+: middle; zoom: 1; float: left;">Other Messages</h3></div><div class=3D"widg=
+et-content" style=3D"box-sizing: border-box;"><div style=3D"box-sizing: bord=
+er-box;"><table class=3D"grid table table-sm table-striped table-bordered dt=
+-responsive no-wrap" cellspacing=3D"0" rules=3D"all" role=3D"presentation" d=
+ata-id=3D"ugvDCPMessages_Other" border=3D"1" id=3D"ctl00_ctl00_cphMain_cphMa=
+in_ugvDCPMessages_Other" style=3D"box-sizing: border-box; border-collapse: c=
+ollapse; width: 344px; max-width: 100%; margin-bottom: 1rem; border: 1px sol=
+id rgb(222, 226, 230);"><tbody style=3D"box-sizing: border-box;"><tr style=3D=
+"box-sizing: border-box; background-color: rgba(0, 0, 0, 0.05);"><td colspan=
+=3D"2" style=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top=
+; border: 1px solid rgb(222, 226, 230); background-color: rgb(245, 245, 245)=
+;">No records found...</td></tr></tbody></table></div></div></div></div><div=
+id=3D"ctl00_ctl00_cphMain_cphMain_pnlWklyCertificationInfo" data-id=3D"pnlW=
+klyCertificationInfo" style=3D"box-sizing: border-box; width: 260px !importa=
+nt;"><div class=3D"widget" style=3D"box-sizing: border-box; border: 1px soli=
+d rgb(44, 152, 198); margin-bottom: 20px;"><div class=3D"widget-header" styl=
+e=3D"box-sizing: border-box; padding: 0px 10px; height: 36px; border-bottom-=
+width: 1px; border-bottom-style: solid; border-bottom-color: rgb(25, 88, 114=
+); background-color: rgb(30, 104, 135);"><h3 style=3D"box-sizing: border-box=
+; margin: 0px; font-weight: 500; line-height: 35px; color: inherit; font-siz=
+e: 1.1em; display: inline-block; vertical-align: middle; zoom: 1; float: non=
+e;">Last Five(5) Weekly Certifications</h3></div><div class=3D"widget-conten=
+t" style=3D"box-sizing: border-box; padding: 20px 10px; background-color: rg=
+b(255, 255, 255);"><div style=3D"box-sizing: border-box;"><div class=3D"x-ap=
+ple-transform-wrapper" style=3D"height: 99.3068335498926px;"><table class=3D=
+"grid table table-sm table-striped table-bordered dt-responsive no-wrap" cel=
+lspacing=3D"0" rules=3D"all" data-id=3D"grdRqstWeekCert" border=3D"1" id=3D"=
+ctl00_ctl00_cphMain_cphMain_grdRqstWeekCert" width=3D"511" style=3D"box-sizi=
+ng: border-box; border-collapse: collapse; max-width: 100%; margin-bottom: 1=
+rem; border: 1px solid rgb(222, 226, 230); transform-origin: 0px 0px; transf=
+orm: scale(0.4225822704250749); width: 511px !important; height: 235.1875px !=
+important;"><thead style=3D"box-sizing: border-box;"><tr style=3D"box-sizing=
+: border-box; font-size: 0.9em;"><th scope=3D"col" style=3D"box-sizing: bord=
+er-box; text-align: inherit; padding: 0.3rem; vertical-align: bottom; border=
+-width: 1px 1px 2px; border-style: solid; border-color: rgb(222, 226, 230);"=
+Certification Week&nbsp;<br style=3D"box-sizing: border-box;">(Sunday throu=
+gh Saturday)</th><th scope=3D"col" style=3D"box-sizing: border-box; text-ali=
+gn: inherit; padding: 0.3rem; vertical-align: bottom; border-width: 1px 1px 2=
+px; border-style: solid; border-color: rgb(222, 226, 230);">Submitted Date</=
+th><th scope=3D"col" style=3D"box-sizing: border-box; text-align: inherit; p=
+adding: 0.3rem; vertical-align: bottom; border-width: 1px 1px 2px; border-st=
+yle: solid; border-color: rgb(222, 226, 230);">Confirmation Number</th><th s=
+cope=3D"col" style=3D"box-sizing: border-box; text-align: inherit; padding: 0=
+.3rem; vertical-align: bottom; border-width: 1px 1px 2px; border-style: soli=
+d; border-color: rgb(222, 226, 230);">Status</th></tr></thead><tbody style=3D=
+"box-sizing: border-box;"><tr style=3D"box-sizing: border-box; background-co=
+lor: rgba(0, 0, 0, 0.05);"><td style=3D"box-sizing: border-box; padding: 0.3=
+rem; vertical-align: top; border: 1px solid rgb(222, 226, 230); background-c=
+olor: rgb(245, 245, 245);"><span id=3D"ctl00_ctl00_cphMain_cphMain_grdRqstWe=
+ekCert_ctl02_ULabel6" data-id=3D"ULabel6" style=3D"box-sizing: border-box;">=
+January 03, 2021 - January 09, 2021</span></td><td style=3D"box-sizing: bord=
+er-box; padding: 0.3rem; vertical-align: top; border: 1px solid rgb(222, 226=
+, 230); background-color: rgb(245, 245, 245);">3/5/2021 4:23:13 PM</td><td s=
+tyle=3D"box-sizing: border-box; padding: 0.3rem; vertical-align: top; border=
+: 1px solid rgb(222, 226, 230); background-color: rgb(245, 245, 245);">W-05R=
+2105833929341011</td><td style=3D"box-sizing: border-box; padding: 0.3rem; v=
+ertical-align: top; border: 1px solid rgb(222, 226, 230); background-color: r=
+gb(245, 245, 245);"><span id=3D"ctl00_ctl00_cphMain_cphMain_grdRqstWeekCert_=
+ctl02_ULabel7" data-id=3D"ULabel7" style=3D"box-sizing: border-box;"><a href=
+=3D"https://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3D=
+Benefits.Maintain.PmtDedInfo.MantainPmtDedInfo" style=3D"text-decoration: no=
+ne; color: rgb(30, 112, 160); box-sizing: border-box; text-decoration-skip: o=
+bjects;"><span class=3D"label label-success" aria-label=3D"Week January 03, 2=
+021 through January 09, 2021 Submitted" style=3D"box-sizing: border-box; bor=
+der-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-=
+radius: 0px; border-bottom-left-radius: 0px; padding: 0.5em 0.6em;">Submitte=
+d<svg class=3D"svg-inline--fa fa-arrow-right fa-w-14" aria-hidden=3D"true" d=
+ata-prefix=3D"fa" data-icon=3D"arrow-right" role=3D"img" xmlns=3D"http://www=
+.w3.org/2000/svg" viewBox=3D"0 0 448 512" data-fa-i2svg=3D""><path fill=3D"c=
+urrentColor" d=3D"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9=
+.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-=
+9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h2=
+87.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg></span></a></span><=
+/td></tr></tbody></table></div></div></div></div></div></div><div class=3D"r=
+ow" style=3D"box-sizing: border-box; display: flex; flex-wrap: wrap; margin-=
+right: -15px; margin-left: -15px; padding: 13px;"><table class=3D"rightMenu"=
+role=3D"presentation" width=3D"100%" style=3D"box-sizing: border-box; borde=
+r-collapse: collapse; background-color: white;"><tbody style=3D"box-sizing: b=
+order-box;"><tr style=3D"box-sizing: border-box;"><td width=3D"49%" style=3D=
+"box-sizing: border-box; padding-left: 15px; padding-right: 15px;"></td><td w=
+idth=3D"2%" style=3D"box-sizing: border-box; padding-left: 15px; padding-rig=
+ht: 15px;"></td><td width=3D"49%" style=3D"box-sizing: border-box; padding-l=
+eft: 15px; padding-right: 15px;"></td></tr><tr style=3D"box-sizing: border-b=
+ox;"><td colspan=3D"3" class=3D"widget-header" style=3D"box-sizing: border-b=
+ox; padding: 0px 15px; height: 35px; border-bottom-width: 1px; border-bottom=
+-style: solid; border-bottom-color: rgb(25, 88, 114); background-color: rgb(=
+30, 104, 135);"><h3 style=3D"box-sizing: border-box; margin: 0px; font-weigh=
+t: 500; line-height: 35px; color: inherit; font-size: 1.1em; display: inline=
+-block; vertical-align: middle; zoom: 1; float: left;">My Account Home Page<=
+/h3></td></tr><tr style=3D"box-sizing: border-box;"><td colspan=3D"3" style=3D=
+"box-sizing: border-box; padding-left: 15px; padding-right: 15px;">&nbsp;</t=
+d></tr><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizing: border=
+-box; padding-left: 15px; padding-right: 15px;"></td><td colspan=3D"2" style=
+=3D"box-sizing: border-box; padding-left: 15px; padding-right: 15px;"></td><=
+/tr><tr style=3D"box-sizing: border-box;"><td colspan=3D"3" style=3D"box-siz=
+ing: border-box; padding-left: 15px; padding-right: 15px;">&nbsp;</td></tr><=
+tr style=3D"box-sizing: border-box;"><td colspan=3D"3" style=3D"box-sizing: b=
+order-box; padding-left: 15px; padding-right: 15px;"><hr style=3D"box-sizing=
+: content-box; height: 0px; overflow: visible; margin-top: 1rem; margin-bott=
+om: 1rem; border-right-width: 0px; border-bottom-width: 0px; border-left-wid=
+th: 0px; border-top-style: solid; border-top-color: rgb(221, 221, 221);"></t=
+d></tr><tr style=3D"box-sizing: border-box;"><td colspan=3D"3" style=3D"box-=
+sizing: border-box; padding-left: 15px; padding-right: 15px;">&nbsp;</td></t=
+r><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizing: border-box;=
+padding-left: 15px; padding-right: 15px;"><a href=3D"https://myui.clouduim.=
+cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3DBenefits.Maintain.Inbox&am=
+p;INBOX=3DY" style=3D"text-decoration: none; color: rgb(30, 112, 160); box-s=
+izing: border-box; text-decoration-skip: objects;">My Inbox</a><br style=3D"=
+box-sizing: border-box;">View and respond to items requiring your immediate a=
+ttention and other important documents.</td><td colspan=3D"2" style=3D"box-s=
+izing: border-box; padding-left: 15px; padding-right: 15px;"></td></tr><tr s=
+tyle=3D"box-sizing: border-box;"><td colspan=3D"3" style=3D"box-sizing: bord=
+er-box; padding-left: 15px; padding-right: 15px;">&nbsp;</td></tr><tr style=3D=
+"box-sizing: border-box;"><td colspan=3D"3" style=3D"box-sizing: border-box;=
+padding-left: 15px; padding-right: 15px;"><hr style=3D"box-sizing: content-=
+box; height: 0px; overflow: visible; margin-top: 1rem; margin-bottom: 1rem; b=
+order-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; bo=
+rder-top-style: solid; border-top-color: rgb(221, 221, 221);"></td></tr><tr s=
+tyle=3D"box-sizing: border-box;"><td colspan=3D"3" style=3D"box-sizing: bord=
+er-box; padding-left: 15px; padding-right: 15px;">&nbsp;</td></tr><tr style=3D=
+"box-sizing: border-box;"><td style=3D"box-sizing: border-box; padding-left:=
+15px; padding-right: 15px;"><a href=3D"https://myui.clouduim.cdle.state.co.=
+us/Claimant/Core/Navigate.aspx?Go=3DBenefits.Search.ClaimantCorrespondences"=
+style=3D"text-decoration: none; color: rgb(30, 112, 160); box-sizing: borde=
+r-box; text-decoration-skip: objects;">View Correspondences</a><br style=3D"=
+box-sizing: border-box;">View Correspondences.</td><td style=3D"box-sizing: b=
+order-box; padding-left: 15px; padding-right: 15px;"></td><td style=3D"box-s=
+izing: border-box; padding-left: 15px; padding-right: 15px;"><a href=3D"http=
+s://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3DCore.Nav=
+igation&amp;Index=3D13" style=3D"text-decoration: none; color: rgb(30, 112, 1=
+60); box-sizing: border-box; text-decoration-skip: objects;">View and Mainta=
+in Account Information</a><br style=3D"box-sizing: border-box;">View and/or c=
+hange information related to your Benefit Account.</td></tr><tr style=3D"box=
+-sizing: border-box;"><td colspan=3D"3" style=3D"box-sizing: border-box; pad=
+ding-left: 15px; padding-right: 15px;">&nbsp;</td></tr><tr style=3D"box-sizi=
+ng: border-box;"><td style=3D"box-sizing: border-box; padding-left: 15px; pa=
+dding-right: 15px;"><a href=3D"https://myui.clouduim.cdle.state.co.us/Claima=
+nt/Core/Navigate.aspx?Go=3DBenefits.Monetary.ClaimantBenefitsEstimate" style=
+=3D"text-decoration: none; color: rgb(30, 112, 160); box-sizing: border-box;=
+text-decoration-skip: objects;">Benefits Estimate</a><br style=3D"box-sizin=
+g: border-box;">View an estimate of potential benefits based on currently re=
+ported Colorado wages.</td><td style=3D"box-sizing: border-box; padding-left=
+: 15px; padding-right: 15px;"></td><td style=3D"box-sizing: border-box; padd=
+ing-left: 15px; padding-right: 15px;"><a href=3D"https://myui.clouduim.cdle.=
+state.co.us/Claimant/Core/Navigate.aspx?Go=3DBenefits.Payments.ProcessContin=
+uedClaimsNew" style=3D"text-decoration: none; color: rgb(30, 112, 160); box-=
+sizing: border-box; text-decoration-skip: objects;">Request Benefit Payment<=
+/a><br style=3D"box-sizing: border-box;">Complete a request for weekly benef=
+it payment.</td></tr><tr style=3D"box-sizing: border-box;"><td colspan=3D"3"=
+style=3D"box-sizing: border-box; padding-left: 15px; padding-right: 15px;">=
+&nbsp;</td></tr><tr style=3D"box-sizing: border-box;"><td style=3D"box-sizin=
+g: border-box; padding-left: 15px; padding-right: 15px;"><a href=3D"https://=
+myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3DCore.Navigat=
+ion&amp;Index=3D27" style=3D"text-decoration: none; color: rgb(30, 112, 160)=
+; box-sizing: border-box; text-decoration-skip: objects;">Manage Debt</a><br=
+style=3D"box-sizing: border-box;">Repay overpayment debt, create or view a p=
+ayment plan, view overpayment history, view repayment history, view debt not=
+ices, or request a waiver.</td><td colspan=3D"2" style=3D"box-sizing: border=
+-box; padding-left: 15px; padding-right: 15px;"></td></tr><tr style=3D"box-s=
+izing: border-box;"><td colspan=3D"3" style=3D"box-sizing: border-box; paddi=
+ng-left: 15px; padding-right: 15px;">&nbsp;</td></tr><tr style=3D"box-sizing=
+: border-box;"><td colspan=3D"3" style=3D"box-sizing: border-box; padding-le=
+ft: 15px; padding-right: 15px;"><hr style=3D"box-sizing: content-box; height=
+: 0px; overflow: visible; margin-top: 1rem; margin-bottom: 1rem; border-righ=
+t-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-s=
+tyle: solid; border-top-color: rgb(221, 221, 221);"></td></tr><tr style=3D"b=
+ox-sizing: border-box;"><td colspan=3D"3" style=3D"box-sizing: border-box; p=
+adding-left: 15px; padding-right: 15px;">&nbsp;</td></tr><tr style=3D"box-si=
+zing: border-box;"><td colspan=3D"3" style=3D"box-sizing: border-box; paddin=
+g-left: 15px; padding-right: 15px;"><hr style=3D"box-sizing: content-box; he=
+ight: 0px; overflow: visible; margin-top: 1rem; margin-bottom: 1rem; border-=
+right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-t=
+op-style: solid; border-top-color: rgb(221, 221, 221);"></td></tr></tbody></=
+table></div></div></div></div></div></div></div></div></div><footer class=3D=
+"clearfix" id=3D"footer_2" style=3D"box-sizing: border-box; clear: both; zoo=
+m: 1; line-height: 2.5; padding-top: 18px; text-align: center; margin-left: a=
+uto; margin-right: auto; min-width: 320px; width: 276px !important;"><div st=
+yle=3D"box-sizing: border-box;"><a accesskey=3D"T" href=3D"https://myui.clou=
+duim.cdle.state.co.us/Claimant/Core/Navigate.ASPX#" style=3D"text-decoration=
+: none; color: rgb(255, 255, 255); box-sizing: border-box; background-color:=
+rgba(255, 255, 255, 0.15); text-decoration-skip: objects; border-top-left-r=
+adius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; b=
+order-bottom-left-radius: 4px; margin-right: 8px; padding: 2px 1.39999997615=
+8142%; white-space: nowrap;"><span id=3D"cmdBacktoTop" title=3D"" style=3D"b=
+ox-sizing: border-box;">Back to Top</span></a><a href=3D"https://myui.cloudu=
+im.cdle.state.co.us/Static/Core/Accessibility.html" target=3D"_blank" class=3D=
+"grayLink" style=3D"text-decoration: none; color: rgb(255, 255, 255); box-si=
+zing: border-box; background-color: rgba(255, 255, 255, 0.15); text-decorati=
+on-skip: objects; border-top-left-radius: 4px; border-top-right-radius: 4px;=
+border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; margin-rig=
+ht: 8px; padding: 2px 1.399999976158142%; white-space: nowrap;"><span id=3D"=
+cmdContactEDD" title=3D"" style=3D"box-sizing: border-box;">Accessibility</s=
+pan></a><a href=3D"https://myui.clouduim.cdle.state.co.us/Static/Benefits/Pr=
+ivacy.html" target=3D"_blank" class=3D"grayLink" style=3D"text-decoration: n=
+one; color: rgb(255, 255, 255); box-sizing: border-box; background-color: rg=
+ba(255, 255, 255, 0.15); text-decoration-skip: objects; border-top-left-radi=
+us: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; bord=
+er-bottom-left-radius: 4px; margin-right: 8px; padding: 2px 1.39999997615814=
+2%; white-space: nowrap;"><span id=3D"cmdConditionsofUse" title=3D"" style=3D=
+"box-sizing: border-box;">Privacy Statement</span></a><a href=3D"https://myu=
+i.clouduim.cdle.state.co.us/Static/Core/ViewingTips.html" target=3D"_blank" c=
+lass=3D"grayLink" style=3D"text-decoration: none; color: rgb(255, 255, 255);=
+box-sizing: border-box; background-color: rgba(255, 255, 255, 0.15); text-d=
+ecoration-skip: objects; border-top-left-radius: 4px; border-top-right-radiu=
+s: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; mar=
+gin-right: 8px; padding: 2px 1.399999976158142%; white-space: nowrap;"><span=
+id=3D"cmdEqualOpportunityNotice" title=3D"" style=3D"box-sizing: border-box=
+;">Viewing Tips</span></a></div><div class=3D"copyright" style=3D"box-sizing=
+: border-box;"><font color=3D"white" face=3D"verdana" size=3D"4" style=3D"bo=
+x-sizing: border-box;">=C2=A9 2021 COLORADO DEPARTMENT OF LABOR AND EMPLOYME=
+NT<span style=3D"box-sizing: border-box; color: rgb(30, 104, 135) !important=
+;">.=C2=A7=E2=80=A2</span></font></div><div class=3D"top-bar" style=3D"box-s=
+izing: border-box; padding: 5px 0px; caret-color: rgb(85, 85, 85); color: rg=
+b(85, 85, 85);"><div class=3D"container" style=3D"box-sizing: border-box; wi=
+dth: 375px; padding-right: 15px; padding-left: 15px; margin-right: auto; mar=
+gin-left: auto;"><div class=3D"row" style=3D"box-sizing: border-box; display=
+: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;"><div clas=
+s=3D"col-md-2 logo" style=3D"box-sizing: border-box; position: relative; wid=
+th: 375px; min-height: 1px; padding-right: 15px; padding-left: 15px;"><img i=
+d=3D"logouFacts" src=3D"https://myui.clouduim.cdle.state.co.us/images/core/u=
+facts_logo.png" class=3D"img-fluid x-apple-edge-to-edge" alt=3D"CDLE" style=3D=
+"vertical-align: middle; box-sizing: border-box; border-style: none; height:=
+auto;" data-unique-identifier=3D""></div><div class=3D"col-md-10" style=3D"=
+box-sizing: border-box; position: relative; width: 375px; min-height: 1px; p=
+adding-right: 15px; padding-left: 15px;"><div class=3D"row" style=3D"box-siz=
+ing: border-box; display: flex; flex-wrap: wrap; margin-right: -15px; margin=
+-left: -15px;"><div class=3D"col-md-2" style=3D"box-sizing: border-box; posi=
+tion: relative; width: 375px; min-height: 1px; padding-right: 15px; padding-=
+left: 15px;"></div><div class=3D"col-md-10" style=3D"box-sizing: border-box;=
+position: relative; width: 375px; min-height: 1px; padding-right: 15px; pad=
+ding-left: 15px;"><div class=3D"top-bar-right" style=3D"box-sizing: border-b=
+ox; font-size: 12px; text-align: right; padding-right: 15px;"><a href=3D"htt=
+ps://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.ASPX#" aria-label=
+=3D"navigation link" class=3D"hidden-md hidden-lg main-nav-toggle" style=3D"=
+text-decoration: none; color: rgb(255, 255, 255); box-sizing: border-box; te=
+xt-decoration-skip: objects; float: left;"><svg class=3D"svg-inline--fa fa-b=
+ars fa-w-14" title=3D"Bars" aria-labelledby=3D"svg-inline--fa-title-1" data-=
+prefix=3D"fa" data-icon=3D"bars" role=3D"img" xmlns=3D"http://www.w3.org/200=
+0/svg" viewBox=3D"0 0 448 512" data-fa-i2svg=3D""><path fill=3D"currentColor=
+" d=3D"M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163=
+60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-1=
+6v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 1=
+6 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0=
+-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path></svg></a><div class=3D"l=
+ogged-user" style=3D"box-sizing: border-box; display: inline-block; vertical=
+-align: middle; zoom: 1;"><div class=3D"btn-group" style=3D"box-sizing: bord=
+er-box; position: relative; display: inline-flex; vertical-align: middle;"><=
+a href=3D"https://myui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.ASPX=
+#" class=3D"btn-link" style=3D"text-decoration: none; color: white; box-sizi=
+ng: border-box; text-decoration-skip: objects; border-color: transparent; pa=
+dding-left: 0px;">Friday, March 5, 2021</a>&nbsp;&nbsp;<a href=3D"https://my=
+ui.clouduim.cdle.state.co.us/Claimant/Core/Navigate.ASPX#" class=3D"btn-link=
+" data-toggle=3D"dropdown" style=3D"text-decoration: none; color: white; box=
+-sizing: border-box; text-decoration-skip: objects; border-color: transparen=
+t; padding-left: 0px;">CATALANO , THOMAS<span class=3D"caret" style=3D"box-s=
+izing: border-box;"></span></a><span class=3D"text" style=3D"box-sizing: bor=
+der-box;">&nbsp;&nbsp;&nbsp;</span><a href=3D"https://myui.clouduim.cdle.sta=
+te.co.us/Claimant/Core/Navigate.aspx?Go=3DCore.Login" style=3D"text-decorati=
+on: none; color: white; box-sizing: border-box; text-decoration-skip: object=
+s;">&nbsp;&nbsp;<svg class=3D"svg-inline--fa fa-power-off fa-w-16" title=3D"=
+Power Off" aria-labelledby=3D"svg-inline--fa-title-4" data-prefix=3D"fa" dat=
+a-icon=3D"power-off" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg" viewB=
+ox=3D"0 0 512 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D"M400 5=
+4.1c63 45 104 118.6 104 201.9 0 136.8-110.8 247.7-247.5 248C120 504.3 8.2 39=
+3 8 256.4 7.9 173.1 48.9 99.3 111.8 54.2c11.7-8.3 28-4.8 35 7.7L162.6 90c5.9=
+10.5 3.1 23.8-6.6 31-41.5 30.8-68 79.6-68 134.9-.1 92.3 74.5 168.1 168 168.=
+1 91.6 0 168.6-74.2 168-169.1-.3-51.8-24.7-101.8-68.1-134-9.7-7.2-12.4-20.5-=
+6.5-30.9l15.8-28.1c7-12.4 23.2-16.1 34.8-7.8zM296 264V24c0-13.3-10.7-24-24-2=
+4h-32c-13.3 0-24 10.7-24 24v240c0 13.3 10.7 24 24 24h32c13.3 0 24-10.7 24-24=
+z"></path></svg>&nbsp;<span class=3D"text" style=3D"box-sizing: border-box;"=
+Logoff&nbsp;</span></a></div></div><a href=3D"https://myui.clouduim.cdle.st=
+ate.co.us/Claimant/Core/Navigate.aspx?Go=3DCore.ChangePassword" style=3D"tex=
+t-decoration: none; color: white; box-sizing: border-box; text-decoration-sk=
+ip: objects;">&nbsp;&nbsp;<svg class=3D"svg-inline--fa fa-key fa-w-16 fa-rot=
+ate-270" title=3D"Key" aria-labelledby=3D"svg-inline--fa-title-5" data-prefi=
+x=3D"fa" data-icon=3D"key" role=3D"img" xmlns=3D"http://www.w3.org/2000/svg"=
+viewBox=3D"0 0 512 512" data-fa-i2svg=3D""><path fill=3D"currentColor" d=3D=
+"M512 176.001C512 273.203 433.202 352 336 352c-11.22 0-22.19-1.062-32.827-3.=
+069l-24.012 27.014A23.999 23.999 0 0 1 261.223 384H224v40c0 13.255-10.745 24=
+-24 24h-40v40c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24v-78.059c=
+0-6.365 2.529-12.47 7.029-16.971l161.802-161.802C163.108 213.814 160 195.271=
+160 176 160 78.798 238.797.001 335.999 0 433.488-.001 512 78.511 512 176.00=
+1zM336 128c0 26.51 21.49 48 48 48s48-21.49 48-48-21.49-48-48-48-48 21.49-48 4=
+8z"></path></svg>&nbsp;<span class=3D"text" style=3D"box-sizing: border-box;=
+">Change Password&nbsp;</span></a></div></div></div></div></div></div></div>=
+<div class=3D"bottom" style=3D"box-sizing: border-box; caret-color: rgb(85, 8=
+5, 85); color: rgb(85, 85, 85);"><div class=3D"container" style=3D"box-sizin=
+g: border-box; width: 375px; padding-right: 15px; padding-left: 15px; margin=
+-right: auto; margin-left: auto;"><div class=3D"row" style=3D"box-sizing: bo=
+rder-box; display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -=
+15px;"><div class=3D"content-wrapper" style=3D"box-sizing: border-box; paddi=
+ng: 15px; min-height: 670px; margin-left: 0px; width: 100vw; background-colo=
+r: rgb(249, 249, 249); border-left-width: 1px; border-left-style: solid; bor=
+der-left-color: rgb(228, 228, 228); height: auto !important;"><div class=3D"=
+row" style=3D"box-sizing: border-box; display: flex; flex-wrap: wrap; margin=
+-right: -15px; margin-left: -15px;"></div><div data-step=3D"1" data-intro=3D=
+"Enhanced Last Staff Searches" data-position=3D"down" style=3D"box-sizing: b=
+order-box; padding-top: 7px;"></div><div class=3D"row breadCrumbsContainer" s=
+tyle=3D"box-sizing: border-box; display: flex; flex-wrap: wrap; margin-right=
+: -15px; margin-left: -15px;"><div class=3D"col-md-7 breadCrumbsDiv " style=3D=
+"box-sizing: border-box; position: relative; width: 374px; min-height: 1px; p=
+adding-right: 15px; padding-left: 15px;"><ul class=3D"breadcrumb" style=3D"m=
+argin-bottom: 5px; padding: 15px 1rem 0.75rem 0px; box-sizing: border-box; d=
+isplay: flex; flex-wrap: wrap; list-style: none; border-top-left-radius: 0.2=
+5rem; border-top-right-radius: 0.25rem; border-bottom-right-radius: 0.25rem;=
+border-bottom-left-radius: 0.25rem;"><li style=3D"box-sizing: border-box;">=
+<svg data-translate=3D"home" aria-hidden=3D"true" class=3D"svg-inline--fa fa=
+-home fa-w-18" data-prefix=3D"fa" data-icon=3D"home" role=3D"img" xmlns=3D"h=
+ttp://www.w3.org/2000/svg" viewBox=3D"0 0 576 512" data-fa-i2svg=3D""><path f=
+ill=3D"currentColor" d=3D"M488 312.7V456c0 13.3-10.7 24-24 24H348c-6.6 0-12-=
+5.4-12-12V356c0-6.6-5.4-12-12-12h-72c-6.6 0-12 5.4-12 12v112c0 6.6-5.4 12-12=
+12H112c-13.3 0-24-10.7-24-24V312.7c0-3.6 1.6-7 4.4-9.3l188-154.8c4.4-3.6 10=
+.8-3.6 15.3 0l188 154.8c2.7 2.3 4.3 5.7 4.3 9.3zm83.6-60.9L488 182.9V44.4c0-=
+6.6-5.4-12-12-12h-56c-6.6 0-12 5.4-12 12V117l-89.5-73.7c-17.7-14.6-43.3-14.6=
+-61 0L4.4 251.8c-5.1 4.2-5.8 11.8-1.6 16.9l25.5 31c4.2 5.1 11.8 5.8 16.9 1.6=
+l235.2-193.7c4.4-3.6 10.8-3.6 15.3 0l235.2 193.7c5.1 4.2 12.7 3.5 16.9-1.6l2=
+5.5-31c4.2-5.2 3.4-12.7-1.7-16.9z"></path></svg><a href=3D"https://myui.clou=
+duim.cdle.state.co.us/Claimant/Core/Navigate.aspx?Go=3DCore.Navigation&amp;I=
+ndex=3D-1" style=3D"text-decoration: none; color: rgb(85, 85, 85); box-sizin=
+g: border-box; text-decoration-skip: objects;">Home</a></li></ul></div><div c=
+lass=3D"col-md-5 " style=3D"box-sizing: border-box; position: relative; widt=
+h: 374px; min-height: 1px; padding-right: 15px; padding-left: 15px;"><div cl=
+ass=3D"top-content" style=3D"box-sizing: border-box; text-align: right; marg=
+in-bottom: 10px; padding-top: 15px;"><
+
+||||_•”’THOMAS-j._Catalano’*”’•_||||
+
+Begin forwarded message:
+Secretary of State logo - cube with a C in itColorado 
 Secretary of State 
 Jena Griswold
 Magnifying glass - click to search
